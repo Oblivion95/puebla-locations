@@ -11,7 +11,7 @@ const puebla = require("./puebla.json");
       .map((feature) => ({ zipCode: feature.properties.d_cp, coordinates: feature.geometry.coordinates }))
       .filter(({ coordinates }) => Array.isArray(coordinates)).map(({ zipCode, coordinates }) => ({ zipCode, coordinates: coordinates[0] })).reduce((acc, { zipCode, coordinates }) => ({ ...acc, [zipCode]: {
         zipCode,
-        coordinates
+        coordinates: coordinates.map(([longitude, latitude]) => [latitude, longitude])
       } }), {});
 
   fs.writeFileSync(
