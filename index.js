@@ -1,10 +1,12 @@
 const express = require("express");
 const app = express();
 const locations = require("./puebla-cp.json");
+const cors = require("cors");
 
 const port = 3001;
 
 app.use(express.json());
+app.use(cors());
 
 app
   .get("/api/locations", (req, res) => {
