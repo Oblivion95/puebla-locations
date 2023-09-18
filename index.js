@@ -46,7 +46,7 @@ server.use(
  // Add custom route here if needed
  jsonServer.rewriter({
   "/api/*": "/$1",
-  "/municipalities/*": "/municipalities?zipCode=$1"
+  // "/municipalities/*": "/municipalities?zipCode=$1"
  })
 );
 server.use(router);
