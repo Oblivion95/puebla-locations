@@ -2,36 +2,45 @@ const fs = require("fs");
 const path = require("path");
 
 const COLORS = [
-  "#264653",
-  "#2a9d8f",
-  "#e9c46a",
-  "#f4a261",
-  "#e76f51",
-  "#606c38",
-  "#283618",
-  "#fefae0",
-  "#dda15e",
-  "#bc6c25",
-  "#ee6055",
-  "#60d394",
-  "#aaf683",
-  "#ffd97d",
-  "#ff9b85",
-  "#07beb8",
-  "#3dccc7",
-  "#68d8d6",
-  "#9ceaef",
-  "#c4fff9",
-  "#54478c",
   "#2c699a",
   "#048ba8",
   "#0db39e",
   "#16db93",
   "#83e377",
   "#b9e769",
-  "#efea5a",
   "#f1c453",
   "#f29e4c",
+  "#efea5a",
+  "#54478c",
+  "#606c38",
+  "#aaf683",
+  "#b98b73",
+  "#f9c74f",
+
+
+
+  "#560bad",
+  "#480ca8",
+  "#3a0ca3",
+
+  "#2a9d8f",
+  "#e9c46a",
+  "#f4a261",
+  "#ff9b85",
+  "#60d394",
+  "#ffd97d",
+  "#264653",
+  "#e76f51",
+  "#606c38",
+  "#bc6c25",
+  "#ee6055",
+  "#aaf683",
+  "#07beb8",
+  "#3dccc7",
+  "#68d8d6",
+  "#9ceaef",
+  "#c4fff9",
+
   "#b98b73",
   "#cb997e",
   "#ddbea9",
@@ -80,85 +89,81 @@ const COLORS = [
   "#1a759f",
   "#1e6091",
   "#184e77"
-
-
-
-
 ];
 
 (() => {
-  const locations = require("./puebla.json");
-  const { features } = locations;
-  const zonesLength = 9;
+  // const locations = require("./puebla.json");
+  // const { features } = locations;
+  // const zonesLength = 9;
 
-  const zones = Array.from({ length: zonesLength }, (_, i) => i + 1).map(
-    (zone) => `zona-${zone}`
-  );
-  const pages = 10;
+  // const zones = Array.from({ length: zonesLength }, (_, i) => i + 1).map(
+  //   (zone) => `zona-${zone}`
+  // );
+  // const pages = 10;
 
-  let municipalities = features
-    .slice(0, zonesLength * pages)
-    .map((feature) => ({
-      zipCode: feature.properties.d_cp,
-      coordinates: feature.geometry.coordinates,
-      ...feature,
-    }))
-    .filter(({ coordinates, zipCode, ...rest }) => {
-      return Array.isArray(coordinates);
-    })
-    .map(({ zipCode, coordinates }) => ({
-      zipCode,
-      coordinates: coordinates[0].map(([longitude, latitude]) => [
-        latitude,
-        longitude,
-      ]),
-    }));
+  // let municipalities = features
+  //   .slice(0, zonesLength * pages)
+  //   .map((feature) => ({
+  //     zipCode: feature.properties.d_cp,
+  //     coordinates: feature.geometry.coordinates,
+  //     ...feature,
+  //   }))
+  //   .filter(({ coordinates, zipCode, ...rest }) => {
+  //     return Array.isArray(coordinates);
+  //   })
+  //   .map(({ zipCode, coordinates }) => ({
+  //     zipCode,
+  //     coordinates: coordinates[0].map(([longitude, latitude]) => [
+  //       latitude,
+  //       longitude,
+  //     ]),
+  //   }));
 
-  municipalities = zones.reduce((prev, zone, index) => {
-    const municipalitiesSlice = municipalities.slice(
-      index * zonesLength,
-      index * zonesLength + zonesLength
-    );
+  // municipalities = zones.reduce((prev, zone, index) => {
+  //   const municipalitiesSlice = municipalities.slice(
+  //     index * zonesLength,
+  //     index * zonesLength + zonesLength
+  //   );
 
-    const v = prev.concat(
-      municipalitiesSlice.map((municipality) => ({
-        ...municipality,
-        zone,
-      }))
-    );
+  //   const v = prev.concat(
+  //     municipalitiesSlice.map((municipality) => ({
+  //       ...municipality,
+  //       zone,
+  //     }))
+  //   );
 
-    return v;
-  }, []);
+  //   return v;
+  // }, []);
 
-  let puebla_boundary =
-    require("./puebla-boundary.json").features[0].geometry.coordinates[0][0].map(
-      ([longitude, latitude]) => [latitude, longitude]
-    );
+  // let puebla_boundary =
+  //   require("./puebla-boundary.json").features[0].geometry.coordinates[0][0].map(
+  //     ([longitude, latitude]) => [latitude, longitude]
+  //   );
 
-  let counties = require("./puebla-counties.json").features.map(
-    ({ geometry: { coordinates }, properties: { nomgeo } }) => {
-      const boundary = coordinates[0][0].map(([longitude, latitude]) => [
-        latitude,
-        longitude,
-      ]);
+  // let counties = require("./puebla-counties.json").features.map(
+  //   ({ geometry: { coordinates }, properties: { nomgeo } }) => {
+  //     const boundary = coordinates[0][0].map(([longitude, latitude]) => [
+  //       latitude,
+  //       longitude,
+  //     ]);
 
-      return {
-        boundary,
-        name: nomgeo,
-        coordinates: boundary[boundary.length / 2],
-        color: COLORS[Math.floor(Math.random() * COLORS.length)],
-      };
-    }
-  );
+  //     return {
+  //       boundary,
+  //       name: nomgeo,
+  //       coordinates: boundary[boundary.length / 2],
+  //       color: COLORS[Math.floor(Math.random() * COLORS.length)],
+  //     };
+  //   }
+  // );
 
   const db = {
     // municipalities,
     // puebla: [{ coordinates: puebla_boundary }],
-    counties,
+    // counties,
   };
 
   fs.writeFileSync(
-    path.join(__dirname, "puebla-cp.json"),
+    path.join(__dirname, "./model/db.json"),
     JSON.stringify(db, null, 2)
   );
 })();

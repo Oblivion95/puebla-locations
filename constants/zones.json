@@ -1,0 +1,157 @@
+{
+  "zones": [
+    {
+      "id": 1,
+      "name": "zona-1",
+      "goal": 58823,
+      "promoted": 45930,
+      "progress": 78.0817,
+      "contributionToTotal": 4.593,
+      "color": "#54478c"
+    },
+    {
+      "id": 2,
+      "name": "zona-2",
+      "goal": 58823,
+      "promoted": 27218,
+      "progress": 46.27102,
+      "contributionToTotal": 2.7218,
+      "color": "#2c699a"
+    },
+    {
+      "id": 3,
+      "name": "zona-3",
+      "goal": 58823,
+      "promoted": 45282,
+      "progress": 76.98009,
+      "contributionToTotal": 4.5282,
+      "color": "#048ba8"
+    },
+    {
+      "id": 4,
+      "name": "zona-4",
+      "goal": 58823,
+      "promoted": 36612,
+      "progress": 62.24096,
+      "contributionToTotal": 3.6612,
+      "color": "#0db39e"
+    },
+    {
+      "id": 5,
+      "name": "zona-5",
+      "goal": 58823,
+      "promoted": 30619,
+      "progress": 52.05277,
+      "contributionToTotal": 3.0619,
+      "color": "#16db93"
+    },
+    {
+      "id": 6,
+      "name": "zona-6",
+      "goal": 58823,
+      "promoted": 9569,
+      "progress": 16.26745,
+      "contributionToTotal": 0.9569,
+      "color": "#83e377"
+    },
+    {
+      "id": 7,
+      "name": "zona-7",
+      "goal": 58823,
+      "promoted": 7135,
+      "progress": 12.12961,
+      "contributionToTotal": 0.7135,
+      "color": "#aaf683"
+    },
+    {
+      "id": 8,
+      "name": "zona-8",
+      "goal": 58823,
+      "promoted": 20933,
+      "progress": 35.58642,
+      "contributionToTotal": 2.0933,
+      "color": "#b9e769"
+    },
+    {
+      "id": 9,
+      "name": "zona-9",
+      "goal": 58823,
+      "promoted": 7660,
+      "progress": 13.02212,
+      "contributionToTotal": 0.766,
+      "color": "#efea5a"
+    },
+    {
+      "id": 10,
+      "name": "zona-10",
+      "goal": 58823,
+      "promoted": 21486,
+      "progress": 36.52653,
+      "contributionToTotal": 2.1486,
+      "color": "#f1c453"
+    },
+    {
+      "id": 11,
+      "name": "zona-11",
+      "goal": 58823,
+      "promoted": 8576,
+      "progress": 14.57933,
+      "contributionToTotal": 0.8576,
+      "color": "#f9c74f"
+    },
+    {
+      "id": 12,
+      "name": "zona-12",
+      "goal": 58823,
+      "promoted": 40014,
+      "progress": 68.02441,
+      "contributionToTotal": 4.0014,
+      "color": "#ffd97d"
+    },
+    {
+      "id": 13,
+      "name": "zona-13",
+      "goal": 58823,
+      "promoted": 38189,
+      "progress": 64.92188,
+      "contributionToTotal": 3.8189,
+      "color": "#ff9b85"
+    },
+    {
+      "id": 14,
+      "name": "zona-14",
+      "goal": 58823,
+      "promoted": 16644,
+      "progress": 28.29505,
+      "contributionToTotal": 1.6644,
+      "color": "#ff6f69"
+    },
+    {
+      "id": 15,
+      "name": "zona-15",
+      "goal": 58823,
+      "promoted": 44050,
+      "progress": 74.88567,
+      "contributionToTotal": 4.405,
+      "color": "#ee6055"
+    },
+    {
+      "id": 16,
+      "name": "zona-16",
+      "goal": 58823,
+      "promoted": 22662,
+      "progress": 38.52575,
+      "contributionToTotal": 2.2662,
+      "color": "#f9844a"
+    },
+    {
+      "id": 17,
+      "name": "zona-17",
+      "goal": 58823,
+      "promoted": 28227,
+      "progress": 47.98633,
+      "contributionToTotal": 2.8227,
+      "color": "#f29e4c"
+    }
+  ]
+}
