@@ -8,8 +8,7 @@ routes
 
     return res.status(200).json(zones);
   })
-  .get("/zones/counties", (req, res) => {
-
+  .get("/zones/:zone/counties", (req, res) => {
     try {
       const result = counties.getCountiesZone(req, res);
 
@@ -21,7 +20,18 @@ routes
       return res.status(status).json({ message: message });
     }
 
-  });
+  }).get("/zones/:zone/counties/:county", (req, res) => {
+    try {
+      const result = counties.getCountiesZone(req, res);
+
+      return res.status(200).json(result);
+
+    } catch ({ status, message }) {
+      console.error(message);
+
+      return res.status(status).json({ message: message });
+    }
+  })
 
 
 module.exports = routes;

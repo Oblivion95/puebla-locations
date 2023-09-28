@@ -37,8 +37,8 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
-const zonesRoutes = require("./routes/api/zones");
-const mapRoutes = require("./routes/location/map");
+const zonesRoutes = require("./routes/api/zones.route");
+const mapRoutes = require("./routes/location/map.route");
 
 const port = 3001;
 
@@ -47,10 +47,15 @@ app.use(cors());
 
 app.use("/api", zonesRoutes);
 app.use("/maps", mapRoutes);
+app.get("/", (req, res) => {
+  res.send("Hello World!");
+});
 
 app.listen(port, () => {
   console.log(`listening on port ${port}`);
 });
+
+module.exports = app;
 
 // JSON Server module
 // const jsonServer = require("json-server");

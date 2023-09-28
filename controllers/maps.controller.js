@@ -1,12 +1,23 @@
-module.exports.getStateZones = (req, res) => {
-  const { zone } = req.query;
-  const zones = require("../constants/puebla-counties-by-zone.json");
+const MapsServices = require("../services/maps.services");
 
-  if (zone) {
-    const resp = zones.filter((z) => z.zone === zone);
+const getStateZones = (req, res) => {
+  try {
+    const resp = MapsServices.getStateZones(req, res);
 
-    return resp;
+    return { resp, status: 200 };
+  } catch (error) {
+    return { resp: error.message, status: 404 };
   }
-
-  return zones;
 };
+
+const getCountyMunicipalities = (req, res) => {
+  try {
+    const resp = MapsServices.getCountyMunicipalities(req, res)
+
+    return { resp, status: 200 };
+  } catch (error) {
+    return { resp: error.message, status: 404 };
+  }
+};
+
+module.exports = { getStateZones, getCountyMunicipalities };
