@@ -1,3 +1,8 @@
+const { getZipCodes } = require("../utils/get-zc-by-county");
+const { extractJSONByZipCode } = require("../utils/extract-zip-code");
+
+const getZones = (req, res) => {};
+
 const getStateZones = (req, res) => {
   const { zone } = req.params;
   const zones = require("../constants/puebla-counties-by-zone.json");
@@ -15,27 +20,43 @@ const getStateZones = (req, res) => {
   return zones;
 };
 
-
-const getCountyMunicipalities = (req, res) => {
+const getZoneCounties = (req, res) => {
   let { county } = req.params;
   const [{ geoJSON }] = getStateZones(req, res);
 
-  county = county.replace(/%20|\+/g, " ")
-  console.table({ county });
+  county = county.replace(/%20|\+/g, " ");
 
   const resp = geoJSON.features.filter(
     (feature) => feature.properties.nomgeo === county
-
   );
 
   if (!resp.length) {
     throw Error("County not found");
   }
 
-  return resp;
+  return {
+    type: "FeatureCollection",
+    features: resp,
+  };
+};
+
+const getCountyZones = async (req, res) => {
+  let { county } = req.params;
+  county = county.replace(/\s/g, "%20");
+
+  const zipCodes = await getZipCodes(county);
+  const features = extractJSONByZipCode(zipCodes);
+
+  if (!zipCodes.length) {
+    throw Error("County not found");
+  }
+
+  return { type: "FeatureCollection", features };
 };
 
 module.exports = {
+  getZones,
   getStateZones,
-  getCountyMunicipalities,
+  getZoneCounties,
+  getCountyZones,
 };

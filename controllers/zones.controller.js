@@ -1,5 +1,9 @@
-const getCountiesZone = (req, res) => {
-  const counties = require("../constants/counties-by-zone.json");
+const { getZipCodes } = require("../utils/get-zc-by-county");
+const counties = require("../constants/counties-by-zone.json");
+const { MAX_PROMOTIONS } = require("../constants/stats.json");
+const { faker } = require("@faker-js/faker");
+
+const getZoneCounties = (req, res) => {
 
   const { zone } = req.params;
 
@@ -12,21 +16,43 @@ const getCountiesZone = (req, res) => {
   return zoneCounties;
 };
 
-const getMunicipalitiesCounty = (req, res) => {
-  const municipalities = require("../constants/municipalities-by-county.json");
+const getCountyZones = async (req, res) => {
+  let { zone, county } = req.params;
 
-  const { county } = req.params;
+  if (!zone) {
+    throw { message: "Missing zone", status: 400 };
+  }
 
   if (!county) {
     throw { message: "Missing county", status: 400 };
   }
 
-  const countyMunicipalities = { municipalities: municipalities[county] };
+  county = county.replace(/%20|\+/g, " ");
 
-  return countyMunicipalities;
+  const [countyStats] = counties[zone].filter((c) => c.name === county);
+  const zipCodes = await getZipCodes(county);
+
+  const sections = {};
+
+  sections.sections= Array.from({ length: zipCodes.length }, (_, index) => {
+    const promoted = faker.number.int({
+      min: 10,
+      max: countyStats.goal * 0.4 | 0,
+    });
+
+    return {
+      name: `sección ${index + 1}`,
+      promoted,
+      progress: +(promoted / countyStats.goal * 100).toFixed(5),
+      contributionToGlobal: +(promoted / MAX_PROMOTIONS * 100).toFixed(5),
+    }
+  });
+
+
+  return sections;
 };
 
 module.exports = {
-  getCountiesZone,
-  getMunicipalitiesCounty,
+  getZoneCounties,
+  getCountyZones,
 };

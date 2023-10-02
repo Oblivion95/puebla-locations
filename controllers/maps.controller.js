@@ -10,9 +10,9 @@ const getStateZones = (req, res) => {
   }
 };
 
-const getCountyMunicipalities = (req, res) => {
+const getZoneCounties = (req, res) => {
   try {
-    const resp = MapsServices.getCountyMunicipalities(req, res)
+    const resp = MapsServices.getZoneCounties(req, res);
 
     return { resp, status: 200 };
   } catch (error) {
@@ -20,4 +20,14 @@ const getCountyMunicipalities = (req, res) => {
   }
 };
 
-module.exports = { getStateZones, getCountyMunicipalities };
+const getCountyZones = async (req, res) => {
+  try {
+    const resp = await MapsServices.getCountyZones(req, res);
+
+    return { resp, status: 200 };
+  } catch (error) {
+    return { resp: error.message, status: 404 };
+  }
+};
+
+module.exports = { getStateZones, getZoneCounties, getCountyZones };
