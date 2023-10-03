@@ -40,15 +40,16 @@ const getZoneCounties = (req, res) => {
       features: resp,
       county,
       zone,
+      id: zone,
     },
   ];
 };
 
 const getCountyZones = async (req, res) => {
-  let { county, zone } = req.params;
-  county = county.replace(/\s/g, "%20");
+  const { county, zone } = req.params;
+  const _county = county.replace(/\s/g, "%20");
 
-  const zipCodes = await getZipCodes(county);
+  const zipCodes = await getZipCodes(_county);
   const features = extractJSONByZipCode(zipCodes);
 
   if (!zipCodes.length) {
@@ -60,10 +61,7 @@ const getCountyZones = async (req, res) => {
       geoJSON: { type: "FeatureCollection", features },
       county,
       zone,
-      properties: {
-        county,
-        zone,
-      },
+      id: county,
     },
   ];
 };

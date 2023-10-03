@@ -34,6 +34,8 @@ const getCountyZones = async (req, res) => {
 
   const sections = {};
 
+  console.log('zipCodes.length', zipCodes.length);
+
   sections.sections= Array.from({ length: zipCodes.length }, (_, index) => {
     const promoted = faker.number.int({
       min: 10,

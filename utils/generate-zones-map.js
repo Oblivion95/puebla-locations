@@ -26,7 +26,7 @@ exports.zonesMap = ((mapType) => {
           },
         }));
 
-      return prev.concat({ geoJSON: {  type: "FeatureCollection", features: v }, zone, fill });
+      return prev.concat({ geoJSON: {  type: "FeatureCollection", features: v }, zone, fill, id: zone });
     },
     []
   );

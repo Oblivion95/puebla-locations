@@ -2,6 +2,7 @@ const router = require("express").Router();
 const MapsController = require("../../controllers/maps.controller");
 
 router
+  .get("/", (req, res) => {})
   .get("/zones", (req, res) => {
     const { resp, status } = MapsController.getStateZones(req, res);
 
