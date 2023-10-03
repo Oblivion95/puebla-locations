@@ -9,6 +9,7 @@
     "generate-db": "node script.js"
   },
   "dependencies": {
+    "@faker-js/faker": "^8.1.0",
     "@turf/buffer": "^6.5.0",
     "@turf/collect": "^6.5.0",
     "@turf/turf": "^6.5.0",

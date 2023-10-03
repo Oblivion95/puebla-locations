@@ -21,7 +21,7 @@ const getStateZones = (req, res) => {
 };
 
 const getZoneCounties = (req, res) => {
-  let { county } = req.params;
+  let { county, zone } = req.params;
   const [{ geoJSON }] = getStateZones(req, res);
 
   county = county.replace(/%20|\+/g, " ");
@@ -34,14 +34,18 @@ const getZoneCounties = (req, res) => {
     throw Error("County not found");
   }
 
-  return {
-    type: "FeatureCollection",
-    features: resp,
-  };
+  return [
+    {
+      type: "FeatureCollection",
+      features: resp,
+      county,
+      zone,
+    },
+  ];
 };
 
 const getCountyZones = async (req, res) => {
-  let { county } = req.params;
+  let { county, zone } = req.params;
   county = county.replace(/\s/g, "%20");
 
   const zipCodes = await getZipCodes(county);
@@ -51,7 +55,17 @@ const getCountyZones = async (req, res) => {
     throw Error("County not found");
   }
 
-  return { type: "FeatureCollection", features };
+  return [
+    {
+      geoJSON: { type: "FeatureCollection", features },
+      county,
+      zone,
+      properties: {
+        county,
+        zone,
+      },
+    },
+  ];
 };
 
 module.exports = {
