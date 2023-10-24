@@ -9,7 +9,7 @@ exports.zonesMap = ((mapType) => {
     (prev, { name: zone, color: fill }, index) => {
       const step = index * countiesPerZone;
 
-      const v = map.features
+      const features = map.features
         .sort(
           (a, b) =>
             b.geometry.coordinates[0][0][0][1] -
@@ -26,7 +26,7 @@ exports.zonesMap = ((mapType) => {
           },
         }));
 
-      return prev.concat({ geoJSON: {  type: "FeatureCollection", features: v }, zone, fill, id: zone });
+      return prev.concat({ geoJSON: {  type: "FeatureCollection", features }, zone, fill, id: zone });
     },
     []
   );

@@ -1,1772 +1,1874 @@
 {
-  "zona-1": [
-    {
-      "name": "Francisco Z. Mena",
-      "zone": "zona-1",
-      "goal": 4901,
-      "promoted": 2804,
-      "progress": 57.21281,
-      "contributionToTotal": 0.2804
-    },
-    {
-      "name": "Pantepec",
-      "zone": "zona-1",
-      "goal": 4901,
-      "promoted": 1050,
-      "progress": 21.4242,
-      "contributionToTotal": 0.105
-    },
-    {
-      "name": "Venustiano Carranza",
-      "zone": "zona-1",
-      "goal": 4901,
-      "promoted": 2283,
-      "progress": 46.58233,
-      "contributionToTotal": 0.2283
-    },
-    {
-      "name": "Jalpan",
-      "zone": "zona-1",
-      "goal": 4901,
-      "promoted": 2494,
-      "progress": 50.88757,
-      "contributionToTotal": 0.2494
-    },
-    {
-      "name": "Tlacuilotepec",
-      "zone": "zona-1",
-      "goal": 4901,
-      "promoted": 2506,
-      "progress": 51.13242,
-      "contributionToTotal": 0.2506
-    },
-    {
-      "name": "Tlaxco",
-      "zone": "zona-1",
-      "goal": 4901,
-      "promoted": 2990,
-      "progress": 61.00796,
-      "contributionToTotal": 0.299
-    },
-    {
-      "name": "Pahuatlán",
-      "zone": "zona-1",
-      "goal": 4901,
-      "promoted": 1048,
-      "progress": 21.38339,
-      "contributionToTotal": 0.1048
-    },
-    {
-      "name": "Honey",
-      "zone": "zona-1",
-      "goal": 4901,
-      "promoted": 1148,
-      "progress": 23.42379,
-      "contributionToTotal": 0.1148
-    },
-    {
-      "name": "Naupan",
-      "zone": "zona-1",
-      "goal": 4901,
-      "promoted": 606,
-      "progress": 12.36482,
-      "contributionToTotal": 0.0606
-    },
-    {
-      "name": "Huauchinango",
-      "zone": "zona-1",
-      "goal": 4901,
-      "promoted": 355,
-      "progress": 7.24342,
-      "contributionToTotal": 0.0355
-    },
-    {
-      "name": "Jopala",
-      "zone": "zona-1",
-      "goal": 4901,
-      "promoted": 2249,
-      "progress": 45.88859,
-      "contributionToTotal": 0.2249
-    },
-    {
-      "name": "Xicotepec",
-      "zone": "zona-1",
-      "goal": 4901,
-      "promoted": 3851,
-      "progress": 78.5758,
-      "contributionToTotal": 0.3851
+  "zona-1": {
+    "db": [
+      {
+        "name": "Francisco Z. Mena",
+        "zone": "zona-1",
+        "goal": 3623,
+        "promoted": 554,
+        "progress": 15.2912,
+        "contributionToGlobal": 0.0554
+      },
+      {
+        "name": "Pantepec",
+        "zone": "zona-1",
+        "goal": 3623,
+        "promoted": 701,
+        "progress": 19.34861,
+        "contributionToGlobal": 0.0701
+      },
+      {
+        "name": "Venustiano Carranza",
+        "zone": "zona-1",
+        "goal": 3623,
+        "promoted": 797,
+        "progress": 21.99834,
+        "contributionToGlobal": 0.0797
+      },
+      {
+        "name": "Jalpan",
+        "zone": "zona-1",
+        "goal": 3623,
+        "promoted": 1560,
+        "progress": 43.05824,
+        "contributionToGlobal": 0.156
+      },
+      {
+        "name": "Tlacuilotepec",
+        "zone": "zona-1",
+        "goal": 3623,
+        "promoted": 1424,
+        "progress": 39.30444,
+        "contributionToGlobal": 0.1424
+      },
+      {
+        "name": "Tlaxco",
+        "zone": "zona-1",
+        "goal": 3623,
+        "promoted": 1890,
+        "progress": 52.16671,
+        "contributionToGlobal": 0.189
+      },
+      {
+        "name": "Pahuatlán",
+        "zone": "zona-1",
+        "goal": 3623,
+        "promoted": 1347,
+        "progress": 37.17913,
+        "contributionToGlobal": 0.1347
+      },
+      {
+        "name": "Honey",
+        "zone": "zona-1",
+        "goal": 3623,
+        "promoted": 1084,
+        "progress": 29.91996,
+        "contributionToGlobal": 0.1084
+      },
+      {
+        "name": "Naupan",
+        "zone": "zona-1",
+        "goal": 3623,
+        "promoted": 2116,
+        "progress": 58.40464,
+        "contributionToGlobal": 0.2116
+      },
+      {
+        "name": "Huauchinango",
+        "zone": "zona-1",
+        "goal": 3623,
+        "promoted": 1718,
+        "progress": 47.41927,
+        "contributionToGlobal": 0.1718
+      },
+      {
+        "name": "Jopala",
+        "zone": "zona-1",
+        "goal": 3623,
+        "promoted": 2786,
+        "progress": 76.8976,
+        "contributionToGlobal": 0.2786
+      },
+      {
+        "name": "Xicotepec",
+        "zone": "zona-1",
+        "goal": 3623,
+        "promoted": 87,
+        "progress": 2.40132,
+        "contributionToGlobal": 0.0087
+      }
+    ],
+    "meta": {
+      "totalPromoted": 16064,
+      "totalContributionToGlobal": 1.6063999999999998
     }
-  ],
-  "zona-2": [
-    {
-      "name": "Zihuateutla",
-      "zone": "zona-2",
-      "goal": 4524,
-      "promoted": 3510,
-      "progress": 77.58621,
-      "contributionToTotal": 0.351
-    },
-    {
-      "name": "Tenampulco",
-      "zone": "zona-2",
-      "goal": 4524,
-      "promoted": 1001,
-      "progress": 22.12644,
-      "contributionToTotal": 0.1001
-    },
-    {
-      "name": "Juan Galindo",
-      "zone": "zona-2",
-      "goal": 4524,
-      "promoted": 3422,
-      "progress": 75.64103,
-      "contributionToTotal": 0.3422
-    },
-    {
-      "name": "Tlaola",
-      "zone": "zona-2",
-      "goal": 4524,
-      "promoted": 457,
-      "progress": 10.10168,
-      "contributionToTotal": 0.0457
-    },
-    {
-      "name": "Hueytamalco",
-      "zone": "zona-2",
-      "goal": 4524,
-      "promoted": 304,
-      "progress": 6.71972,
-      "contributionToTotal": 0.0304
-    },
-    {
-      "name": "Tlapacoya",
-      "zone": "zona-2",
-      "goal": 4524,
-      "promoted": 2283,
-      "progress": 50.46419,
-      "contributionToTotal": 0.2283
-    },
-    {
-      "name": "Acateno",
-      "zone": "zona-2",
-      "goal": 4524,
-      "promoted": 3520,
-      "progress": 77.80725,
-      "contributionToTotal": 0.352
-    },
-    {
-      "name": "Olintla",
-      "zone": "zona-2",
-      "goal": 4524,
-      "promoted": 2647,
-      "progress": 58.51017,
-      "contributionToTotal": 0.2647
-    },
-    {
-      "name": "Huehuetla",
-      "zone": "zona-2",
-      "goal": 4524,
-      "promoted": 3104,
-      "progress": 68.61185,
-      "contributionToTotal": 0.3104
-    },
-    {
-      "name": "Hermenegildo Galeana",
-      "zone": "zona-2",
-      "goal": 4524,
-      "promoted": 1104,
-      "progress": 24.40318,
-      "contributionToTotal": 0.1104
-    },
-    {
-      "name": "Tuzamapan de Galeana",
-      "zone": "zona-2",
-      "goal": 4524,
-      "promoted": 2454,
-      "progress": 54.24403,
-      "contributionToTotal": 0.2454
-    },
-    {
-      "name": "San Felipe Tepatlán",
-      "zone": "zona-2",
-      "goal": 4524,
-      "promoted": 2280,
-      "progress": 50.39788,
-      "contributionToTotal": 0.228
-    },
-    {
-      "name": "Ayotoxco de Guerrero",
-      "zone": "zona-2",
-      "goal": 4524,
-      "promoted": 2782,
-      "progress": 61.49425,
-      "contributionToTotal": 0.2782
+  },
+  "zona-2": {
+    "db": [
+      {
+        "name": "Zihuateutla",
+        "zone": "zona-2",
+        "goal": 3344,
+        "promoted": 398,
+        "progress": 11.90191,
+        "contributionToGlobal": 0.0398
+      },
+      {
+        "name": "Tenampulco",
+        "zone": "zona-2",
+        "goal": 3344,
+        "promoted": 1763,
+        "progress": 52.72129,
+        "contributionToGlobal": 0.1763
+      },
+      {
+        "name": "Juan Galindo",
+        "zone": "zona-2",
+        "goal": 3344,
+        "promoted": 2122,
+        "progress": 63.45694,
+        "contributionToGlobal": 0.2122
+      },
+      {
+        "name": "Tlaola",
+        "zone": "zona-2",
+        "goal": 3344,
+        "promoted": 1642,
+        "progress": 49.10287,
+        "contributionToGlobal": 0.1642
+      },
+      {
+        "name": "Hueytamalco",
+        "zone": "zona-2",
+        "goal": 3344,
+        "promoted": 495,
+        "progress": 14.80263,
+        "contributionToGlobal": 0.0495
+      },
+      {
+        "name": "Tlapacoya",
+        "zone": "zona-2",
+        "goal": 3344,
+        "promoted": 1793,
+        "progress": 53.61842,
+        "contributionToGlobal": 0.1793
+      },
+      {
+        "name": "Acateno",
+        "zone": "zona-2",
+        "goal": 3344,
+        "promoted": 1859,
+        "progress": 55.59211,
+        "contributionToGlobal": 0.1859
+      },
+      {
+        "name": "Olintla",
+        "zone": "zona-2",
+        "goal": 3344,
+        "promoted": 595,
+        "progress": 17.79306,
+        "contributionToGlobal": 0.0595
+      },
+      {
+        "name": "Huehuetla",
+        "zone": "zona-2",
+        "goal": 3344,
+        "promoted": 1599,
+        "progress": 47.81699,
+        "contributionToGlobal": 0.1599
+      },
+      {
+        "name": "Hermenegildo Galeana",
+        "zone": "zona-2",
+        "goal": 3344,
+        "promoted": 1138,
+        "progress": 34.0311,
+        "contributionToGlobal": 0.1138
+      },
+      {
+        "name": "Tuzamapan de Galeana",
+        "zone": "zona-2",
+        "goal": 3344,
+        "promoted": 1872,
+        "progress": 55.98086,
+        "contributionToGlobal": 0.1872
+      },
+      {
+        "name": "San Felipe Tepatlán",
+        "zone": "zona-2",
+        "goal": 3344,
+        "promoted": 818,
+        "progress": 24.46172,
+        "contributionToGlobal": 0.0818
+      },
+      {
+        "name": "Ayotoxco de Guerrero",
+        "zone": "zona-2",
+        "goal": 3344,
+        "promoted": 739,
+        "progress": 22.09928,
+        "contributionToGlobal": 0.0739
+      }
+    ],
+    "meta": {
+      "totalPromoted": 16833,
+      "totalContributionToGlobal": 1.6833
     }
-  ],
-  "zona-3": [
-    {
-      "name": "Chiconcuautla",
-      "zone": "zona-3",
-      "goal": 4524,
-      "promoted": 3202,
-      "progress": 70.77807,
-      "contributionToTotal": 0.3202
-    },
-    {
-      "name": "Ahuazotepec",
-      "zone": "zona-3",
-      "goal": 4524,
-      "promoted": 2574,
-      "progress": 56.89655,
-      "contributionToTotal": 0.2574
-    },
-    {
-      "name": "Cuetzalan del Progreso",
-      "zone": "zona-3",
-      "goal": 4524,
-      "promoted": 2960,
-      "progress": 65.42882,
-      "contributionToTotal": 0.296
-    },
-    {
-      "name": "Caxhuacan",
-      "zone": "zona-3",
-      "goal": 4524,
-      "promoted": 2744,
-      "progress": 60.65429,
-      "contributionToTotal": 0.2744
-    },
-    {
-      "name": "Ahuacatlán",
-      "zone": "zona-3",
-      "goal": 4524,
-      "promoted": 3594,
-      "progress": 79.44297,
-      "contributionToTotal": 0.3594
-    },
-    {
-      "name": "Hueytlalpan",
-      "zone": "zona-3",
-      "goal": 4524,
-      "promoted": 1758,
-      "progress": 38.85942,
-      "contributionToTotal": 0.1758
-    },
-    {
-      "name": "Amixtlán",
-      "zone": "zona-3",
-      "goal": 4524,
-      "promoted": 24,
-      "progress": 0.5305,
-      "contributionToTotal": 0.0024
-    },
-    {
-      "name": "Zacatlán",
-      "zone": "zona-3",
-      "goal": 4524,
-      "promoted": 2212,
-      "progress": 48.89478,
-      "contributionToTotal": 0.2212
-    },
-    {
-      "name": "Coatepec",
-      "zone": "zona-3",
-      "goal": 4524,
-      "promoted": 3586,
-      "progress": 79.26614,
-      "contributionToTotal": 0.3586
-    },
-    {
-      "name": "Ixtepec",
-      "zone": "zona-3",
-      "goal": 4524,
-      "promoted": 2387,
-      "progress": 52.76304,
-      "contributionToTotal": 0.2387
-    },
-    {
-      "name": "Jonotla",
-      "zone": "zona-3",
-      "goal": 4524,
-      "promoted": 574,
-      "progress": 12.68789,
-      "contributionToTotal": 0.0574
-    },
-    {
-      "name": "Camocuautla",
-      "zone": "zona-3",
-      "goal": 4524,
-      "promoted": 2602,
-      "progress": 57.51547,
-      "contributionToTotal": 0.2602
-    },
-    {
-      "name": "Atlequizayan",
-      "zone": "zona-3",
-      "goal": 4524,
-      "promoted": 2159,
-      "progress": 47.72325,
-      "contributionToTotal": 0.2159
+  },
+  "zona-3": {
+    "db": [
+      {
+        "name": "Chiconcuautla",
+        "zone": "zona-3",
+        "goal": 3344,
+        "promoted": 347,
+        "progress": 10.37679,
+        "contributionToGlobal": 0.0347
+      },
+      {
+        "name": "Ahuazotepec",
+        "zone": "zona-3",
+        "goal": 3344,
+        "promoted": 1413,
+        "progress": 42.25478,
+        "contributionToGlobal": 0.1413
+      },
+      {
+        "name": "Cuetzalan del Progreso",
+        "zone": "zona-3",
+        "goal": 3344,
+        "promoted": 2001,
+        "progress": 59.83852,
+        "contributionToGlobal": 0.2001
+      },
+      {
+        "name": "Caxhuacan",
+        "zone": "zona-3",
+        "goal": 3344,
+        "promoted": 611,
+        "progress": 18.27153,
+        "contributionToGlobal": 0.0611
+      },
+      {
+        "name": "Ahuacatlán",
+        "zone": "zona-3",
+        "goal": 3344,
+        "promoted": 1037,
+        "progress": 31.01077,
+        "contributionToGlobal": 0.1037
+      },
+      {
+        "name": "Hueytlalpan",
+        "zone": "zona-3",
+        "goal": 3344,
+        "promoted": 1346,
+        "progress": 40.2512,
+        "contributionToGlobal": 0.1346
+      },
+      {
+        "name": "Amixtlán",
+        "zone": "zona-3",
+        "goal": 3344,
+        "promoted": 2344,
+        "progress": 70.09569,
+        "contributionToGlobal": 0.2344
+      },
+      {
+        "name": "Zacatlán",
+        "zone": "zona-3",
+        "goal": 3344,
+        "promoted": 1221,
+        "progress": 36.51316,
+        "contributionToGlobal": 0.1221
+      },
+      {
+        "name": "Coatepec",
+        "zone": "zona-3",
+        "goal": 3344,
+        "promoted": 1485,
+        "progress": 44.40789,
+        "contributionToGlobal": 0.1485
+      },
+      {
+        "name": "Ixtepec",
+        "zone": "zona-3",
+        "goal": 3344,
+        "promoted": 2597,
+        "progress": 77.66148,
+        "contributionToGlobal": 0.2597
+      },
+      {
+        "name": "Jonotla",
+        "zone": "zona-3",
+        "goal": 3344,
+        "promoted": 1923,
+        "progress": 57.50598,
+        "contributionToGlobal": 0.1923
+      },
+      {
+        "name": "Camocuautla",
+        "zone": "zona-3",
+        "goal": 3344,
+        "promoted": 999,
+        "progress": 29.8744,
+        "contributionToGlobal": 0.0999
+      },
+      {
+        "name": "Atlequizayan",
+        "zone": "zona-3",
+        "goal": 3344,
+        "promoted": 2266,
+        "progress": 67.76316,
+        "contributionToGlobal": 0.2266
+      }
+    ],
+    "meta": {
+      "totalPromoted": 19590,
+      "totalContributionToGlobal": 1.959
     }
-  ],
-  "zona-4": [
-    {
-      "name": "Tepango de Rodríguez",
-      "zone": "zona-4",
-      "goal": 4524,
-      "promoted": 1706,
-      "progress": 37.70999,
-      "contributionToTotal": 0.1706
-    },
-    {
-      "name": "Zoquiapan",
-      "zone": "zona-4",
-      "goal": 4524,
-      "promoted": 1530,
-      "progress": 33.81963,
-      "contributionToTotal": 0.153
-    },
-    {
-      "name": "Zapotitlán de Méndez",
-      "zone": "zona-4",
-      "goal": 4524,
-      "promoted": 1471,
-      "progress": 32.51547,
-      "contributionToTotal": 0.1471
-    },
-    {
-      "name": "Zongozotla",
-      "zone": "zona-4",
-      "goal": 4524,
-      "promoted": 1255,
-      "progress": 27.74094,
-      "contributionToTotal": 0.1255
-    },
-    {
-      "name": "Nauzontla",
-      "zone": "zona-4",
-      "goal": 4524,
-      "promoted": 1711,
-      "progress": 37.82051,
-      "contributionToTotal": 0.1711
-    },
-    {
-      "name": "Huitzilan de Serdán",
-      "zone": "zona-4",
-      "goal": 4524,
-      "promoted": 3289,
-      "progress": 72.70115,
-      "contributionToTotal": 0.3289
-    },
-    {
-      "name": "Xochitlán de Vicente Suárez",
-      "zone": "zona-4",
-      "goal": 4524,
-      "promoted": 1045,
-      "progress": 23.09903,
-      "contributionToTotal": 0.1045
-    },
-    {
-      "name": "Hueyapan",
-      "zone": "zona-4",
-      "goal": 4524,
-      "promoted": 2881,
-      "progress": 63.68258,
-      "contributionToTotal": 0.2881
-    },
-    {
-      "name": "Tepetzintla",
-      "zone": "zona-4",
-      "goal": 4524,
-      "promoted": 2117,
-      "progress": 46.79487,
-      "contributionToTotal": 0.2117
-    },
-    {
-      "name": "Teziutlán",
-      "zone": "zona-4",
-      "goal": 4524,
-      "promoted": 2832,
-      "progress": 62.59947,
-      "contributionToTotal": 0.2832
-    },
-    {
-      "name": "Cuautempan",
-      "zone": "zona-4",
-      "goal": 4524,
-      "promoted": 2082,
-      "progress": 46.02122,
-      "contributionToTotal": 0.2082
-    },
-    {
-      "name": "Chignahuapan",
-      "zone": "zona-4",
-      "goal": 4524,
-      "promoted": 2391,
-      "progress": 52.85146,
-      "contributionToTotal": 0.2391
-    },
-    {
-      "name": "Tetela de Ocampo",
-      "zone": "zona-4",
-      "goal": 4524,
-      "promoted": 1410,
-      "progress": 31.16711,
-      "contributionToTotal": 0.141
+  },
+  "zona-4": {
+    "db": [
+      {
+        "name": "Tepango de Rodríguez",
+        "zone": "zona-4",
+        "goal": 3344,
+        "promoted": 2006,
+        "progress": 59.98804,
+        "contributionToGlobal": 0.2006
+      },
+      {
+        "name": "Zoquiapan",
+        "zone": "zona-4",
+        "goal": 3344,
+        "promoted": 1660,
+        "progress": 49.64115,
+        "contributionToGlobal": 0.166
+      },
+      {
+        "name": "Zapotitlán de Méndez",
+        "zone": "zona-4",
+        "goal": 3344,
+        "promoted": 1942,
+        "progress": 58.07416,
+        "contributionToGlobal": 0.1942
+      },
+      {
+        "name": "Zongozotla",
+        "zone": "zona-4",
+        "goal": 3344,
+        "promoted": 1701,
+        "progress": 50.86722,
+        "contributionToGlobal": 0.1701
+      },
+      {
+        "name": "Nauzontla",
+        "zone": "zona-4",
+        "goal": 3344,
+        "promoted": 354,
+        "progress": 10.58612,
+        "contributionToGlobal": 0.0354
+      },
+      {
+        "name": "Huitzilan de Serdán",
+        "zone": "zona-4",
+        "goal": 3344,
+        "promoted": 1665,
+        "progress": 49.79067,
+        "contributionToGlobal": 0.1665
+      },
+      {
+        "name": "Xochitlán de Vicente Suárez",
+        "zone": "zona-4",
+        "goal": 3344,
+        "promoted": 1360,
+        "progress": 40.66986,
+        "contributionToGlobal": 0.136
+      },
+      {
+        "name": "Hueyapan",
+        "zone": "zona-4",
+        "goal": 3344,
+        "promoted": 473,
+        "progress": 14.14474,
+        "contributionToGlobal": 0.0473
+      },
+      {
+        "name": "Tepetzintla",
+        "zone": "zona-4",
+        "goal": 3344,
+        "promoted": 2513,
+        "progress": 75.14952,
+        "contributionToGlobal": 0.2513
+      },
+      {
+        "name": "Teziutlán",
+        "zone": "zona-4",
+        "goal": 3344,
+        "promoted": 971,
+        "progress": 29.03708,
+        "contributionToGlobal": 0.0971
+      },
+      {
+        "name": "Cuautempan",
+        "zone": "zona-4",
+        "goal": 3344,
+        "promoted": 2556,
+        "progress": 76.43541,
+        "contributionToGlobal": 0.2556
+      },
+      {
+        "name": "Chignahuapan",
+        "zone": "zona-4",
+        "goal": 3344,
+        "promoted": 1163,
+        "progress": 34.77871,
+        "contributionToGlobal": 0.1163
+      },
+      {
+        "name": "Tetela de Ocampo",
+        "zone": "zona-4",
+        "goal": 3344,
+        "promoted": 1195,
+        "progress": 35.73565,
+        "contributionToGlobal": 0.1195
+      }
+    ],
+    "meta": {
+      "totalPromoted": 19559,
+      "totalContributionToGlobal": 1.9559
     }
-  ],
-  "zona-5": [
-    {
-      "name": "Xochiapulco",
-      "zone": "zona-5",
-      "goal": 4901,
-      "promoted": 1105,
-      "progress": 22.54642,
-      "contributionToTotal": 0.1105
-    },
-    {
-      "name": "Xiutetelco",
-      "zone": "zona-5",
-      "goal": 4901,
-      "promoted": 419,
-      "progress": 8.54928,
-      "contributionToTotal": 0.0419
-    },
-    {
-      "name": "Chignautla",
-      "zone": "zona-5",
-      "goal": 4901,
-      "promoted": 2927,
-      "progress": 59.72251,
-      "contributionToTotal": 0.2927
-    },
-    {
-      "name": "Yaonáhuac",
-      "zone": "zona-5",
-      "goal": 4901,
-      "promoted": 2912,
-      "progress": 59.41645,
-      "contributionToTotal": 0.2912
-    },
-    {
-      "name": "Aquixtla",
-      "zone": "zona-5",
-      "goal": 4901,
-      "promoted": 1782,
-      "progress": 36.35993,
-      "contributionToTotal": 0.1782
-    },
-    {
-      "name": "Teteles de Avila Castillo",
-      "zone": "zona-5",
-      "goal": 4901,
-      "promoted": 806,
-      "progress": 16.44562,
-      "contributionToTotal": 0.0806
-    },
-    {
-      "name": "Atempan",
-      "zone": "zona-5",
-      "goal": 4901,
-      "promoted": 477,
-      "progress": 9.73271,
-      "contributionToTotal": 0.0477
-    },
-    {
-      "name": "Zaragoza",
-      "zone": "zona-5",
-      "goal": 4901,
-      "promoted": 1159,
-      "progress": 23.64824,
-      "contributionToTotal": 0.1159
-    },
-    {
-      "name": "Tlatlauquitepec",
-      "zone": "zona-5",
-      "goal": 4901,
-      "promoted": 787,
-      "progress": 16.05795,
-      "contributionToTotal": 0.0787
-    },
-    {
-      "name": "Zacapoaxtla",
-      "zone": "zona-5",
-      "goal": 4901,
-      "promoted": 1905,
-      "progress": 38.86962,
-      "contributionToTotal": 0.1905
-    },
-    {
-      "name": "Zautla",
-      "zone": "zona-5",
-      "goal": 4901,
-      "promoted": 1187,
-      "progress": 24.21955,
-      "contributionToTotal": 0.1187
-    },
-    {
-      "name": "Ixtacamaxtitlán",
-      "zone": "zona-5",
-      "goal": 4901,
-      "promoted": 920,
-      "progress": 18.77168,
-      "contributionToTotal": 0.092
+  },
+  "zona-5": {
+    "db": [
+      {
+        "name": "Xochiapulco",
+        "zone": "zona-5",
+        "goal": 3623,
+        "promoted": 1644,
+        "progress": 45.37676,
+        "contributionToGlobal": 0.1644
+      },
+      {
+        "name": "Xiutetelco",
+        "zone": "zona-5",
+        "goal": 3623,
+        "promoted": 852,
+        "progress": 23.51642,
+        "contributionToGlobal": 0.0852
+      },
+      {
+        "name": "Chignautla",
+        "zone": "zona-5",
+        "goal": 3623,
+        "promoted": 2103,
+        "progress": 58.04582,
+        "contributionToGlobal": 0.2103
+      },
+      {
+        "name": "Yaonáhuac",
+        "zone": "zona-5",
+        "goal": 3623,
+        "promoted": 1322,
+        "progress": 36.4891,
+        "contributionToGlobal": 0.1322
+      },
+      {
+        "name": "Aquixtla",
+        "zone": "zona-5",
+        "goal": 3623,
+        "promoted": 809,
+        "progress": 22.32956,
+        "contributionToGlobal": 0.0809
+      },
+      {
+        "name": "Teteles de Avila Castillo",
+        "zone": "zona-5",
+        "goal": 3623,
+        "promoted": 1155,
+        "progress": 31.87966,
+        "contributionToGlobal": 0.1155
+      },
+      {
+        "name": "Atempan",
+        "zone": "zona-5",
+        "goal": 3623,
+        "promoted": 314,
+        "progress": 8.66685,
+        "contributionToGlobal": 0.0314
+      },
+      {
+        "name": "Zaragoza",
+        "zone": "zona-5",
+        "goal": 3623,
+        "promoted": 2852,
+        "progress": 78.71929,
+        "contributionToGlobal": 0.2852
+      },
+      {
+        "name": "Tlatlauquitepec",
+        "zone": "zona-5",
+        "goal": 3623,
+        "promoted": 2250,
+        "progress": 62.10323,
+        "contributionToGlobal": 0.225
+      },
+      {
+        "name": "Zacapoaxtla",
+        "zone": "zona-5",
+        "goal": 3623,
+        "promoted": 1660,
+        "progress": 45.81838,
+        "contributionToGlobal": 0.166
+      },
+      {
+        "name": "Zautla",
+        "zone": "zona-5",
+        "goal": 3623,
+        "promoted": 1972,
+        "progress": 54.43003,
+        "contributionToGlobal": 0.1972
+      },
+      {
+        "name": "Ixtacamaxtitlán",
+        "zone": "zona-5",
+        "goal": 3623,
+        "promoted": 2787,
+        "progress": 76.9252,
+        "contributionToGlobal": 0.2787
+      }
+    ],
+    "meta": {
+      "totalPromoted": 19720,
+      "totalContributionToGlobal": 1.972
     }
-  ],
-  "zona-6": [
-    {
-      "name": "Cuyoaco",
-      "zone": "zona-6",
-      "goal": 4524,
-      "promoted": 493,
-      "progress": 10.89744,
-      "contributionToTotal": 0.0493
-    },
-    {
-      "name": "Tepeyahualco",
-      "zone": "zona-6",
-      "goal": 4524,
-      "promoted": 2941,
-      "progress": 65.00884,
-      "contributionToTotal": 0.2941
-    },
-    {
-      "name": "Ocotepec",
-      "zone": "zona-6",
-      "goal": 4524,
-      "promoted": 2489,
-      "progress": 55.01768,
-      "contributionToTotal": 0.2489
-    },
-    {
-      "name": "Libres",
-      "zone": "zona-6",
-      "goal": 4524,
-      "promoted": 1007,
-      "progress": 22.25906,
-      "contributionToTotal": 0.1007
-    },
-    {
-      "name": "Tlahuapan",
-      "zone": "zona-6",
-      "goal": 4524,
-      "promoted": 3022,
-      "progress": 66.79929,
-      "contributionToTotal": 0.3022
-    },
-    {
-      "name": "Oriental",
-      "zone": "zona-6",
-      "goal": 4524,
-      "promoted": 2859,
-      "progress": 63.19629,
-      "contributionToTotal": 0.2859
-    },
-    {
-      "name": "San Matías Tlalancaleca",
-      "zone": "zona-6",
-      "goal": 4524,
-      "promoted": 2470,
-      "progress": 54.5977,
-      "contributionToTotal": 0.247
-    },
-    {
-      "name": "Guadalupe Victoria",
-      "zone": "zona-6",
-      "goal": 4524,
-      "promoted": 1980,
-      "progress": 43.76658,
-      "contributionToTotal": 0.198
-    },
-    {
-      "name": "Lafragua",
-      "zone": "zona-6",
-      "goal": 4524,
-      "promoted": 3540,
-      "progress": 78.24934,
-      "contributionToTotal": 0.354
-    },
-    {
-      "name": "Chilchotla",
-      "zone": "zona-6",
-      "goal": 4524,
-      "promoted": 1423,
-      "progress": 31.45447,
-      "contributionToTotal": 0.1423
-    },
-    {
-      "name": "Quimixtlán",
-      "zone": "zona-6",
-      "goal": 4524,
-      "promoted": 531,
-      "progress": 11.7374,
-      "contributionToTotal": 0.0531
-    },
-    {
-      "name": "San Martín Texmelucan",
-      "zone": "zona-6",
-      "goal": 4524,
-      "promoted": 2590,
-      "progress": 57.25022,
-      "contributionToTotal": 0.259
-    },
-    {
-      "name": "Chichiquila",
-      "zone": "zona-6",
-      "goal": 4524,
-      "promoted": 63,
-      "progress": 1.39257,
-      "contributionToTotal": 0.0063
+  },
+  "zona-6": {
+    "db": [
+      {
+        "name": "Cuyoaco",
+        "zone": "zona-6",
+        "goal": 3344,
+        "promoted": 2415,
+        "progress": 72.2189,
+        "contributionToGlobal": 0.2415
+      },
+      {
+        "name": "Tepeyahualco",
+        "zone": "zona-6",
+        "goal": 3344,
+        "promoted": 2282,
+        "progress": 68.24163,
+        "contributionToGlobal": 0.2282
+      },
+      {
+        "name": "Ocotepec",
+        "zone": "zona-6",
+        "goal": 3344,
+        "promoted": 307,
+        "progress": 9.18062,
+        "contributionToGlobal": 0.0307
+      },
+      {
+        "name": "Libres",
+        "zone": "zona-6",
+        "goal": 3344,
+        "promoted": 2033,
+        "progress": 60.79545,
+        "contributionToGlobal": 0.2033
+      },
+      {
+        "name": "Tlahuapan",
+        "zone": "zona-6",
+        "goal": 3344,
+        "promoted": 1021,
+        "progress": 30.5323,
+        "contributionToGlobal": 0.1021
+      },
+      {
+        "name": "Oriental",
+        "zone": "zona-6",
+        "goal": 3344,
+        "promoted": 864,
+        "progress": 25.83732,
+        "contributionToGlobal": 0.0864
+      },
+      {
+        "name": "San Matías Tlalancaleca",
+        "zone": "zona-6",
+        "goal": 3344,
+        "promoted": 2404,
+        "progress": 71.88995,
+        "contributionToGlobal": 0.2404
+      },
+      {
+        "name": "Guadalupe Victoria",
+        "zone": "zona-6",
+        "goal": 3344,
+        "promoted": 1571,
+        "progress": 46.97967,
+        "contributionToGlobal": 0.1571
+      },
+      {
+        "name": "Lafragua",
+        "zone": "zona-6",
+        "goal": 3344,
+        "promoted": 1973,
+        "progress": 59.0012,
+        "contributionToGlobal": 0.1973
+      },
+      {
+        "name": "Chilchotla",
+        "zone": "zona-6",
+        "goal": 3344,
+        "promoted": 2429,
+        "progress": 72.63756,
+        "contributionToGlobal": 0.2429
+      },
+      {
+        "name": "Quimixtlán",
+        "zone": "zona-6",
+        "goal": 3344,
+        "promoted": 1318,
+        "progress": 39.41388,
+        "contributionToGlobal": 0.1318
+      },
+      {
+        "name": "San Martín Texmelucan",
+        "zone": "zona-6",
+        "goal": 3344,
+        "promoted": 1993,
+        "progress": 59.59928,
+        "contributionToGlobal": 0.1993
+      },
+      {
+        "name": "Chichiquila",
+        "zone": "zona-6",
+        "goal": 3344,
+        "promoted": 1398,
+        "progress": 41.80622,
+        "contributionToGlobal": 0.1398
+      }
+    ],
+    "meta": {
+      "totalPromoted": 22008,
+      "totalContributionToGlobal": 2.2008
     }
-  ],
-  "zona-7": [
-    {
-      "name": "San José Chiapa",
-      "zone": "zona-7",
-      "goal": 4524,
-      "promoted": 3055,
-      "progress": 67.52874,
-      "contributionToTotal": 0.3055
-    },
-    {
-      "name": "San Salvador el Verde",
-      "zone": "zona-7",
-      "goal": 4524,
-      "promoted": 2098,
-      "progress": 46.37489,
-      "contributionToTotal": 0.2098
-    },
-    {
-      "name": "San Felipe Teotlalcingo",
-      "zone": "zona-7",
-      "goal": 4524,
-      "promoted": 775,
-      "progress": 17.13086,
-      "contributionToTotal": 0.0775
-    },
-    {
-      "name": "Tlachichuca",
-      "zone": "zona-7",
-      "goal": 4524,
-      "promoted": 1044,
-      "progress": 23.07692,
-      "contributionToTotal": 0.1044
-    },
-    {
-      "name": "Rafael Lara Grajales",
-      "zone": "zona-7",
-      "goal": 4524,
-      "promoted": 2237,
-      "progress": 49.44739,
-      "contributionToTotal": 0.2237
-    },
-    {
-      "name": "Nopalucan",
-      "zone": "zona-7",
-      "goal": 4524,
-      "promoted": 1164,
-      "progress": 25.72944,
-      "contributionToTotal": 0.1164
-    },
-    {
-      "name": "Chiautzingo",
-      "zone": "zona-7",
-      "goal": 4524,
-      "promoted": 2008,
-      "progress": 44.3855,
-      "contributionToTotal": 0.2008
-    },
-    {
-      "name": "Puebla",
-      "zone": "zona-7",
-      "goal": 4524,
-      "promoted": 3242,
-      "progress": 71.66225,
-      "contributionToTotal": 0.3242
-    },
-    {
-      "name": "Mazapiltepec de Juárez",
-      "zone": "zona-7",
-      "goal": 4524,
-      "promoted": 818,
-      "progress": 18.08134,
-      "contributionToTotal": 0.0818
-    },
-    {
-      "name": "Tepatlaxco de Hidalgo",
-      "zone": "zona-7",
-      "goal": 4524,
-      "promoted": 1901,
-      "progress": 42.02034,
-      "contributionToTotal": 0.1901
-    },
-    {
-      "name": "Tlaltenango",
-      "zone": "zona-7",
-      "goal": 4524,
-      "promoted": 1617,
-      "progress": 35.74271,
-      "contributionToTotal": 0.1617
-    },
-    {
-      "name": "Soltepec",
-      "zone": "zona-7",
-      "goal": 4524,
-      "promoted": 2418,
-      "progress": 53.44828,
-      "contributionToTotal": 0.2418
-    },
-    {
-      "name": "Acajete",
-      "zone": "zona-7",
-      "goal": 4524,
-      "promoted": 2630,
-      "progress": 58.13439,
-      "contributionToTotal": 0.263
+  },
+  "zona-7": {
+    "db": [
+      {
+        "name": "San José Chiapa",
+        "zone": "zona-7",
+        "goal": 3344,
+        "promoted": 1909,
+        "progress": 57.08732,
+        "contributionToGlobal": 0.1909
+      },
+      {
+        "name": "San Salvador el Verde",
+        "zone": "zona-7",
+        "goal": 3344,
+        "promoted": 968,
+        "progress": 28.94737,
+        "contributionToGlobal": 0.0968
+      },
+      {
+        "name": "San Felipe Teotlalcingo",
+        "zone": "zona-7",
+        "goal": 3344,
+        "promoted": 486,
+        "progress": 14.53349,
+        "contributionToGlobal": 0.0486
+      },
+      {
+        "name": "Tlachichuca",
+        "zone": "zona-7",
+        "goal": 3344,
+        "promoted": 1976,
+        "progress": 59.09091,
+        "contributionToGlobal": 0.1976
+      },
+      {
+        "name": "Rafael Lara Grajales",
+        "zone": "zona-7",
+        "goal": 3344,
+        "promoted": 1380,
+        "progress": 41.26794,
+        "contributionToGlobal": 0.138
+      },
+      {
+        "name": "Nopalucan",
+        "zone": "zona-7",
+        "goal": 3344,
+        "promoted": 1131,
+        "progress": 33.82177,
+        "contributionToGlobal": 0.1131
+      },
+      {
+        "name": "Chiautzingo",
+        "zone": "zona-7",
+        "goal": 3344,
+        "promoted": 759,
+        "progress": 22.69737,
+        "contributionToGlobal": 0.0759
+      },
+      {
+        "name": "Puebla",
+        "zone": "zona-7",
+        "goal": 3344,
+        "promoted": 2322,
+        "progress": 69.4378,
+        "contributionToGlobal": 0.2322
+      },
+      {
+        "name": "Mazapiltepec de Juárez",
+        "zone": "zona-7",
+        "goal": 3344,
+        "promoted": 865,
+        "progress": 25.86722,
+        "contributionToGlobal": 0.0865
+      },
+      {
+        "name": "Tepatlaxco de Hidalgo",
+        "zone": "zona-7",
+        "goal": 3344,
+        "promoted": 2470,
+        "progress": 73.86364,
+        "contributionToGlobal": 0.247
+      },
+      {
+        "name": "Tlaltenango",
+        "zone": "zona-7",
+        "goal": 3344,
+        "promoted": 249,
+        "progress": 7.44617,
+        "contributionToGlobal": 0.0249
+      },
+      {
+        "name": "Soltepec",
+        "zone": "zona-7",
+        "goal": 3344,
+        "promoted": 1393,
+        "progress": 41.6567,
+        "contributionToGlobal": 0.1393
+      },
+      {
+        "name": "Acajete",
+        "zone": "zona-7",
+        "goal": 3344,
+        "promoted": 1909,
+        "progress": 57.08732,
+        "contributionToGlobal": 0.1909
+      }
+    ],
+    "meta": {
+      "totalPromoted": 17817,
+      "totalContributionToGlobal": 1.7817
     }
-  ],
-  "zona-8": [
-    {
-      "name": "San Miguel Xoxtla",
-      "zone": "zona-8",
-      "goal": 4524,
-      "promoted": 1902,
-      "progress": 42.04244,
-      "contributionToTotal": 0.1902
-    },
-    {
-      "name": "San Nicolás Buenos Aires",
-      "zone": "zona-8",
-      "goal": 4524,
-      "promoted": 1533,
-      "progress": 33.88594,
-      "contributionToTotal": 0.1533
-    },
-    {
-      "name": "San Salvador el Seco",
-      "zone": "zona-8",
-      "goal": 4524,
-      "promoted": 577,
-      "progress": 12.7542,
-      "contributionToTotal": 0.0577
-    },
-    {
-      "name": "Cuautlancingo",
-      "zone": "zona-8",
-      "goal": 4524,
-      "promoted": 17,
-      "progress": 0.37577,
-      "contributionToTotal": 0.0017
-    },
-    {
-      "name": "Aljojuca",
-      "zone": "zona-8",
-      "goal": 4524,
-      "promoted": 251,
-      "progress": 5.54819,
-      "contributionToTotal": 0.0251
-    },
-    {
-      "name": "Domingo Arenas",
-      "zone": "zona-8",
-      "goal": 4524,
-      "promoted": 2917,
-      "progress": 64.47834,
-      "contributionToTotal": 0.2917
-    },
-    {
-      "name": "Amozoc",
-      "zone": "zona-8",
-      "goal": 4524,
-      "promoted": 3276,
-      "progress": 72.41379,
-      "contributionToTotal": 0.3276
-    },
-    {
-      "name": "Huejotzingo",
-      "zone": "zona-8",
-      "goal": 4524,
-      "promoted": 2896,
-      "progress": 64.01415,
-      "contributionToTotal": 0.2896
-    },
-    {
-      "name": "Juan C. Bonilla",
-      "zone": "zona-8",
-      "goal": 4524,
-      "promoted": 1555,
-      "progress": 34.37224,
-      "contributionToTotal": 0.1555
-    },
-    {
-      "name": "Acatzingo",
-      "zone": "zona-8",
-      "goal": 4524,
-      "promoted": 1518,
-      "progress": 33.55438,
-      "contributionToTotal": 0.1518
-    },
-    {
-      "name": "San Pedro Cholula",
-      "zone": "zona-8",
-      "goal": 4524,
-      "promoted": 1520,
-      "progress": 33.59859,
-      "contributionToTotal": 0.152
-    },
-    {
-      "name": "San Juan Atenco",
-      "zone": "zona-8",
-      "goal": 4524,
-      "promoted": 2317,
-      "progress": 51.21574,
-      "contributionToTotal": 0.2317
-    },
-    {
-      "name": "Coronango",
-      "zone": "zona-8",
-      "goal": 4524,
-      "promoted": 3554,
-      "progress": 78.5588,
-      "contributionToTotal": 0.3554
+  },
+  "zona-8": {
+    "db": [
+      {
+        "name": "San Miguel Xoxtla",
+        "zone": "zona-8",
+        "goal": 3344,
+        "promoted": 2137,
+        "progress": 63.9055,
+        "contributionToGlobal": 0.2137
+      },
+      {
+        "name": "San Nicolás Buenos Aires",
+        "zone": "zona-8",
+        "goal": 3344,
+        "promoted": 344,
+        "progress": 10.28708,
+        "contributionToGlobal": 0.0344
+      },
+      {
+        "name": "San Salvador el Seco",
+        "zone": "zona-8",
+        "goal": 3344,
+        "promoted": 328,
+        "progress": 9.80861,
+        "contributionToGlobal": 0.0328
+      },
+      {
+        "name": "Cuautlancingo",
+        "zone": "zona-8",
+        "goal": 3344,
+        "promoted": 2555,
+        "progress": 76.4055,
+        "contributionToGlobal": 0.2555
+      },
+      {
+        "name": "Aljojuca",
+        "zone": "zona-8",
+        "goal": 3344,
+        "promoted": 1589,
+        "progress": 47.51794,
+        "contributionToGlobal": 0.1589
+      },
+      {
+        "name": "Domingo Arenas",
+        "zone": "zona-8",
+        "goal": 3344,
+        "promoted": 1609,
+        "progress": 48.11603,
+        "contributionToGlobal": 0.1609
+      },
+      {
+        "name": "Amozoc",
+        "zone": "zona-8",
+        "goal": 3344,
+        "promoted": 1786,
+        "progress": 53.40909,
+        "contributionToGlobal": 0.1786
+      },
+      {
+        "name": "Huejotzingo",
+        "zone": "zona-8",
+        "goal": 3344,
+        "promoted": 376,
+        "progress": 11.24402,
+        "contributionToGlobal": 0.0376
+      },
+      {
+        "name": "Juan C. Bonilla",
+        "zone": "zona-8",
+        "goal": 3344,
+        "promoted": 2658,
+        "progress": 79.48565,
+        "contributionToGlobal": 0.2658
+      },
+      {
+        "name": "Acatzingo",
+        "zone": "zona-8",
+        "goal": 3344,
+        "promoted": 2420,
+        "progress": 72.36842,
+        "contributionToGlobal": 0.242
+      },
+      {
+        "name": "San Pedro Cholula",
+        "zone": "zona-8",
+        "goal": 3344,
+        "promoted": 1582,
+        "progress": 47.30861,
+        "contributionToGlobal": 0.1582
+      },
+      {
+        "name": "San Juan Atenco",
+        "zone": "zona-8",
+        "goal": 3344,
+        "promoted": 1199,
+        "progress": 35.85526,
+        "contributionToGlobal": 0.1199
+      },
+      {
+        "name": "Coronango",
+        "zone": "zona-8",
+        "goal": 3344,
+        "promoted": 773,
+        "progress": 23.11603,
+        "contributionToGlobal": 0.0773
+      }
+    ],
+    "meta": {
+      "totalPromoted": 19356,
+      "totalContributionToGlobal": 1.9356000000000002
     }
-  ],
-  "zona-9": [
-    {
-      "name": "Calpan",
-      "zone": "zona-9",
-      "goal": 4901,
-      "promoted": 901,
-      "progress": 18.384,
-      "contributionToTotal": 0.0901
-    },
-    {
-      "name": "San Nicolás de los Ranchos",
-      "zone": "zona-9",
-      "goal": 4901,
-      "promoted": 1345,
-      "progress": 27.44338,
-      "contributionToTotal": 0.1345
-    },
-    {
-      "name": "General Felipe Ángeles",
-      "zone": "zona-9",
-      "goal": 4901,
-      "promoted": 2150,
-      "progress": 43.8686,
-      "contributionToTotal": 0.215
-    },
-    {
-      "name": "Chalchicomula de Sesma",
-      "zone": "zona-9",
-      "goal": 4901,
-      "promoted": 412,
-      "progress": 8.40645,
-      "contributionToTotal": 0.0412
-    },
-    {
-      "name": "Nealtican",
-      "zone": "zona-9",
-      "goal": 4901,
-      "promoted": 2250,
-      "progress": 45.909,
-      "contributionToTotal": 0.225
-    },
-    {
-      "name": "San Andrés Cholula",
-      "zone": "zona-9",
-      "goal": 4901,
-      "promoted": 736,
-      "progress": 15.01734,
-      "contributionToTotal": 0.0736
-    },
-    {
-      "name": "Tianguismanalco",
-      "zone": "zona-9",
-      "goal": 4901,
-      "promoted": 2226,
-      "progress": 45.4193,
-      "contributionToTotal": 0.2226
-    },
-    {
-      "name": "Tepeaca",
-      "zone": "zona-9",
-      "goal": 4901,
-      "promoted": 692,
-      "progress": 14.11957,
-      "contributionToTotal": 0.0692
-    },
-    {
-      "name": "San Jerónimo Tecuanipan",
-      "zone": "zona-9",
-      "goal": 4901,
-      "promoted": 335,
-      "progress": 6.83534,
-      "contributionToTotal": 0.0335
-    },
-    {
-      "name": "San Gregorio Atzompa",
-      "zone": "zona-9",
-      "goal": 4901,
-      "promoted": 868,
-      "progress": 17.71067,
-      "contributionToTotal": 0.0868
-    },
-    {
-      "name": "Tochimilco",
-      "zone": "zona-9",
-      "goal": 4901,
-      "promoted": 3686,
-      "progress": 75.20914,
-      "contributionToTotal": 0.3686
-    },
-    {
-      "name": "Cuautinchán",
-      "zone": "zona-9",
-      "goal": 4901,
-      "promoted": 2447,
-      "progress": 49.92859,
-      "contributionToTotal": 0.2447
+  },
+  "zona-9": {
+    "db": [
+      {
+        "name": "Calpan",
+        "zone": "zona-9",
+        "goal": 3623,
+        "promoted": 416,
+        "progress": 11.4822,
+        "contributionToGlobal": 0.0416
+      },
+      {
+        "name": "San Nicolás de los Ranchos",
+        "zone": "zona-9",
+        "goal": 3623,
+        "promoted": 1604,
+        "progress": 44.2727,
+        "contributionToGlobal": 0.1604
+      },
+      {
+        "name": "General Felipe Ángeles",
+        "zone": "zona-9",
+        "goal": 3623,
+        "promoted": 2147,
+        "progress": 59.26028,
+        "contributionToGlobal": 0.2147
+      },
+      {
+        "name": "Chalchicomula de Sesma",
+        "zone": "zona-9",
+        "goal": 3623,
+        "promoted": 2252,
+        "progress": 62.15843,
+        "contributionToGlobal": 0.2252
+      },
+      {
+        "name": "Nealtican",
+        "zone": "zona-9",
+        "goal": 3623,
+        "promoted": 2399,
+        "progress": 66.21584,
+        "contributionToGlobal": 0.2399
+      },
+      {
+        "name": "San Andrés Cholula",
+        "zone": "zona-9",
+        "goal": 3623,
+        "promoted": 2172,
+        "progress": 59.95032,
+        "contributionToGlobal": 0.2172
+      },
+      {
+        "name": "Tianguismanalco",
+        "zone": "zona-9",
+        "goal": 3623,
+        "promoted": 377,
+        "progress": 10.40574,
+        "contributionToGlobal": 0.0377
+      },
+      {
+        "name": "Tepeaca",
+        "zone": "zona-9",
+        "goal": 3623,
+        "promoted": 558,
+        "progress": 15.4016,
+        "contributionToGlobal": 0.0558
+      },
+      {
+        "name": "San Jerónimo Tecuanipan",
+        "zone": "zona-9",
+        "goal": 3623,
+        "promoted": 1158,
+        "progress": 31.96246,
+        "contributionToGlobal": 0.1158
+      },
+      {
+        "name": "San Gregorio Atzompa",
+        "zone": "zona-9",
+        "goal": 3623,
+        "promoted": 2606,
+        "progress": 71.92934,
+        "contributionToGlobal": 0.2606
+      },
+      {
+        "name": "Tochimilco",
+        "zone": "zona-9",
+        "goal": 3623,
+        "promoted": 2028,
+        "progress": 55.97571,
+        "contributionToGlobal": 0.2028
+      },
+      {
+        "name": "Cuautinchán",
+        "zone": "zona-9",
+        "goal": 3623,
+        "promoted": 2391,
+        "progress": 65.99503,
+        "contributionToGlobal": 0.2391
+      }
+    ],
+    "meta": {
+      "totalPromoted": 20108,
+      "totalContributionToGlobal": 2.0108
     }
-  ],
-  "zona-10": [
-    {
-      "name": "Santa Isabel Cholula",
-      "zone": "zona-10",
-      "goal": 4524,
-      "promoted": 2620,
-      "progress": 57.91335,
-      "contributionToTotal": 0.262
-    },
-    {
-      "name": "Los Reyes de Juárez",
-      "zone": "zona-10",
-      "goal": 4524,
-      "promoted": 1854,
-      "progress": 40.98143,
-      "contributionToTotal": 0.1854
-    },
-    {
-      "name": "Ocoyucan",
-      "zone": "zona-10",
-      "goal": 4524,
-      "promoted": 1431,
-      "progress": 31.6313,
-      "contributionToTotal": 0.1431
-    },
-    {
-      "name": "Atlixco",
-      "zone": "zona-10",
-      "goal": 4524,
-      "promoted": 3542,
-      "progress": 78.29355,
-      "contributionToTotal": 0.3542
-    },
-    {
-      "name": "Tecali de Herrera",
-      "zone": "zona-10",
-      "goal": 4524,
-      "promoted": 67,
-      "progress": 1.48099,
-      "contributionToTotal": 0.0067
-    },
-    {
-      "name": "Atzitzintla",
-      "zone": "zona-10",
-      "goal": 4524,
-      "promoted": 2818,
-      "progress": 62.29001,
-      "contributionToTotal": 0.2818
-    },
-    {
-      "name": "San Salvador Huixcolotla",
-      "zone": "zona-10",
-      "goal": 4524,
-      "promoted": 3355,
-      "progress": 74.16004,
-      "contributionToTotal": 0.3355
-    },
-    {
-      "name": "Tecamachalco",
-      "zone": "zona-10",
-      "goal": 4524,
-      "promoted": 144,
-      "progress": 3.18302,
-      "contributionToTotal": 0.0144
-    },
-    {
-      "name": "Cuapiaxtla de Madero",
-      "zone": "zona-10",
-      "goal": 4524,
-      "promoted": 134,
-      "progress": 2.96198,
-      "contributionToTotal": 0.0134
-    },
-    {
-      "name": "Mixtla",
-      "zone": "zona-10",
-      "goal": 4524,
-      "promoted": 3370,
-      "progress": 74.4916,
-      "contributionToTotal": 0.337
-    },
-    {
-      "name": "Tzicatlacoyan",
-      "zone": "zona-10",
-      "goal": 4524,
-      "promoted": 3378,
-      "progress": 74.66844,
-      "contributionToTotal": 0.3378
-    },
-    {
-      "name": "Santo Tomás Hueyotlipan",
-      "zone": "zona-10",
-      "goal": 4524,
-      "promoted": 1497,
-      "progress": 33.09019,
-      "contributionToTotal": 0.1497
-    },
-    {
-      "name": "Tochtepec",
-      "zone": "zona-10",
-      "goal": 4524,
-      "promoted": 3008,
-      "progress": 66.48983,
-      "contributionToTotal": 0.3008
+  },
+  "zona-10": {
+    "db": [
+      {
+        "name": "Santa Isabel Cholula",
+        "zone": "zona-10",
+        "goal": 3344,
+        "promoted": 2496,
+        "progress": 74.64115,
+        "contributionToGlobal": 0.2496
+      },
+      {
+        "name": "Los Reyes de Juárez",
+        "zone": "zona-10",
+        "goal": 3344,
+        "promoted": 2042,
+        "progress": 61.06459,
+        "contributionToGlobal": 0.2042
+      },
+      {
+        "name": "Ocoyucan",
+        "zone": "zona-10",
+        "goal": 3344,
+        "promoted": 1546,
+        "progress": 46.23206,
+        "contributionToGlobal": 0.1546
+      },
+      {
+        "name": "Atlixco",
+        "zone": "zona-10",
+        "goal": 3344,
+        "promoted": 1738,
+        "progress": 51.97368,
+        "contributionToGlobal": 0.1738
+      },
+      {
+        "name": "Tecali de Herrera",
+        "zone": "zona-10",
+        "goal": 3344,
+        "promoted": 743,
+        "progress": 22.2189,
+        "contributionToGlobal": 0.0743
+      },
+      {
+        "name": "Atzitzintla",
+        "zone": "zona-10",
+        "goal": 3344,
+        "promoted": 991,
+        "progress": 29.63517,
+        "contributionToGlobal": 0.0991
+      },
+      {
+        "name": "San Salvador Huixcolotla",
+        "zone": "zona-10",
+        "goal": 3344,
+        "promoted": 425,
+        "progress": 12.70933,
+        "contributionToGlobal": 0.0425
+      },
+      {
+        "name": "Tecamachalco",
+        "zone": "zona-10",
+        "goal": 3344,
+        "promoted": 2027,
+        "progress": 60.61603,
+        "contributionToGlobal": 0.2027
+      },
+      {
+        "name": "Cuapiaxtla de Madero",
+        "zone": "zona-10",
+        "goal": 3344,
+        "promoted": 526,
+        "progress": 15.72967,
+        "contributionToGlobal": 0.0526
+      },
+      {
+        "name": "Mixtla",
+        "zone": "zona-10",
+        "goal": 3344,
+        "promoted": 2490,
+        "progress": 74.46172,
+        "contributionToGlobal": 0.249
+      },
+      {
+        "name": "Tzicatlacoyan",
+        "zone": "zona-10",
+        "goal": 3344,
+        "promoted": 2348,
+        "progress": 70.21531,
+        "contributionToGlobal": 0.2348
+      },
+      {
+        "name": "Santo Tomás Hueyotlipan",
+        "zone": "zona-10",
+        "goal": 3344,
+        "promoted": 1436,
+        "progress": 42.94258,
+        "contributionToGlobal": 0.1436
+      },
+      {
+        "name": "Tochtepec",
+        "zone": "zona-10",
+        "goal": 3344,
+        "promoted": 394,
+        "progress": 11.7823,
+        "contributionToGlobal": 0.0394
+      }
+    ],
+    "meta": {
+      "totalPromoted": 19202,
+      "totalContributionToGlobal": 1.9202000000000001
     }
-  ],
-  "zona-11": [
-    {
-      "name": "Esperanza",
-      "zone": "zona-11",
-      "goal": 4524,
-      "promoted": 584,
-      "progress": 12.90893,
-      "contributionToTotal": 0.0584
-    },
-    {
-      "name": "Quecholac",
-      "zone": "zona-11",
-      "goal": 4524,
-      "promoted": 894,
-      "progress": 19.76127,
-      "contributionToTotal": 0.0894
-    },
-    {
-      "name": "Palmar de Bravo",
-      "zone": "zona-11",
-      "goal": 4524,
-      "promoted": 2012,
-      "progress": 44.47392,
-      "contributionToTotal": 0.2012
-    },
-    {
-      "name": "Atzitzihuacán",
-      "zone": "zona-11",
-      "goal": 4524,
-      "promoted": 1996,
-      "progress": 44.12025,
-      "contributionToTotal": 0.1996
-    },
-    {
-      "name": "Tlanepantla",
-      "zone": "zona-11",
-      "goal": 4524,
-      "promoted": 1401,
-      "progress": 30.96817,
-      "contributionToTotal": 0.1401
-    },
-    {
-      "name": "Teopantlán",
-      "zone": "zona-11",
-      "goal": 4524,
-      "promoted": 2386,
-      "progress": 52.74094,
-      "contributionToTotal": 0.2386
-    },
-    {
-      "name": "Huaquechula",
-      "zone": "zona-11",
-      "goal": 4524,
-      "promoted": 3510,
-      "progress": 77.58621,
-      "contributionToTotal": 0.351
-    },
-    {
-      "name": "Atoyatempan",
-      "zone": "zona-11",
-      "goal": 4524,
-      "promoted": 572,
-      "progress": 12.64368,
-      "contributionToTotal": 0.0572
-    },
-    {
-      "name": "Cohuecan",
-      "zone": "zona-11",
-      "goal": 4524,
-      "promoted": 1553,
-      "progress": 34.32803,
-      "contributionToTotal": 0.1553
-    },
-    {
-      "name": "Huehuetlán el Grande",
-      "zone": "zona-11",
-      "goal": 4524,
-      "promoted": 2118,
-      "progress": 46.81698,
-      "contributionToTotal": 0.2118
-    },
-    {
-      "name": "San Diego la Mesa Tochimiltzingo",
-      "zone": "zona-11",
-      "goal": 4524,
-      "promoted": 1586,
-      "progress": 35.05747,
-      "contributionToTotal": 0.1586
-    },
-    {
-      "name": "Huitziltepec",
-      "zone": "zona-11",
-      "goal": 4524,
-      "promoted": 2186,
-      "progress": 48.32007,
-      "contributionToTotal": 0.2186
-    },
-    {
-      "name": "Yehualtepec",
-      "zone": "zona-11",
-      "goal": 4524,
-      "promoted": 1391,
-      "progress": 30.74713,
-      "contributionToTotal": 0.1391
+  },
+  "zona-11": {
+    "db": [
+      {
+        "name": "Esperanza",
+        "zone": "zona-11",
+        "goal": 3344,
+        "promoted": 268,
+        "progress": 8.01435,
+        "contributionToGlobal": 0.0268
+      },
+      {
+        "name": "Quecholac",
+        "zone": "zona-11",
+        "goal": 3344,
+        "promoted": 2622,
+        "progress": 78.40909,
+        "contributionToGlobal": 0.2622
+      },
+      {
+        "name": "Palmar de Bravo",
+        "zone": "zona-11",
+        "goal": 3344,
+        "promoted": 335,
+        "progress": 10.01794,
+        "contributionToGlobal": 0.0335
+      },
+      {
+        "name": "Atzitzihuacán",
+        "zone": "zona-11",
+        "goal": 3344,
+        "promoted": 2067,
+        "progress": 61.8122,
+        "contributionToGlobal": 0.2067
+      },
+      {
+        "name": "Tlanepantla",
+        "zone": "zona-11",
+        "goal": 3344,
+        "promoted": 2278,
+        "progress": 68.12201,
+        "contributionToGlobal": 0.2278
+      },
+      {
+        "name": "Teopantlán",
+        "zone": "zona-11",
+        "goal": 3344,
+        "promoted": 838,
+        "progress": 25.05981,
+        "contributionToGlobal": 0.0838
+      },
+      {
+        "name": "Huaquechula",
+        "zone": "zona-11",
+        "goal": 3344,
+        "promoted": 1196,
+        "progress": 35.76555,
+        "contributionToGlobal": 0.1196
+      },
+      {
+        "name": "Atoyatempan",
+        "zone": "zona-11",
+        "goal": 3344,
+        "promoted": 836,
+        "progress": 25,
+        "contributionToGlobal": 0.0836
+      },
+      {
+        "name": "Cohuecan",
+        "zone": "zona-11",
+        "goal": 3344,
+        "promoted": 413,
+        "progress": 12.35048,
+        "contributionToGlobal": 0.0413
+      },
+      {
+        "name": "Huehuetlán el Grande",
+        "zone": "zona-11",
+        "goal": 3344,
+        "promoted": 1786,
+        "progress": 53.40909,
+        "contributionToGlobal": 0.1786
+      },
+      {
+        "name": "San Diego la Mesa Tochimiltzingo",
+        "zone": "zona-11",
+        "goal": 3344,
+        "promoted": 2382,
+        "progress": 71.23206,
+        "contributionToGlobal": 0.2382
+      },
+      {
+        "name": "Huitziltepec",
+        "zone": "zona-11",
+        "goal": 3344,
+        "promoted": 929,
+        "progress": 27.7811,
+        "contributionToGlobal": 0.0929
+      },
+      {
+        "name": "Yehualtepec",
+        "zone": "zona-11",
+        "goal": 3344,
+        "promoted": 573,
+        "progress": 17.13517,
+        "contributionToGlobal": 0.0573
+      }
+    ],
+    "meta": {
+      "totalPromoted": 16523,
+      "totalContributionToGlobal": 1.6523
     }
-  ],
-  "zona-12": [
-    {
-      "name": "Tepeyahualco de Cuauhtémoc",
-      "zone": "zona-12",
-      "goal": 4524,
-      "promoted": 19,
-      "progress": 0.41998,
-      "contributionToTotal": 0.0019
-    },
-    {
-      "name": "Acteopan",
-      "zone": "zona-12",
-      "goal": 4524,
-      "promoted": 1405,
-      "progress": 31.05659,
-      "contributionToTotal": 0.1405
-    },
-    {
-      "name": "Cañada Morelos",
-      "zone": "zona-12",
-      "goal": 4524,
-      "promoted": 393,
-      "progress": 8.687,
-      "contributionToTotal": 0.0393
-    },
-    {
-      "name": "Tepeojuma",
-      "zone": "zona-12",
-      "goal": 4524,
-      "promoted": 355,
-      "progress": 7.84704,
-      "contributionToTotal": 0.0355
-    },
-    {
-      "name": "Tepemaxalco",
-      "zone": "zona-12",
-      "goal": 4524,
-      "promoted": 3281,
-      "progress": 72.52431,
-      "contributionToTotal": 0.3281
-    },
-    {
-      "name": "Xochitlán Todos Santos",
-      "zone": "zona-12",
-      "goal": 4524,
-      "promoted": 1715,
-      "progress": 37.90893,
-      "contributionToTotal": 0.1715
-    },
-    {
-      "name": "San Juan Atzompa",
-      "zone": "zona-12",
-      "goal": 4524,
-      "promoted": 549,
-      "progress": 12.13528,
-      "contributionToTotal": 0.0549
-    },
-    {
-      "name": "La Magdalena Tlatlauquitepec",
-      "zone": "zona-12",
-      "goal": 4524,
-      "promoted": 953,
-      "progress": 21.06543,
-      "contributionToTotal": 0.0953
-    },
-    {
-      "name": "Molcaxac",
-      "zone": "zona-12",
-      "goal": 4524,
-      "promoted": 1631,
-      "progress": 36.05217,
-      "contributionToTotal": 0.1631
-    },
-    {
-      "name": "Tlacotepec de Benito Juárez",
-      "zone": "zona-12",
-      "goal": 4524,
-      "promoted": 2102,
-      "progress": 46.46331,
-      "contributionToTotal": 0.2102
-    },
-    {
-      "name": "Huatlatlauca",
-      "zone": "zona-12",
-      "goal": 4524,
-      "promoted": 1891,
-      "progress": 41.79929,
-      "contributionToTotal": 0.1891
-    },
-    {
-      "name": "Tlapanalá",
-      "zone": "zona-12",
-      "goal": 4524,
-      "promoted": 2065,
-      "progress": 45.64545,
-      "contributionToTotal": 0.2065
-    },
-    {
-      "name": "Zacapala",
-      "zone": "zona-12",
-      "goal": 4524,
-      "promoted": 409,
-      "progress": 9.04067,
-      "contributionToTotal": 0.0409
+  },
+  "zona-12": {
+    "db": [
+      {
+        "name": "Tepeyahualco de Cuauhtémoc",
+        "zone": "zona-12",
+        "goal": 3344,
+        "promoted": 1176,
+        "progress": 35.16746,
+        "contributionToGlobal": 0.1176
+      },
+      {
+        "name": "Acteopan",
+        "zone": "zona-12",
+        "goal": 3344,
+        "promoted": 1386,
+        "progress": 41.44737,
+        "contributionToGlobal": 0.1386
+      },
+      {
+        "name": "Cañada Morelos",
+        "zone": "zona-12",
+        "goal": 3344,
+        "promoted": 521,
+        "progress": 15.58014,
+        "contributionToGlobal": 0.0521
+      },
+      {
+        "name": "Tepeojuma",
+        "zone": "zona-12",
+        "goal": 3344,
+        "promoted": 1743,
+        "progress": 52.12321,
+        "contributionToGlobal": 0.1743
+      },
+      {
+        "name": "Tepemaxalco",
+        "zone": "zona-12",
+        "goal": 3344,
+        "promoted": 2164,
+        "progress": 64.71292,
+        "contributionToGlobal": 0.2164
+      },
+      {
+        "name": "Xochitlán Todos Santos",
+        "zone": "zona-12",
+        "goal": 3344,
+        "promoted": 195,
+        "progress": 5.83134,
+        "contributionToGlobal": 0.0195
+      },
+      {
+        "name": "San Juan Atzompa",
+        "zone": "zona-12",
+        "goal": 3344,
+        "promoted": 259,
+        "progress": 7.74522,
+        "contributionToGlobal": 0.0259
+      },
+      {
+        "name": "La Magdalena Tlatlauquitepec",
+        "zone": "zona-12",
+        "goal": 3344,
+        "promoted": 2064,
+        "progress": 61.72249,
+        "contributionToGlobal": 0.2064
+      },
+      {
+        "name": "Molcaxac",
+        "zone": "zona-12",
+        "goal": 3344,
+        "promoted": 560,
+        "progress": 16.74641,
+        "contributionToGlobal": 0.056
+      },
+      {
+        "name": "Tlacotepec de Benito Juárez",
+        "zone": "zona-12",
+        "goal": 3344,
+        "promoted": 1024,
+        "progress": 30.62201,
+        "contributionToGlobal": 0.1024
+      },
+      {
+        "name": "Huatlatlauca",
+        "zone": "zona-12",
+        "goal": 3344,
+        "promoted": 472,
+        "progress": 14.11483,
+        "contributionToGlobal": 0.0472
+      },
+      {
+        "name": "Tlapanalá",
+        "zone": "zona-12",
+        "goal": 3344,
+        "promoted": 435,
+        "progress": 13.00837,
+        "contributionToGlobal": 0.0435
+      },
+      {
+        "name": "Zacapala",
+        "zone": "zona-12",
+        "goal": 3344,
+        "promoted": 455,
+        "progress": 13.60646,
+        "contributionToGlobal": 0.0455
+      }
+    ],
+    "meta": {
+      "totalPromoted": 12454,
+      "totalContributionToGlobal": 1.2454
     }
-  ],
-  "zona-13": [
-    {
-      "name": "Chapulco",
-      "zone": "zona-13",
-      "goal": 4901,
-      "promoted": 3919,
-      "progress": 79.96327,
-      "contributionToTotal": 0.3919
-    },
-    {
-      "name": "Tepexco",
-      "zone": "zona-13",
-      "goal": 4901,
-      "promoted": 3580,
-      "progress": 73.04632,
-      "contributionToTotal": 0.358
-    },
-    {
-      "name": "Izúcar de Matamoros",
-      "zone": "zona-13",
-      "goal": 4901,
-      "promoted": 2084,
-      "progress": 42.52193,
-      "contributionToTotal": 0.2084
-    },
-    {
-      "name": "Nicolás Bravo",
-      "zone": "zona-13",
-      "goal": 4901,
-      "promoted": 2804,
-      "progress": 57.21281,
-      "contributionToTotal": 0.2804
-    },
-    {
-      "name": "Chigmecatitlán",
-      "zone": "zona-13",
-      "goal": 4901,
-      "promoted": 3191,
-      "progress": 65.10916,
-      "contributionToTotal": 0.3191
-    },
-    {
-      "name": "Tilapa",
-      "zone": "zona-13",
-      "goal": 4901,
-      "promoted": 1037,
-      "progress": 21.15895,
-      "contributionToTotal": 0.1037
-    },
-    {
-      "name": "Epatlán",
-      "zone": "zona-13",
-      "goal": 4901,
-      "promoted": 3408,
-      "progress": 69.53683,
-      "contributionToTotal": 0.3408
-    },
-    {
-      "name": "Ahuatlán",
-      "zone": "zona-13",
-      "goal": 4901,
-      "promoted": 3748,
-      "progress": 76.47419,
-      "contributionToTotal": 0.3748
-    },
-    {
-      "name": "Xochiltepec",
-      "zone": "zona-13",
-      "goal": 4901,
-      "promoted": 239,
-      "progress": 4.87656,
-      "contributionToTotal": 0.0239
-    },
-    {
-      "name": "San Martín Totoltepec",
-      "zone": "zona-13",
-      "goal": 4901,
-      "promoted": 3566,
-      "progress": 72.76066,
-      "contributionToTotal": 0.3566
-    },
-    {
-      "name": "Santa Catarina Tlaltempan",
-      "zone": "zona-13",
-      "goal": 4901,
-      "promoted": 3332,
-      "progress": 67.98613,
-      "contributionToTotal": 0.3332
-    },
-    {
-      "name": "Vicente Guerrero",
-      "zone": "zona-13",
-      "goal": 4901,
-      "promoted": 1665,
-      "progress": 33.97266,
-      "contributionToTotal": 0.1665
+  },
+  "zona-13": {
+    "db": [
+      {
+        "name": "Chapulco",
+        "zone": "zona-13",
+        "goal": 3623,
+        "promoted": 1257,
+        "progress": 34.695,
+        "contributionToGlobal": 0.1257
+      },
+      {
+        "name": "Tepexco",
+        "zone": "zona-13",
+        "goal": 3623,
+        "promoted": 1275,
+        "progress": 35.19183,
+        "contributionToGlobal": 0.1275
+      },
+      {
+        "name": "Izúcar de Matamoros",
+        "zone": "zona-13",
+        "goal": 3623,
+        "promoted": 2607,
+        "progress": 71.95694,
+        "contributionToGlobal": 0.2607
+      },
+      {
+        "name": "Nicolás Bravo",
+        "zone": "zona-13",
+        "goal": 3623,
+        "promoted": 1034,
+        "progress": 28.53988,
+        "contributionToGlobal": 0.1034
+      },
+      {
+        "name": "Chigmecatitlán",
+        "zone": "zona-13",
+        "goal": 3623,
+        "promoted": 2073,
+        "progress": 57.21778,
+        "contributionToGlobal": 0.2073
+      },
+      {
+        "name": "Tilapa",
+        "zone": "zona-13",
+        "goal": 3623,
+        "promoted": 352,
+        "progress": 9.71571,
+        "contributionToGlobal": 0.0352
+      },
+      {
+        "name": "Epatlán",
+        "zone": "zona-13",
+        "goal": 3623,
+        "promoted": 1732,
+        "progress": 47.80569,
+        "contributionToGlobal": 0.1732
+      },
+      {
+        "name": "Ahuatlán",
+        "zone": "zona-13",
+        "goal": 3623,
+        "promoted": 1253,
+        "progress": 34.5846,
+        "contributionToGlobal": 0.1253
+      },
+      {
+        "name": "Xochiltepec",
+        "zone": "zona-13",
+        "goal": 3623,
+        "promoted": 346,
+        "progress": 9.5501,
+        "contributionToGlobal": 0.0346
+      },
+      {
+        "name": "San Martín Totoltepec",
+        "zone": "zona-13",
+        "goal": 3623,
+        "promoted": 582,
+        "progress": 16.06404,
+        "contributionToGlobal": 0.0582
+      },
+      {
+        "name": "Santa Catarina Tlaltempan",
+        "zone": "zona-13",
+        "goal": 3623,
+        "promoted": 1796,
+        "progress": 49.57218,
+        "contributionToGlobal": 0.1796
+      },
+      {
+        "name": "Vicente Guerrero",
+        "zone": "zona-13",
+        "goal": 3623,
+        "promoted": 225,
+        "progress": 6.21032,
+        "contributionToGlobal": 0.0225
+      }
+    ],
+    "meta": {
+      "totalPromoted": 14532,
+      "totalContributionToGlobal": 1.4532
     }
-  ],
-  "zona-14": [
-    {
-      "name": "Coatzingo",
-      "zone": "zona-14",
-      "goal": 4524,
-      "promoted": 3509,
-      "progress": 77.5641,
-      "contributionToTotal": 0.3509
-    },
-    {
-      "name": "Chietla",
-      "zone": "zona-14",
-      "goal": 4524,
-      "promoted": 335,
-      "progress": 7.40495,
-      "contributionToTotal": 0.0335
-    },
-    {
-      "name": "Tepexi de Rodríguez",
-      "zone": "zona-14",
-      "goal": 4524,
-      "promoted": 3396,
-      "progress": 75.06631,
-      "contributionToTotal": 0.3396
-    },
-    {
-      "name": "Santiago Miahuatlán",
-      "zone": "zona-14",
-      "goal": 4524,
-      "promoted": 2493,
-      "progress": 55.1061,
-      "contributionToTotal": 0.2493
-    },
-    {
-      "name": "Juan N. Méndez",
-      "zone": "zona-14",
-      "goal": 4524,
-      "promoted": 1107,
-      "progress": 24.4695,
-      "contributionToTotal": 0.1107
-    },
-    {
-      "name": "Atzala",
-      "zone": "zona-14",
-      "goal": 4524,
-      "promoted": 2393,
-      "progress": 52.89567,
-      "contributionToTotal": 0.2393
-    },
-    {
-      "name": "San Antonio Cañada",
-      "zone": "zona-14",
-      "goal": 4524,
-      "promoted": 2204,
-      "progress": 48.71795,
-      "contributionToTotal": 0.2204
-    },
-    {
-      "name": "Eloxochitlán",
-      "zone": "zona-14",
-      "goal": 4524,
-      "promoted": 1172,
-      "progress": 25.90628,
-      "contributionToTotal": 0.1172
-    },
-    {
-      "name": "Ixcaquixtla",
-      "zone": "zona-14",
-      "goal": 4524,
-      "promoted": 707,
-      "progress": 15.62776,
-      "contributionToTotal": 0.0707
-    },
-    {
-      "name": "Ajalpan",
-      "zone": "zona-14",
-      "goal": 4524,
-      "promoted": 668,
-      "progress": 14.76569,
-      "contributionToTotal": 0.0668
-    },
-    {
-      "name": "San Sebastián Tlacotepec",
-      "zone": "zona-14",
-      "goal": 4524,
-      "promoted": 1267,
-      "progress": 28.00619,
-      "contributionToTotal": 0.1267
-    },
-    {
-      "name": "Cuayuca de Andrade",
-      "zone": "zona-14",
-      "goal": 4524,
-      "promoted": 3288,
-      "progress": 72.67905,
-      "contributionToTotal": 0.3288
-    },
-    {
-      "name": "Santa Inés Ahuatempan",
-      "zone": "zona-14",
-      "goal": 4524,
-      "promoted": 3245,
-      "progress": 71.72856,
-      "contributionToTotal": 0.3245
+  },
+  "zona-14": {
+    "db": [
+      {
+        "name": "Coatzingo",
+        "zone": "zona-14",
+        "goal": 3344,
+        "promoted": 2512,
+        "progress": 75.11962,
+        "contributionToGlobal": 0.2512
+      },
+      {
+        "name": "Chietla",
+        "zone": "zona-14",
+        "goal": 3344,
+        "promoted": 254,
+        "progress": 7.59569,
+        "contributionToGlobal": 0.0254
+      },
+      {
+        "name": "Tepexi de Rodríguez",
+        "zone": "zona-14",
+        "goal": 3344,
+        "promoted": 1390,
+        "progress": 41.56699,
+        "contributionToGlobal": 0.139
+      },
+      {
+        "name": "Santiago Miahuatlán",
+        "zone": "zona-14",
+        "goal": 3344,
+        "promoted": 824,
+        "progress": 24.64115,
+        "contributionToGlobal": 0.0824
+      },
+      {
+        "name": "Juan N. Méndez",
+        "zone": "zona-14",
+        "goal": 3344,
+        "promoted": 1660,
+        "progress": 49.64115,
+        "contributionToGlobal": 0.166
+      },
+      {
+        "name": "Atzala",
+        "zone": "zona-14",
+        "goal": 3344,
+        "promoted": 1639,
+        "progress": 49.01316,
+        "contributionToGlobal": 0.1639
+      },
+      {
+        "name": "San Antonio Cañada",
+        "zone": "zona-14",
+        "goal": 3344,
+        "promoted": 79,
+        "progress": 2.36244,
+        "contributionToGlobal": 0.0079
+      },
+      {
+        "name": "Eloxochitlán",
+        "zone": "zona-14",
+        "goal": 3344,
+        "promoted": 2332,
+        "progress": 69.73684,
+        "contributionToGlobal": 0.2332
+      },
+      {
+        "name": "Ixcaquixtla",
+        "zone": "zona-14",
+        "goal": 3344,
+        "promoted": 318,
+        "progress": 9.50957,
+        "contributionToGlobal": 0.0318
+      },
+      {
+        "name": "Ajalpan",
+        "zone": "zona-14",
+        "goal": 3344,
+        "promoted": 2317,
+        "progress": 69.28828,
+        "contributionToGlobal": 0.2317
+      },
+      {
+        "name": "San Sebastián Tlacotepec",
+        "zone": "zona-14",
+        "goal": 3344,
+        "promoted": 740,
+        "progress": 22.12919,
+        "contributionToGlobal": 0.074
+      },
+      {
+        "name": "Cuayuca de Andrade",
+        "zone": "zona-14",
+        "goal": 3344,
+        "promoted": 2579,
+        "progress": 77.12321,
+        "contributionToGlobal": 0.2579
+      },
+      {
+        "name": "Santa Inés Ahuatempan",
+        "zone": "zona-14",
+        "goal": 3344,
+        "promoted": 1683,
+        "progress": 50.32895,
+        "contributionToGlobal": 0.1683
+      }
+    ],
+    "meta": {
+      "totalPromoted": 18327,
+      "totalContributionToGlobal": 1.8327000000000004
     }
-  ],
-  "zona-15": [
-    {
-      "name": "Tepanco de López",
-      "zone": "zona-15",
-      "goal": 4524,
-      "promoted": 2942,
-      "progress": 65.03095,
-      "contributionToTotal": 0.2942
-    },
-    {
-      "name": "Tehuacán",
-      "zone": "zona-15",
-      "goal": 4524,
-      "promoted": 3496,
-      "progress": 77.27675,
-      "contributionToTotal": 0.3496
-    },
-    {
-      "name": "Tehuitzingo",
-      "zone": "zona-15",
-      "goal": 4524,
-      "promoted": 2997,
-      "progress": 66.24668,
-      "contributionToTotal": 0.2997
-    },
-    {
-      "name": "Coyotepec",
-      "zone": "zona-15",
-      "goal": 4524,
-      "promoted": 3168,
-      "progress": 70.02653,
-      "contributionToTotal": 0.3168
-    },
-    {
-      "name": "Atexcal",
-      "zone": "zona-15",
-      "goal": 4524,
-      "promoted": 2777,
-      "progress": 61.38373,
-      "contributionToTotal": 0.2777
-    },
-    {
-      "name": "Chiautla",
-      "zone": "zona-15",
-      "goal": 4524,
-      "promoted": 2480,
-      "progress": 54.81874,
-      "contributionToTotal": 0.248
-    },
-    {
-      "name": "Teotlalco",
-      "zone": "zona-15",
-      "goal": 4524,
-      "promoted": 1847,
-      "progress": 40.8267,
-      "contributionToTotal": 0.1847
-    },
-    {
-      "name": "Jolalpan",
-      "zone": "zona-15",
-      "goal": 4524,
-      "promoted": 751,
-      "progress": 16.60035,
-      "contributionToTotal": 0.0751
-    },
-    {
-      "name": "Zapotitlán",
-      "zone": "zona-15",
-      "goal": 4524,
-      "promoted": 1775,
-      "progress": 39.23519,
-      "contributionToTotal": 0.1775
-    },
-    {
-      "name": "Altepexi",
-      "zone": "zona-15",
-      "goal": 4524,
-      "promoted": 113,
-      "progress": 2.49779,
-      "contributionToTotal": 0.0113
-    },
-    {
-      "name": "San Gabriel Chilac",
-      "zone": "zona-15",
-      "goal": 4524,
-      "promoted": 2890,
-      "progress": 63.88152,
-      "contributionToTotal": 0.289
-    },
-    {
-      "name": "Totoltepec de Guerrero",
-      "zone": "zona-15",
-      "goal": 4524,
-      "promoted": 2816,
-      "progress": 62.2458,
-      "contributionToTotal": 0.2816
-    },
-    {
-      "name": "Acatlán",
-      "zone": "zona-15",
-      "goal": 4524,
-      "promoted": 2015,
-      "progress": 44.54023,
-      "contributionToTotal": 0.2015
+  },
+  "zona-15": {
+    "db": [
+      {
+        "name": "Tepanco de López",
+        "zone": "zona-15",
+        "goal": 3344,
+        "promoted": 558,
+        "progress": 16.6866,
+        "contributionToGlobal": 0.0558
+      },
+      {
+        "name": "Tehuacán",
+        "zone": "zona-15",
+        "goal": 3344,
+        "promoted": 570,
+        "progress": 17.04545,
+        "contributionToGlobal": 0.057
+      },
+      {
+        "name": "Tehuitzingo",
+        "zone": "zona-15",
+        "goal": 3344,
+        "promoted": 2478,
+        "progress": 74.10287,
+        "contributionToGlobal": 0.2478
+      },
+      {
+        "name": "Coyotepec",
+        "zone": "zona-15",
+        "goal": 3344,
+        "promoted": 888,
+        "progress": 26.55502,
+        "contributionToGlobal": 0.0888
+      },
+      {
+        "name": "Atexcal",
+        "zone": "zona-15",
+        "goal": 3344,
+        "promoted": 1974,
+        "progress": 59.0311,
+        "contributionToGlobal": 0.1974
+      },
+      {
+        "name": "Chiautla",
+        "zone": "zona-15",
+        "goal": 3344,
+        "promoted": 985,
+        "progress": 29.45574,
+        "contributionToGlobal": 0.0985
+      },
+      {
+        "name": "Teotlalco",
+        "zone": "zona-15",
+        "goal": 3344,
+        "promoted": 2660,
+        "progress": 79.54545,
+        "contributionToGlobal": 0.266
+      },
+      {
+        "name": "Jolalpan",
+        "zone": "zona-15",
+        "goal": 3344,
+        "promoted": 487,
+        "progress": 14.5634,
+        "contributionToGlobal": 0.0487
+      },
+      {
+        "name": "Zapotitlán",
+        "zone": "zona-15",
+        "goal": 3344,
+        "promoted": 868,
+        "progress": 25.95694,
+        "contributionToGlobal": 0.0868
+      },
+      {
+        "name": "Altepexi",
+        "zone": "zona-15",
+        "goal": 3344,
+        "promoted": 1119,
+        "progress": 33.46292,
+        "contributionToGlobal": 0.1119
+      },
+      {
+        "name": "San Gabriel Chilac",
+        "zone": "zona-15",
+        "goal": 3344,
+        "promoted": 950,
+        "progress": 28.40909,
+        "contributionToGlobal": 0.095
+      },
+      {
+        "name": "Totoltepec de Guerrero",
+        "zone": "zona-15",
+        "goal": 3344,
+        "promoted": 2221,
+        "progress": 66.41746,
+        "contributionToGlobal": 0.2221
+      },
+      {
+        "name": "Acatlán",
+        "zone": "zona-15",
+        "goal": 3344,
+        "promoted": 412,
+        "progress": 12.32057,
+        "contributionToGlobal": 0.0412
+      }
+    ],
+    "meta": {
+      "totalPromoted": 16170,
+      "totalContributionToGlobal": 1.617
     }
-  ],
-  "zona-16": [
-    {
-      "name": "Zinacatepec",
-      "zone": "zona-16",
-      "goal": 4524,
-      "promoted": 1248,
-      "progress": 27.58621,
-      "contributionToTotal": 0.1248
-    },
-    {
-      "name": "Coxcatlán",
-      "zone": "zona-16",
-      "goal": 4524,
-      "promoted": 631,
-      "progress": 13.94783,
-      "contributionToTotal": 0.0631
-    },
-    {
-      "name": "Xayacatlán de Bravo",
-      "zone": "zona-16",
-      "goal": 4524,
-      "promoted": 223,
-      "progress": 4.92927,
-      "contributionToTotal": 0.0223
-    },
-    {
-      "name": "Cohetzala",
-      "zone": "zona-16",
-      "goal": 4524,
-      "promoted": 835,
-      "progress": 18.45712,
-      "contributionToTotal": 0.0835
-    },
-    {
-      "name": "San José Miahuatlán",
-      "zone": "zona-16",
-      "goal": 4524,
-      "promoted": 1441,
-      "progress": 31.85234,
-      "contributionToTotal": 0.1441
-    },
-    {
-      "name": "Axutla",
-      "zone": "zona-16",
-      "goal": 4524,
-      "promoted": 215,
-      "progress": 4.75243,
-      "contributionToTotal": 0.0215
-    },
-    {
-      "name": "Huehuetlán el Chico",
-      "zone": "zona-16",
-      "goal": 4524,
-      "promoted": 103,
-      "progress": 2.27675,
-      "contributionToTotal": 0.0103
-    },
-    {
-      "name": "San Jerónimo Xayacatlán",
-      "zone": "zona-16",
-      "goal": 4524,
-      "promoted": 2987,
-      "progress": 66.02564,
-      "contributionToTotal": 0.2987
-    },
-    {
-      "name": "Ahuehuetitla",
-      "zone": "zona-16",
-      "goal": 4524,
-      "promoted": 1080,
-      "progress": 23.87268,
-      "contributionToTotal": 0.108
-    },
-    {
-      "name": "Coyomeapan",
-      "zone": "zona-16",
-      "goal": 4524,
-      "promoted": 2190,
-      "progress": 48.40849,
-      "contributionToTotal": 0.219
-    },
-    {
-      "name": "Zoquitlán",
-      "zone": "zona-16",
-      "goal": 4524,
-      "promoted": 2766,
-      "progress": 61.14058,
-      "contributionToTotal": 0.2766
-    },
-    {
-      "name": "Caltepec",
-      "zone": "zona-16",
-      "goal": 4524,
-      "promoted": 3236,
-      "progress": 71.52962,
-      "contributionToTotal": 0.3236
-    },
-    {
-      "name": "Chila de la Sal",
-      "zone": "zona-16",
-      "goal": 4524,
-      "promoted": 1275,
-      "progress": 28.18302,
-      "contributionToTotal": 0.1275
+  },
+  "zona-16": {
+    "db": [
+      {
+        "name": "Zinacatepec",
+        "zone": "zona-16",
+        "goal": 3344,
+        "promoted": 1194,
+        "progress": 35.70574,
+        "contributionToGlobal": 0.1194
+      },
+      {
+        "name": "Coxcatlán",
+        "zone": "zona-16",
+        "goal": 3344,
+        "promoted": 211,
+        "progress": 6.30981,
+        "contributionToGlobal": 0.0211
+      },
+      {
+        "name": "Xayacatlán de Bravo",
+        "zone": "zona-16",
+        "goal": 3344,
+        "promoted": 1410,
+        "progress": 42.16507,
+        "contributionToGlobal": 0.141
+      },
+      {
+        "name": "Cohetzala",
+        "zone": "zona-16",
+        "goal": 3344,
+        "promoted": 2009,
+        "progress": 60.07775,
+        "contributionToGlobal": 0.2009
+      },
+      {
+        "name": "San José Miahuatlán",
+        "zone": "zona-16",
+        "goal": 3344,
+        "promoted": 1289,
+        "progress": 38.54665,
+        "contributionToGlobal": 0.1289
+      },
+      {
+        "name": "Axutla",
+        "zone": "zona-16",
+        "goal": 3344,
+        "promoted": 2611,
+        "progress": 78.08014,
+        "contributionToGlobal": 0.2611
+      },
+      {
+        "name": "Huehuetlán el Chico",
+        "zone": "zona-16",
+        "goal": 3344,
+        "promoted": 2250,
+        "progress": 67.28469,
+        "contributionToGlobal": 0.225
+      },
+      {
+        "name": "San Jerónimo Xayacatlán",
+        "zone": "zona-16",
+        "goal": 3344,
+        "promoted": 1674,
+        "progress": 50.05981,
+        "contributionToGlobal": 0.1674
+      },
+      {
+        "name": "Ahuehuetitla",
+        "zone": "zona-16",
+        "goal": 3344,
+        "promoted": 2527,
+        "progress": 75.56818,
+        "contributionToGlobal": 0.2527
+      },
+      {
+        "name": "Coyomeapan",
+        "zone": "zona-16",
+        "goal": 3344,
+        "promoted": 99,
+        "progress": 2.96053,
+        "contributionToGlobal": 0.0099
+      },
+      {
+        "name": "Zoquitlán",
+        "zone": "zona-16",
+        "goal": 3344,
+        "promoted": 336,
+        "progress": 10.04785,
+        "contributionToGlobal": 0.0336
+      },
+      {
+        "name": "Caltepec",
+        "zone": "zona-16",
+        "goal": 3344,
+        "promoted": 2530,
+        "progress": 75.65789,
+        "contributionToGlobal": 0.253
+      },
+      {
+        "name": "Chila de la Sal",
+        "zone": "zona-16",
+        "goal": 3344,
+        "promoted": 2649,
+        "progress": 79.21651,
+        "contributionToGlobal": 0.2649
+      }
+    ],
+    "meta": {
+      "totalPromoted": 20789,
+      "totalContributionToGlobal": 2.0789
     }
-  ],
-  "zona-17": [
-    {
-      "name": "Piaxtla",
-      "zone": "zona-17",
-      "goal": 4524,
-      "promoted": 2659,
-      "progress": 58.77542,
-      "contributionToTotal": 0.2659
-    },
-    {
-      "name": "Chinantla",
-      "zone": "zona-17",
-      "goal": 4524,
-      "promoted": 3012,
-      "progress": 66.57825,
-      "contributionToTotal": 0.3012
-    },
-    {
-      "name": "San Pablo Anicano",
-      "zone": "zona-17",
-      "goal": 4524,
-      "promoted": 2137,
-      "progress": 47.23696,
-      "contributionToTotal": 0.2137
-    },
-    {
-      "name": "Xicotlán",
-      "zone": "zona-17",
-      "goal": 4524,
-      "promoted": 3591,
-      "progress": 79.37666,
-      "contributionToTotal": 0.3591
-    },
-    {
-      "name": "Petlalcingo",
-      "zone": "zona-17",
-      "goal": 4524,
-      "promoted": 1235,
-      "progress": 27.29885,
-      "contributionToTotal": 0.1235
-    },
-    {
-      "name": "San Pedro Yeloixtlahuaca",
-      "zone": "zona-17",
-      "goal": 4524,
-      "promoted": 2204,
-      "progress": 48.71795,
-      "contributionToTotal": 0.2204
-    },
-    {
-      "name": "Guadalupe",
-      "zone": "zona-17",
-      "goal": 4524,
-      "promoted": 2569,
-      "progress": 56.78603,
-      "contributionToTotal": 0.2569
-    },
-    {
-      "name": "Tecomatlán",
-      "zone": "zona-17",
-      "goal": 4524,
-      "promoted": 178,
-      "progress": 3.93457,
-      "contributionToTotal": 0.0178
-    },
-    {
-      "name": "Ixcamilpa de Guerrero",
-      "zone": "zona-17",
-      "goal": 4524,
-      "promoted": 1114,
-      "progress": 24.62423,
-      "contributionToTotal": 0.1114
-    },
-    {
-      "name": "Tulcingo",
-      "zone": "zona-17",
-      "goal": 4524,
-      "promoted": 2879,
-      "progress": 63.63837,
-      "contributionToTotal": 0.2879
-    },
-    {
-      "name": "San Miguel Ixitlán",
-      "zone": "zona-17",
-      "goal": 4524,
-      "promoted": 2119,
-      "progress": 46.83908,
-      "contributionToTotal": 0.2119
-    },
-    {
-      "name": "Albino Zertuche",
-      "zone": "zona-17",
-      "goal": 4524,
-      "promoted": 1880,
-      "progress": 41.55615,
-      "contributionToTotal": 0.188
-    },
-    {
-      "name": "Chila",
-      "zone": "zona-17",
-      "goal": 4524,
-      "promoted": 1519,
-      "progress": 33.57648,
-      "contributionToTotal": 0.1519
+  },
+  "zona-17": {
+    "db": [
+      {
+        "name": "Piaxtla",
+        "zone": "zona-17",
+        "goal": 3344,
+        "promoted": 449,
+        "progress": 13.42703,
+        "contributionToGlobal": 0.0449
+      },
+      {
+        "name": "Chinantla",
+        "zone": "zona-17",
+        "goal": 3344,
+        "promoted": 159,
+        "progress": 4.75478,
+        "contributionToGlobal": 0.0159
+      },
+      {
+        "name": "San Pablo Anicano",
+        "zone": "zona-17",
+        "goal": 3344,
+        "promoted": 404,
+        "progress": 12.08134,
+        "contributionToGlobal": 0.0404
+      },
+      {
+        "name": "Xicotlán",
+        "zone": "zona-17",
+        "goal": 3344,
+        "promoted": 72,
+        "progress": 2.15311,
+        "contributionToGlobal": 0.0072
+      },
+      {
+        "name": "Petlalcingo",
+        "zone": "zona-17",
+        "goal": 3344,
+        "promoted": 726,
+        "progress": 21.71053,
+        "contributionToGlobal": 0.0726
+      },
+      {
+        "name": "San Pedro Yeloixtlahuaca",
+        "zone": "zona-17",
+        "goal": 3344,
+        "promoted": 191,
+        "progress": 5.71172,
+        "contributionToGlobal": 0.0191
+      },
+      {
+        "name": "Guadalupe",
+        "zone": "zona-17",
+        "goal": 3344,
+        "promoted": 344,
+        "progress": 10.28708,
+        "contributionToGlobal": 0.0344
+      },
+      {
+        "name": "Tecomatlán",
+        "zone": "zona-17",
+        "goal": 3344,
+        "promoted": 2577,
+        "progress": 77.0634,
+        "contributionToGlobal": 0.2577
+      },
+      {
+        "name": "Ixcamilpa de Guerrero",
+        "zone": "zona-17",
+        "goal": 3344,
+        "promoted": 699,
+        "progress": 20.90311,
+        "contributionToGlobal": 0.0699
+      },
+      {
+        "name": "Tulcingo",
+        "zone": "zona-17",
+        "goal": 3344,
+        "promoted": 125,
+        "progress": 3.73804,
+        "contributionToGlobal": 0.0125
+      },
+      {
+        "name": "San Miguel Ixitlán",
+        "zone": "zona-17",
+        "goal": 3344,
+        "promoted": 933,
+        "progress": 27.90072,
+        "contributionToGlobal": 0.0933
+      },
+      {
+        "name": "Albino Zertuche",
+        "zone": "zona-17",
+        "goal": 3344,
+        "promoted": 2255,
+        "progress": 67.43421,
+        "contributionToGlobal": 0.2255
+      },
+      {
+        "name": "Chila",
+        "zone": "zona-17",
+        "goal": 3344,
+        "promoted": 1072,
+        "progress": 32.05742,
+        "contributionToGlobal": 0.1072
+      }
+    ],
+    "meta": {
+      "totalPromoted": 10006,
+      "totalContributionToGlobal": 1.0006
     }
-  ]
+  }
 }

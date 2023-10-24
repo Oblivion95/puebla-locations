@@ -21,7 +21,7 @@ exports.municipalities = (() => {
             max: (countyGoal * 0.8) | 0,
           });
           const countyProgress = +((countyPromoted / countyGoal) * 100).toFixed(5);
-          const contributionToTotal = +(
+          const contributionToGlobal = +(
             (countyPromoted / MAX_PROMOTIONS) *
             100
           ).toFixed(5);
@@ -32,7 +32,7 @@ exports.municipalities = (() => {
             goal: countyGoal,
             promoted: countyPromoted,
             progress: countyProgress,
-            contributionToTotal,
+            contributionToGlobal,
           };
         }
       );

@@ -1,74 +1,94 @@
-const { getZipCodes } = require("../utils/get-zc-by-county");
+const getZipCodes = require("../utils/get-zc-by-county");
 const { extractJSONByZipCode } = require("../utils/extract-zip-code");
+const colors = require("../constants/colors.json");
 
-const getZones = (req, res) => {};
+const zones = require('../constants/puebla-counties-by-zone.json')
 
-const getStateZones = (req, res) => {
-  const { zone } = req.params;
-  const zones = require("../constants/puebla-counties-by-zone.json");
+const getStateZones = async (req, res) => {
+  const fetch = (await import("node-fetch")).default;
 
-  if (zone) {
-    const resp = zones.filter((z) => z.zone === zone);
+  // const zones = await fetch(
+  //   "https://firebasestorage.googleapis.com/v0/b/puebla-locations.appspot.com/o/puebla-counties-by-zone.json?alt=media&token=a0f859b6-afd7-4baf-a5be-9141d7e9eb0f&_gl=1*1ifcmk7*_ga*NTc0NDA4OTI5LjE2OTE4ODIwNzc.*_ga_CW55HF8NVT*MTY5NzU4NzI5Mi4zMC4xLjE2OTc1ODc2NTcuNDIuMC4w"
+  // );
 
-    if (!resp.length) {
-      throw Error("Zone not found");
-    }
-
-    return resp;
-  }
+  // return zones.json();
 
   return zones;
 };
 
-const getZoneCounties = (req, res) => {
-  let { county, zone } = req.params;
-  const [{ geoJSON }] = getStateZones(req, res);
+const getZoneCounties = async (req) => {
+  let { zone } = req.params;
 
-  county = county.replace(/%20|\+/g, " ");
+  // const zones = await getStateZones();
 
-  const resp = geoJSON.features.filter(
-    (feature) => feature.properties.nomgeo === county
-  );
+  const result = zones.filter((z) => z.zone === zone);
+  const { length: colorsLength } = colors;
 
-  if (!resp.length) {
-    throw Error("County not found");
+  if (!result.length) {
+    throw Error("Zone not found");
   }
 
-  return [
+  const [
     {
-      type: "FeatureCollection",
-      features: resp,
-      county,
-      zone,
-      id: zone,
+      geoJSON: { features },
     },
-  ];
+  ] = result;
+
+  const finalResult = features.map((feature, index) => {
+    const id = feature.properties.nomgeo;
+    const county = id;
+    feature.properties.zone = zone;
+    feature.properties.county = feature.properties.nomgeo;
+
+    return {
+      geoJSON: {
+        type: "FeatureCollection",
+        features: [feature],
+      },
+      fill: colors[index % colorsLength],
+      id,
+      zone,
+      county,
+    };
+  });
+
+  return finalResult;
 };
 
-const getCountyZones = async (req, res) => {
+const getCountySections = async (req) => {
   const { county, zone } = req.params;
   const _county = county.replace(/\s/g, "%20");
 
   const zipCodes = await getZipCodes(_county);
-  const features = extractJSONByZipCode(zipCodes);
-
   if (!zipCodes.length) {
     throw Error("County not found");
   }
 
-  return [
-    {
-      geoJSON: { type: "FeatureCollection", features },
-      county,
+  const features = await extractJSONByZipCode(zipCodes);
+  const result = features.map((feature, index) => {
+    const section = `sección-${index + 1}`;
+    feature.properties.zone = zone;
+    feature.properties.county = county;
+    feature.properties.section = section;
+
+    return {
+      geoJSON: {
+        type: "FeatureCollection",
+        features: [feature],
+      },
+      fill: colors[index % colors.length],
+      id: section,
       zone,
-      id: county,
-    },
-  ];
+      county,
+      section,
+    };
+  });
+
+  return result;
 };
 
 module.exports = {
-  getZones,
   getStateZones,
   getZoneCounties,
-  getCountyZones,
+  getCountySections,
 };

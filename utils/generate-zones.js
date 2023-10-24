@@ -8,10 +8,12 @@ exports.zones = (() => {
 
   const tuple = Array.from({ length: zonesLength }, (_, i) => i + 1).map(
     (row, index) => {
-      const goal = MAX_PROMOTIONS / zonesLength | 0;
-      const promoted = faker.number.int({ min: 1000, max: goal * 0.8 | 0 });
-      const progress = +(promoted / goal * 100).toFixed(5);
-      const contributionToTotal = +(promoted / MAX_PROMOTIONS * 100).toFixed(5);
+      const goal = (MAX_PROMOTIONS / zonesLength) | 0;
+      const promoted = faker.number.int({ min: 1000, max: (goal * 0.8) | 0 });
+      const progress = +((promoted / goal) * 100).toFixed(5);
+      const contributionToGlobal = +((promoted / MAX_PROMOTIONS) * 100).toFixed(
+        5
+      );
 
       return {
         id: row,
@@ -19,11 +21,20 @@ exports.zones = (() => {
         goal,
         promoted,
         progress,
-        contributionToTotal,
+        contributionToGlobal,
         color: colors[index],
       };
     }
   );
 
-  return tuple;
+  return {
+    db: tuple,
+    meta: {
+      totalPromoted: tuple.reduce((acc, { promoted }) => acc + promoted, 0),
+      totalContributionToGlobal: tuple.reduce(
+        (acc, { contributionToGlobal }) => acc + contributionToGlobal,
+        0
+      ),
+    },
+  };
 })();

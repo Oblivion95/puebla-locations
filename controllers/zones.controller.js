@@ -1,4 +1,4 @@
-const { getZipCodes } = require("../utils/get-zc-by-county");
+const getZipCodes = require("../utils/get-zc-by-county");
 const counties = require("../constants/counties-by-zone.json");
 const { MAX_PROMOTIONS } = require("../constants/stats.json");
 const { faker } = require("@faker-js/faker");
@@ -29,14 +29,14 @@ const getCountyZones = async (req, res) => {
 
   county = county.replace(/%20|\+/g, " ");
 
-  const [countyStats] = counties[zone].filter((c) => c.name === county);
+  const [countyStats] = counties[zone].db.filter((c) => c.name === county);
   const zipCodes = await getZipCodes(county);
 
   const sections = {};
 
-  console.log('zipCodes.length', zipCodes.length);
+  sections.sections = {};
 
-  sections.sections= Array.from({ length: zipCodes.length }, (_, index) => {
+  sections.sections.db = Array.from({ length: zipCodes.length }, (_, index) => {
     const promoted = faker.number.int({
       min: 10,
       max: countyStats.goal * 0.4 | 0,
@@ -50,6 +50,10 @@ const getCountyZones = async (req, res) => {
     }
   });
 
+  sections.sections.meta = {
+    totalPromoted: sections.sections.db.reduce((acc, curr) => acc + curr.promoted, 0),
+    totalContributionToGlobal: sections.sections.db.reduce((acc, curr) => acc + curr.contributionToGlobal, 0),
+  }
 
   return sections;
 };

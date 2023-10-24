@@ -6,16 +6,14 @@ const getZipCodes = async (county) => {
   const getRawData = (URL) =>
     fetch(URL)
       .then((response) => response.text())
-      .then((data) => {
-        return data;
-      });
+      .then((data) => data);
 
   // URL for data
-  const URL =
-    `https://micodigopostal.org/buscar.php?buscar=${county}`;
+  const url =
+    new URL(`https://micodigopostal.org/buscar.php?buscar=${county}`);
 
   // start of the program
-  const cricketWorldCupRawData = await getRawData(URL);
+  const cricketWorldCupRawData = await getRawData(url);
 
   const $ = cheerio.load(cricketWorldCupRawData);
 
@@ -31,4 +29,4 @@ const getZipCodes = async (county) => {
   return array;
 };
 
-exports.getZipCodes = getZipCodes;
+module.exports = getZipCodes;

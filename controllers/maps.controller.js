@@ -1,8 +1,8 @@
 const MapsServices = require("../services/maps.services");
 
-const getStateZones = (req, res) => {
+const getStateZones = async (req, res) => {
   try {
-    const resp = MapsServices.getStateZones(req, res);
+    const resp = await MapsServices.getStateZones(req, res);
 
     return { resp, status: 200 };
   } catch (error) {
@@ -10,9 +10,9 @@ const getStateZones = (req, res) => {
   }
 };
 
-const getZoneCounties = (req, res) => {
+const getZoneCounties = async (req, res) => {
   try {
-    const resp = MapsServices.getZoneCounties(req, res);
+    const resp = await MapsServices.getZoneCounties(req, res);
 
     return { resp, status: 200 };
   } catch (error) {
@@ -20,9 +20,11 @@ const getZoneCounties = (req, res) => {
   }
 };
 
-const getCountyZones = async (req, res) => {
+const getCountySections = async (req, res) => {
   try {
-    const resp = await MapsServices.getCountyZones(req, res);
+    console.log('getCountySections: ')
+    const resp = await MapsServices.getCountySections(req, res);
+    console.log(resp)
 
     return { resp, status: 200 };
   } catch (error) {
@@ -30,4 +32,4 @@ const getCountyZones = async (req, res) => {
   }
 };
 
-module.exports = { getStateZones, getZoneCounties, getCountyZones };
+module.exports = { getStateZones, getZoneCounties, getCountySections };
