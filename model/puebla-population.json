@@ -1,142 +1,118 @@
 {
   "population": [
     {
-      "Grupo de edad": "0 a 4 años",
-      "Total": "578,779",
-      "Hombres": "292,266",
-      "Mujeres": "286,513"
+      "Grupo de edad": "18 a 22 años",
+      "Total": "570646",
+      "Hombres": "279374",
+      "Mujeres": "291272"
     },
     {
-      "Grupo de edad": "5 a 9 años",
-      "Total": "598,550",
-      "Hombres": "302,188",
-      "Mujeres": "296,362"
+      "Grupo de edad": "23 a 27 años",
+      "Total": "528289",
+      "Hombres": "251899",
+      "Mujeres": "276390"
     },
     {
-      "Grupo de edad": "10 a 14 años",
-      "Total": "603,375",
-      "Hombres": "305,853",
-      "Mujeres": "297,522"
+      "Grupo de edad": "28 a 32 años",
+      "Total": "475854",
+      "Hombres": "221145",
+      "Mujeres": "254709"
     },
     {
-      "Grupo de edad": "15 a 19 años",
-      "Total": "607,200",
-      "Hombres": "305,827",
-      "Mujeres": "301,373"
+      "Grupo de edad": "33 a 37 años",
+      "Total": "457864",
+      "Hombres": "212520",
+      "Mujeres": "245344"
     },
     {
-      "Grupo de edad": "20 a 24 años",
-      "Total": "570,646",
-      "Hombres": "279,374",
-      "Mujeres": "291,272"
+      "Grupo de edad": "38 a 42 años",
+      "Total": "425089",
+      "Hombres": "196550",
+      "Mujeres": "228539"
     },
     {
-      "Grupo de edad": "25 a 29 años",
-      "Total": "528,289",
-      "Hombres": "251,899",
-      "Mujeres": "276,390"
+      "Grupo de edad": "43 a 47 años",
+      "Total": "382865",
+      "Hombres": "178206",
+      "Mujeres": "204659"
     },
     {
-      "Grupo de edad": "30 a 34 años",
-      "Total": "475,854",
-      "Hombres": "221,145",
-      "Mujeres": "254,709"
+      "Grupo de edad": "48 a 52 años",
+      "Total": "334597",
+      "Hombres": "153039",
+      "Mujeres": "181558"
     },
     {
-      "Grupo de edad": "35 a 39 años",
-      "Total": "457,864",
-      "Hombres": "212,520",
-      "Mujeres": "245,344"
+      "Grupo de edad": "53 a 57 años",
+      "Total": "269080",
+      "Hombres": "123605",
+      "Mujeres": "145475"
     },
     {
-      "Grupo de edad": "40 a 44 años",
-      "Total": "425,089",
-      "Hombres": "196,550",
-      "Mujeres": "228,539"
+      "Grupo de edad": "58 a 62 años",
+      "Total": "229364",
+      "Hombres": "104369",
+      "Mujeres": "124995"
     },
     {
-      "Grupo de edad": "45 a 49 años",
-      "Total": "382,865",
-      "Hombres": "178,206",
-      "Mujeres": "204,659"
+      "Grupo de edad": "63 a 67 años",
+      "Total": "177876",
+      "Hombres": "80892",
+      "Mujeres": "96984"
     },
     {
-      "Grupo de edad": "50 a 54 años",
-      "Total": "334,597",
-      "Hombres": "153,039",
-      "Mujeres": "181,558"
+      "Grupo de edad": "68 a 72 años",
+      "Total": "128374",
+      "Hombres": "58004",
+      "Mujeres": "70370"
     },
     {
-      "Grupo de edad": "55 a 59 años",
-      "Total": "269,080",
-      "Hombres": "123,605",
-      "Mujeres": "145,475"
+      "Grupo de edad": "73 a 77 años",
+      "Total": "91494",
+      "Hombres": "41799",
+      "Mujeres": "49695"
     },
     {
-      "Grupo de edad": "60 a 64 años",
-      "Total": "229,364",
-      "Hombres": "104,369",
-      "Mujeres": "124,995"
+      "Grupo de edad": "78 a 82 años",
+      "Total": "60354",
+      "Hombres": "26102",
+      "Mujeres": "34252"
     },
     {
-      "Grupo de edad": "65 a 69 años",
-      "Total": "177,876",
-      "Hombres": "80,892",
-      "Mujeres": "96,984"
+      "Grupo de edad": "83 a 87 años",
+      "Total": "36491",
+      "Hombres": "15340",
+      "Mujeres": "21151"
     },
     {
-      "Grupo de edad": "70 a 74 años",
-      "Total": "128,374",
-      "Hombres": "58,004",
-      "Mujeres": "70,370"
+      "Grupo de edad": "88 a 92 años",
+      "Total": "14770",
+      "Hombres": "5903",
+      "Mujeres": "8867"
     },
     {
-      "Grupo de edad": "75 a 79 años",
-      "Total": "91,494",
-      "Hombres": "41,799",
-      "Mujeres": "49,695"
+      "Grupo de edad": "93 a 98 años",
+      "Total": "5631",
+      "Hombres": "2077",
+      "Mujeres": "3554"
     },
     {
-      "Grupo de edad": "80 a 84 años",
-      "Total": "60,354",
-      "Hombres": "26,102",
-      "Mujeres": "34,252"
-    },
-    {
-      "Grupo de edad": "85 a 89 años",
-      "Total": "36,491",
-      "Hombres": "15,340",
-      "Mujeres": "21,151"
-    },
-    {
-      "Grupo de edad": "90 a 94 años",
-      "Total": "14,770",
-      "Hombres": "5,903",
-      "Mujeres": "8,867"
-    },
-    {
-      "Grupo de edad": "95 a 99 años",
-      "Total": "5,631",
-      "Hombres": "2,077",
-      "Mujeres": "3,554"
-    },
-    {
-      "Grupo de edad": "100 años y más",
-      "Total": "1,065",
+      "Grupo de edad": "99 años y más",
+      "Total": "1065",
       "Hombres": "335",
       "Mujeres": "730"
     },
     {
       "Grupo de edad": "No especificado",
-      "Total": "5,671",
-      "Hombres": "2,822",
-      "Mujeres": "2,849"
+      "Total": "5671",
+      "Hombres": "2822",
+      "Mujeres": "2849"
     },
     {
       "Grupo de edad": "Total",
-      "Total": "6,583,278",
-      "Hombres": "3,160,115",
-      "Mujeres": "3,423,163"
+      "Total": "6583278",
+      "Hombres": "3160115",
+      "Mujeres": "3423163"
     }
   ]
 }
