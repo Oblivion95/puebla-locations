@@ -37,20 +37,15 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
-const zonesRoutes = require("./routes/api/zones.route");
 const mapRoutes = require("./routes/location/map.route");
-const populationByAgeRoutes = require("./routes/api/population-by-age.route");
-const blob = require("./routes/api/blob.route");
-
+const apiRoutes = require("./routes/api");
 const port = 3001;
 
 app.use(express.json());
 app.use(cors());
 
-app.use("/api", zonesRoutes);
-app.use("/api/population", populationByAgeRoutes);
+app.use("/api", apiRoutes);
 app.use("/maps", mapRoutes);
-app.use("/blob", blob);
 app.get("/", (req, res) => {
   res.send("Hello World!");
 });

@@ -1,0 +1,2718 @@
+{
+  "population": {
+    "zona-1": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 286129,
+          "Hombres": 30138,
+          "Mujeres": 110964
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 245264,
+          "Hombres": 8124,
+          "Mujeres": 9841
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 74017,
+          "Hombres": 58101,
+          "Mujeres": 56543
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 244596,
+          "Hombres": 58861,
+          "Mujeres": 73692
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 65199,
+          "Hombres": 8696,
+          "Mujeres": 60321
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 85599,
+          "Hombres": 105732,
+          "Mujeres": 135166
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 30238,
+          "Hombres": 91671,
+          "Mujeres": 116157
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 66385,
+          "Hombres": 133386,
+          "Mujeres": 13902
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 151791,
+          "Hombres": 20187,
+          "Mujeres": 48610
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 43200,
+          "Hombres": 61835,
+          "Mujeres": 139529
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 186118,
+          "Hombres": 101508,
+          "Mujeres": 17802
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 43793,
+          "Hombres": 71524,
+          "Mujeres": 147874
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 194767,
+          "Hombres": 81188,
+          "Mujeres": 87556
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 251110,
+          "Hombres": 122759,
+          "Mujeres": 67523
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 229356,
+          "Hombres": 114078,
+          "Mujeres": 82590
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 47332,
+          "Hombres": 4720,
+          "Mujeres": 96007
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 108524,
+          "Hombres": 118768,
+          "Mujeres": 12840
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 207041,
+          "Hombres": 135269,
+          "Mujeres": 144755
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-2": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 173535,
+          "Hombres": 119385,
+          "Mujeres": 143097
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 217059,
+          "Hombres": 60377,
+          "Mujeres": 40201
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 1054,
+          "Hombres": 111429,
+          "Mujeres": 106124
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 70704,
+          "Hombres": 106203,
+          "Mujeres": 46888
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 26587,
+          "Hombres": 41131,
+          "Mujeres": 96498
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 143381,
+          "Hombres": 14565,
+          "Mujeres": 8684
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 225645,
+          "Hombres": 69335,
+          "Mujeres": 68005
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 79399,
+          "Hombres": 42801,
+          "Mujeres": 24873
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 77368,
+          "Hombres": 93237,
+          "Mujeres": 49316
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 267407,
+          "Hombres": 68996,
+          "Mujeres": 120469
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 273368,
+          "Hombres": 133909,
+          "Mujeres": 115079
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 214856,
+          "Hombres": 13089,
+          "Mujeres": 18206
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 42518,
+          "Hombres": 45874,
+          "Mujeres": 54221
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 233598,
+          "Hombres": 87224,
+          "Mujeres": 45966
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 52325,
+          "Hombres": 84739,
+          "Mujeres": 18556
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 101514,
+          "Hombres": 68119,
+          "Mujeres": 57922
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 176972,
+          "Hombres": 22712,
+          "Mujeres": 88960
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 10710,
+          "Hombres": 84997,
+          "Mujeres": 113775
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-3": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 69705,
+          "Hombres": 111831,
+          "Mujeres": 56718
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 16325,
+          "Hombres": 136687,
+          "Mujeres": 106221
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 113508,
+          "Hombres": 86486,
+          "Mujeres": 27884
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 262101,
+          "Hombres": 70358,
+          "Mujeres": 144061
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 114304,
+          "Hombres": 14798,
+          "Mujeres": 57684
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 124958,
+          "Hombres": 42465,
+          "Mujeres": 38749
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 138279,
+          "Hombres": 85481,
+          "Mujeres": 117473
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 15857,
+          "Hombres": 124038,
+          "Mujeres": 98835
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 95520,
+          "Hombres": 88861,
+          "Mujeres": 85278
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 223234,
+          "Hombres": 65436,
+          "Mujeres": 29611
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 56586,
+          "Hombres": 76598,
+          "Mujeres": 27536
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 200631,
+          "Hombres": 34606,
+          "Mujeres": 42947
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 162754,
+          "Hombres": 7330,
+          "Mujeres": 111458
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 111011,
+          "Hombres": 28555,
+          "Mujeres": 120884
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 219030,
+          "Hombres": 67089,
+          "Mujeres": 30989
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 40641,
+          "Hombres": 29766,
+          "Mujeres": 147474
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 86488,
+          "Hombres": 76300,
+          "Mujeres": 6716
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 14268,
+          "Hombres": 91711,
+          "Mujeres": 58915
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-4": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 272377,
+          "Hombres": 33205,
+          "Mujeres": 57868
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 52549,
+          "Hombres": 79289,
+          "Mujeres": 67180
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 275142,
+          "Hombres": 72763,
+          "Mujeres": 23197
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 155941,
+          "Hombres": 95375,
+          "Mujeres": 17530
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 119627,
+          "Hombres": 3155,
+          "Mujeres": 78919
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 135167,
+          "Hombres": 19038,
+          "Mujeres": 102396
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 140535,
+          "Hombres": 37780,
+          "Mujeres": 51009
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 164080,
+          "Hombres": 126034,
+          "Mujeres": 1980
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 88246,
+          "Hombres": 77151,
+          "Mujeres": 15338
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 223699,
+          "Hombres": 80288,
+          "Mujeres": 131385
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 168229,
+          "Hombres": 102722,
+          "Mujeres": 5329
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 114779,
+          "Hombres": 23087,
+          "Mujeres": 20401
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 273057,
+          "Hombres": 73587,
+          "Mujeres": 26497
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 251137,
+          "Hombres": 128238,
+          "Mujeres": 68260
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 132853,
+          "Hombres": 3580,
+          "Mujeres": 110918
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 101647,
+          "Hombres": 3759,
+          "Mujeres": 134168
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 199894,
+          "Hombres": 132697,
+          "Mujeres": 95177
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 123556,
+          "Hombres": 128007,
+          "Mujeres": 14777
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-5": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 187007,
+          "Hombres": 118758,
+          "Mujeres": 71046
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 65437,
+          "Hombres": 82644,
+          "Mujeres": 23649
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 72096,
+          "Hombres": 87818,
+          "Mujeres": 83452
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 187880,
+          "Hombres": 42816,
+          "Mujeres": 87992
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 271450,
+          "Hombres": 97314,
+          "Mujeres": 117889
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 284811,
+          "Hombres": 11938,
+          "Mujeres": 56740
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 203429,
+          "Hombres": 56966,
+          "Mujeres": 78835
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 89407,
+          "Hombres": 130530,
+          "Mujeres": 118311
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 285843,
+          "Hombres": 24358,
+          "Mujeres": 79981
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 58830,
+          "Hombres": 110210,
+          "Mujeres": 68789
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 119242,
+          "Hombres": 10761,
+          "Mujeres": 85218
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 177120,
+          "Hombres": 78725,
+          "Mujeres": 29137
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 161465,
+          "Hombres": 29098,
+          "Mujeres": 133175
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 158779,
+          "Hombres": 1540,
+          "Mujeres": 102031
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 264100,
+          "Hombres": 12393,
+          "Mujeres": 47981
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 207001,
+          "Hombres": 45770,
+          "Mujeres": 77607
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 764,
+          "Hombres": 62621,
+          "Mujeres": 12078
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 200072,
+          "Hombres": 67889,
+          "Mujeres": 123523
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-6": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 270808,
+          "Hombres": 27621,
+          "Mujeres": 25447
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 174726,
+          "Hombres": 130915,
+          "Mujeres": 49028
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 227741,
+          "Hombres": 126159,
+          "Mujeres": 109219
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 229181,
+          "Hombres": 95800,
+          "Mujeres": 8984
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 23266,
+          "Hombres": 89512,
+          "Mujeres": 20305
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 121424,
+          "Hombres": 38190,
+          "Mujeres": 58143
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 24226,
+          "Hombres": 19771,
+          "Mujeres": 1813
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 158961,
+          "Hombres": 55588,
+          "Mujeres": 14218
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 51070,
+          "Hombres": 15876,
+          "Mujeres": 103227
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 160988,
+          "Hombres": 113529,
+          "Mujeres": 13330
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 237761,
+          "Hombres": 49932,
+          "Mujeres": 128989
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 242279,
+          "Hombres": 58528,
+          "Mujeres": 23794
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 52633,
+          "Hombres": 137052,
+          "Mujeres": 111452
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 64692,
+          "Hombres": 58181,
+          "Mujeres": 141185
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 80574,
+          "Hombres": 120888,
+          "Mujeres": 88261
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 228917,
+          "Hombres": 117727,
+          "Mujeres": 14455
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 218255,
+          "Hombres": 109767,
+          "Mujeres": 109169
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 11508,
+          "Hombres": 33216,
+          "Mujeres": 78930
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-7": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 117556,
+          "Hombres": 69824,
+          "Mujeres": 48050
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 138217,
+          "Hombres": 52714,
+          "Mujeres": 53328
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 68974,
+          "Hombres": 24072,
+          "Mujeres": 94165
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 263549,
+          "Hombres": 26886,
+          "Mujeres": 14030
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 46984,
+          "Hombres": 40540,
+          "Mujeres": 88065
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 162748,
+          "Hombres": 121415,
+          "Mujeres": 47271
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 109518,
+          "Hombres": 112362,
+          "Mujeres": 6723
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 205547,
+          "Hombres": 24300,
+          "Mujeres": 135922
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 172537,
+          "Hombres": 81569,
+          "Mujeres": 117711
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 53239,
+          "Hombres": 107756,
+          "Mujeres": 37298
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 139070,
+          "Hombres": 102743,
+          "Mujeres": 128530
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 110132,
+          "Hombres": 125363,
+          "Mujeres": 138294
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 31291,
+          "Hombres": 102728,
+          "Mujeres": 91037
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 70578,
+          "Hombres": 129898,
+          "Mujeres": 137942
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 90142,
+          "Hombres": 41330,
+          "Mujeres": 88616
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 138401,
+          "Hombres": 6448,
+          "Mujeres": 23868
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 170517,
+          "Hombres": 103282,
+          "Mujeres": 133172
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 6544,
+          "Hombres": 73172,
+          "Mujeres": 6710
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-8": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 86806,
+          "Hombres": 5198,
+          "Mujeres": 22367
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 116953,
+          "Hombres": 104607,
+          "Mujeres": 121030
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 127476,
+          "Hombres": 77962,
+          "Mujeres": 9343
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 148308,
+          "Hombres": 132583,
+          "Mujeres": 54053
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 267144,
+          "Hombres": 33911,
+          "Mujeres": 95218
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 158603,
+          "Hombres": 36243,
+          "Mujeres": 119079
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 235327,
+          "Hombres": 93461,
+          "Mujeres": 63188
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 262672,
+          "Hombres": 34188,
+          "Mujeres": 101701
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 1037,
+          "Hombres": 23630,
+          "Mujeres": 148628
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 96380,
+          "Hombres": 4136,
+          "Mujeres": 117686
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 211313,
+          "Hombres": 23556,
+          "Mujeres": 75421
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 218436,
+          "Hombres": 102895,
+          "Mujeres": 39590
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 17458,
+          "Hombres": 129425,
+          "Mujeres": 42475
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 241775,
+          "Hombres": 112854,
+          "Mujeres": 125651
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 283372,
+          "Hombres": 1069,
+          "Mujeres": 46688
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 166381,
+          "Hombres": 22401,
+          "Mujeres": 99360
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 73319,
+          "Hombres": 48610,
+          "Mujeres": 131711
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 140570,
+          "Hombres": 94368,
+          "Mujeres": 69220
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-9": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 264771,
+          "Hombres": 89168,
+          "Mujeres": 142092
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 103639,
+          "Hombres": 69226,
+          "Mujeres": 16556
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 96210,
+          "Hombres": 70634,
+          "Mujeres": 38552
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 119305,
+          "Hombres": 75009,
+          "Mujeres": 63803
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 271707,
+          "Hombres": 5495,
+          "Mujeres": 36099
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 149036,
+          "Hombres": 9286,
+          "Mujeres": 52501
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 162366,
+          "Hombres": 135603,
+          "Mujeres": 135639
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 193806,
+          "Hombres": 83075,
+          "Mujeres": 15500
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 41426,
+          "Hombres": 12249,
+          "Mujeres": 25747
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 129195,
+          "Hombres": 11299,
+          "Mujeres": 75009
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 105900,
+          "Hombres": 42491,
+          "Mujeres": 41597
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 85774,
+          "Hombres": 89543,
+          "Mujeres": 45586
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 246021,
+          "Hombres": 86646,
+          "Mujeres": 65743
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 111462,
+          "Hombres": 91487,
+          "Mujeres": 35484
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 174635,
+          "Hombres": 48827,
+          "Mujeres": 80754
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 191341,
+          "Hombres": 124187,
+          "Mujeres": 55977
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 272397,
+          "Hombres": 124505,
+          "Mujeres": 2716
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 99062,
+          "Hombres": 108326,
+          "Mujeres": 57326
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-10": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 112671,
+          "Hombres": 93893,
+          "Mujeres": 77369
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 24184,
+          "Hombres": 90947,
+          "Mujeres": 27746
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 4347,
+          "Hombres": 53394,
+          "Mujeres": 103052
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 131053,
+          "Hombres": 111389,
+          "Mujeres": 130720
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 78624,
+          "Hombres": 116131,
+          "Mujeres": 27045
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 25922,
+          "Hombres": 92359,
+          "Mujeres": 26334
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 58013,
+          "Hombres": 2557,
+          "Mujeres": 74416
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 223705,
+          "Hombres": 31895,
+          "Mujeres": 127018
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 67691,
+          "Hombres": 132911,
+          "Mujeres": 59098
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 176199,
+          "Hombres": 28881,
+          "Mujeres": 15645
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 162954,
+          "Hombres": 15892,
+          "Mujeres": 33504
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 192067,
+          "Hombres": 93966,
+          "Mujeres": 133216
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 52265,
+          "Hombres": 117886,
+          "Mujeres": 42015
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 212314,
+          "Hombres": 88650,
+          "Mujeres": 133791
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 242060,
+          "Hombres": 136988,
+          "Mujeres": 83278
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 210321,
+          "Hombres": 58891,
+          "Mujeres": 117929
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 190316,
+          "Hombres": 6383,
+          "Mujeres": 15475
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 58048,
+          "Hombres": 89630,
+          "Mujeres": 90908
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-11": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 171364,
+          "Hombres": 137252,
+          "Mujeres": 114420
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 47892,
+          "Hombres": 61319,
+          "Mujeres": 36998
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 124884,
+          "Hombres": 2569,
+          "Mujeres": 78512
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 47524,
+          "Hombres": 129297,
+          "Mujeres": 60702
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 45925,
+          "Hombres": 119188,
+          "Mujeres": 35609
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 191582,
+          "Hombres": 87018,
+          "Mujeres": 95548
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 30673,
+          "Hombres": 99591,
+          "Mujeres": 106219
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 161298,
+          "Hombres": 7929,
+          "Mujeres": 90260
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 136126,
+          "Hombres": 111005,
+          "Mujeres": 17092
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 207465,
+          "Hombres": 69609,
+          "Mujeres": 64577
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 166214,
+          "Hombres": 90979,
+          "Mujeres": 64803
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 245752,
+          "Hombres": 104234,
+          "Mujeres": 75690
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 160236,
+          "Hombres": 42024,
+          "Mujeres": 59673
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 102580,
+          "Hombres": 23587,
+          "Mujeres": 125742
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 244611,
+          "Hombres": 54844,
+          "Mujeres": 133069
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 40814,
+          "Hombres": 137261,
+          "Mujeres": 122357
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 211032,
+          "Hombres": 88463,
+          "Mujeres": 87747
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 275835,
+          "Hombres": 76056,
+          "Mujeres": 57803
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-12": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 176287,
+          "Hombres": 137308,
+          "Mujeres": 35128
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 78299,
+          "Hombres": 47685,
+          "Mujeres": 65455
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 119051,
+          "Hombres": 116175,
+          "Mujeres": 35353
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 39052,
+          "Hombres": 16766,
+          "Mujeres": 74301
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 193612,
+          "Hombres": 1850,
+          "Mujeres": 126697
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 209408,
+          "Hombres": 24484,
+          "Mujeres": 59141
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 50757,
+          "Hombres": 135951,
+          "Mujeres": 7155
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 37809,
+          "Hombres": 18498,
+          "Mujeres": 138153
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 169396,
+          "Hombres": 111837,
+          "Mujeres": 134617
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 23001,
+          "Hombres": 99782,
+          "Mujeres": 39654
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 51979,
+          "Hombres": 84133,
+          "Mujeres": 74750
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 36486,
+          "Hombres": 134125,
+          "Mujeres": 19482
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 30502,
+          "Hombres": 34248,
+          "Mujeres": 122768
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 187294,
+          "Hombres": 47154,
+          "Mujeres": 33931
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 241776,
+          "Hombres": 123850,
+          "Mujeres": 11083
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 17136,
+          "Hombres": 104200,
+          "Mujeres": 86180
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 162846,
+          "Hombres": 71464,
+          "Mujeres": 47922
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 90460,
+          "Hombres": 16551,
+          "Mujeres": 125730
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-13": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 272644,
+          "Hombres": 35879,
+          "Mujeres": 92775
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 213076,
+          "Hombres": 3144,
+          "Mujeres": 144564
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 55205,
+          "Hombres": 45599,
+          "Mujeres": 23088
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 166037,
+          "Hombres": 58651,
+          "Mujeres": 53965
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 9068,
+          "Hombres": 69714,
+          "Mujeres": 131208
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 24883,
+          "Hombres": 14567,
+          "Mujeres": 15185
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 34569,
+          "Hombres": 81884,
+          "Mujeres": 125617
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 136532,
+          "Hombres": 11652,
+          "Mujeres": 60769
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 241787,
+          "Hombres": 44370,
+          "Mujeres": 41312
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 268117,
+          "Hombres": 77960,
+          "Mujeres": 139052
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 166235,
+          "Hombres": 19193,
+          "Mujeres": 106719
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 9160,
+          "Hombres": 58494,
+          "Mujeres": 82569
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 153896,
+          "Hombres": 43002,
+          "Mujeres": 88050
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 53935,
+          "Hombres": 117560,
+          "Mujeres": 110137
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 241658,
+          "Hombres": 128567,
+          "Mujeres": 44540
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 42789,
+          "Hombres": 92316,
+          "Mujeres": 96394
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 82329,
+          "Hombres": 37585,
+          "Mujeres": 97478
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 266622,
+          "Hombres": 61141,
+          "Mujeres": 53523
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-14": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 188516,
+          "Hombres": 34434,
+          "Mujeres": 111360
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 150177,
+          "Hombres": 6260,
+          "Mujeres": 36953
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 205709,
+          "Hombres": 68565,
+          "Mujeres": 65082
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 16458,
+          "Hombres": 118088,
+          "Mujeres": 39316
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 219187,
+          "Hombres": 118485,
+          "Mujeres": 39083
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 17315,
+          "Hombres": 6941,
+          "Mujeres": 60521
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 146317,
+          "Hombres": 91756,
+          "Mujeres": 83896
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 48832,
+          "Hombres": 53584,
+          "Mujeres": 55650
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 261488,
+          "Hombres": 128872,
+          "Mujeres": 7416
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 281299,
+          "Hombres": 31895,
+          "Mujeres": 106026
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 62254,
+          "Hombres": 133667,
+          "Mujeres": 19140
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 137050,
+          "Hombres": 42518,
+          "Mujeres": 103606
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 131715,
+          "Hombres": 83900,
+          "Mujeres": 140217
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 25416,
+          "Hombres": 105494,
+          "Mujeres": 130717
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 45077,
+          "Hombres": 36169,
+          "Mujeres": 14255
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 168351,
+          "Hombres": 25702,
+          "Mujeres": 126057
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 86928,
+          "Hombres": 46911,
+          "Mujeres": 84200
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 130204,
+          "Hombres": 120317,
+          "Mujeres": 76696
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-15": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 243812,
+          "Hombres": 52862,
+          "Mujeres": 19075
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 51054,
+          "Hombres": 26451,
+          "Mujeres": 87722
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 97280,
+          "Hombres": 126444,
+          "Mujeres": 31013
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 116617,
+          "Hombres": 130068,
+          "Mujeres": 110009
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 159856,
+          "Hombres": 68068,
+          "Mujeres": 33434
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 198156,
+          "Hombres": 86030,
+          "Mujeres": 46177
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 56366,
+          "Hombres": 87743,
+          "Mujeres": 76657
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 37963,
+          "Hombres": 117832,
+          "Mujeres": 64367
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 29460,
+          "Hombres": 102797,
+          "Mujeres": 143315
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 177084,
+          "Hombres": 33028,
+          "Mujeres": 67626
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 20399,
+          "Hombres": 31905,
+          "Mujeres": 3477
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 208676,
+          "Hombres": 74351,
+          "Mujeres": 77509
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 88934,
+          "Hombres": 105855,
+          "Mujeres": 83459
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 33895,
+          "Hombres": 27500,
+          "Mujeres": 52450
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 50700,
+          "Hombres": 128756,
+          "Mujeres": 97968
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 20066,
+          "Hombres": 53288,
+          "Mujeres": 59678
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 82807,
+          "Hombres": 133667,
+          "Mujeres": 82329
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 233613,
+          "Hombres": 39913,
+          "Mujeres": 400
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-16": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 221048,
+          "Hombres": 107471,
+          "Mujeres": 45764
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 260012,
+          "Hombres": 10864,
+          "Mujeres": 15747
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 249475,
+          "Hombres": 89072,
+          "Mujeres": 134931
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 171250,
+          "Hombres": 22083,
+          "Mujeres": 53750
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 95905,
+          "Hombres": 50358,
+          "Mujeres": 132424
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 27997,
+          "Hombres": 131161,
+          "Mujeres": 70463
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 105107,
+          "Hombres": 25066,
+          "Mujeres": 47801
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 15838,
+          "Hombres": 103522,
+          "Mujeres": 132809
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 277709,
+          "Hombres": 118876,
+          "Mujeres": 73408
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 13587,
+          "Hombres": 71979,
+          "Mujeres": 47707
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 96764,
+          "Hombres": 128163,
+          "Mujeres": 131626
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 148586,
+          "Hombres": 111429,
+          "Mujeres": 113603
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 71149,
+          "Hombres": 26846,
+          "Mujeres": 123496
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 131813,
+          "Hombres": 7067,
+          "Mujeres": 62163
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 34953,
+          "Hombres": 86362,
+          "Mujeres": 105800
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 150866,
+          "Hombres": 9556,
+          "Mujeres": 87289
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 99368,
+          "Hombres": 88278,
+          "Mujeres": 136510
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 128673,
+          "Hombres": 105748,
+          "Mujeres": 3642
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-17": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 69180,
+          "Hombres": 127507,
+          "Mujeres": 4552
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 170414,
+          "Hombres": 36254,
+          "Mujeres": 100180
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 92045,
+          "Hombres": 66564,
+          "Mujeres": 101076
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 176486,
+          "Hombres": 72540,
+          "Mujeres": 7832
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 196900,
+          "Hombres": 77069,
+          "Mujeres": 121307
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 167914,
+          "Hombres": 65736,
+          "Mujeres": 110226
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 150532,
+          "Hombres": 80214,
+          "Mujeres": 1381
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 224251,
+          "Hombres": 72100,
+          "Mujeres": 45850
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 84110,
+          "Hombres": 102534,
+          "Mujeres": 40486
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 24257,
+          "Hombres": 63429,
+          "Mujeres": 91204
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 222926,
+          "Hombres": 96827,
+          "Mujeres": 24770
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 201155,
+          "Hombres": 90959,
+          "Mujeres": 59252
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 202879,
+          "Hombres": 39697,
+          "Mujeres": 33695
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 195162,
+          "Hombres": 104394,
+          "Mujeres": 93467
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 14643,
+          "Hombres": 52477,
+          "Mujeres": 52132
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 49241,
+          "Hombres": 27854,
+          "Mujeres": 25730
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 46381,
+          "Hombres": 5149,
+          "Mujeres": 118162
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 218578,
+          "Hombres": 59630,
+          "Mujeres": 118307
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-18": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 251888,
+          "Hombres": 44369,
+          "Mujeres": 134148
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 208796,
+          "Hombres": 91459,
+          "Mujeres": 55847
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 4530,
+          "Hombres": 133170,
+          "Mujeres": 65980
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 162738,
+          "Hombres": 48216,
+          "Mujeres": 113979
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 37912,
+          "Hombres": 110636,
+          "Mujeres": 102611
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 170977,
+          "Hombres": 11623,
+          "Mujeres": 63647
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 284009,
+          "Hombres": 107314,
+          "Mujeres": 53435
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 12408,
+          "Hombres": 9471,
+          "Mujeres": 36782
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 94443,
+          "Hombres": 102170,
+          "Mujeres": 53519
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 83707,
+          "Hombres": 16005,
+          "Mujeres": 11790
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 177,
+          "Hombres": 69766,
+          "Mujeres": 20279
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 144533,
+          "Hombres": 18264,
+          "Mujeres": 112416
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 168772,
+          "Hombres": 79082,
+          "Mujeres": 114160
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 43220,
+          "Hombres": 62248,
+          "Mujeres": 47621
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 218327,
+          "Hombres": 89748,
+          "Mujeres": 46208
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 30209,
+          "Hombres": 86015,
+          "Mujeres": 39935
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 244184,
+          "Hombres": 44677,
+          "Mujeres": 97628
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 285820,
+          "Hombres": 36612,
+          "Mujeres": 43445
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-19": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 66133,
+          "Hombres": 100650,
+          "Mujeres": 20554
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 120850,
+          "Hombres": 131909,
+          "Mujeres": 53691
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 72059,
+          "Hombres": 44035,
+          "Mujeres": 96486
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 157953,
+          "Hombres": 53479,
+          "Mujeres": 144154
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 49113,
+          "Hombres": 5661,
+          "Mujeres": 69240
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 214412,
+          "Hombres": 43779,
+          "Mujeres": 145738
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 273711,
+          "Hombres": 17315,
+          "Mujeres": 9167
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 285928,
+          "Hombres": 102515,
+          "Mujeres": 127233
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 192317,
+          "Hombres": 97582,
+          "Mujeres": 55078
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 268684,
+          "Hombres": 48965,
+          "Mujeres": 77582
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 116169,
+          "Hombres": 79381,
+          "Mujeres": 73189
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 167823,
+          "Hombres": 39128,
+          "Mujeres": 61967
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 152802,
+          "Hombres": 10312,
+          "Mujeres": 23553
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 117966,
+          "Hombres": 55422,
+          "Mujeres": 30176
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 69261,
+          "Hombres": 2796,
+          "Mujeres": 145718
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 132399,
+          "Hombres": 110516,
+          "Mujeres": 71730
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 77262,
+          "Hombres": 19760,
+          "Mujeres": 105526
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 94000,
+          "Hombres": 76678,
+          "Mujeres": 39655
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-20": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 153819,
+          "Hombres": 72643,
+          "Mujeres": 23796
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 189544,
+          "Hombres": 101938,
+          "Mujeres": 59106
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 262777,
+          "Hombres": 93348,
+          "Mujeres": 28619
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 54119,
+          "Hombres": 115765,
+          "Mujeres": 141160
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 263176,
+          "Hombres": 130081,
+          "Mujeres": 89393
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 128825,
+          "Hombres": 114571,
+          "Mujeres": 137209
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 215839,
+          "Hombres": 82898,
+          "Mujeres": 109964
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 80633,
+          "Hombres": 67245,
+          "Mujeres": 92031
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 5858,
+          "Hombres": 74696,
+          "Mujeres": 27338
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 276820,
+          "Hombres": 66650,
+          "Mujeres": 104381
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 279715,
+          "Hombres": 109375,
+          "Mujeres": 83519
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 186321,
+          "Hombres": 81218,
+          "Mujeres": 41717
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 116481,
+          "Hombres": 86126,
+          "Mujeres": 17196
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 278566,
+          "Hombres": 105386,
+          "Mujeres": 116043
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 256439,
+          "Hombres": 89023,
+          "Mujeres": 32289
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 65805,
+          "Hombres": 135626,
+          "Mujeres": 105734
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 284835,
+          "Hombres": 55737,
+          "Mujeres": 128647
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 137916,
+          "Hombres": 105096,
+          "Mujeres": 43745
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-21": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 16628,
+          "Hombres": 121833,
+          "Mujeres": 29538
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 120826,
+          "Hombres": 134839,
+          "Mujeres": 87672
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 220526,
+          "Hombres": 4893,
+          "Mujeres": 125110
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 61219,
+          "Hombres": 136200,
+          "Mujeres": 132508
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 211064,
+          "Hombres": 24579,
+          "Mujeres": 81684
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 116563,
+          "Hombres": 114932,
+          "Mujeres": 115219
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 267501,
+          "Hombres": 45674,
+          "Mujeres": 137578
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 36366,
+          "Hombres": 35914,
+          "Mujeres": 34624
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 273164,
+          "Hombres": 104352,
+          "Mujeres": 58770
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 276814,
+          "Hombres": 43350,
+          "Mujeres": 66803
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 166258,
+          "Hombres": 9652,
+          "Mujeres": 50084
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 3007,
+          "Hombres": 56879,
+          "Mujeres": 10796
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 81394,
+          "Hombres": 49295,
+          "Mujeres": 124775
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 203934,
+          "Hombres": 53476,
+          "Mujeres": 113489
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 264356,
+          "Hombres": 111382,
+          "Mujeres": 125914
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 95156,
+          "Hombres": 113418,
+          "Mujeres": 13079
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 26672,
+          "Hombres": 73215,
+          "Mujeres": 126698
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 47228,
+          "Hombres": 100601,
+          "Mujeres": 144270
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-22": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 265224,
+          "Hombres": 111902,
+          "Mujeres": 52902
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 20054,
+          "Hombres": 9557,
+          "Mujeres": 78218
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 63045,
+          "Hombres": 22806,
+          "Mujeres": 92924
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 66052,
+          "Hombres": 130989,
+          "Mujeres": 342
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 208665,
+          "Hombres": 59588,
+          "Mujeres": 87137
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 36503,
+          "Hombres": 75408,
+          "Mujeres": 34089
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 115435,
+          "Hombres": 43551,
+          "Mujeres": 10075
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 82014,
+          "Hombres": 89880,
+          "Mujeres": 52143
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 230876,
+          "Hombres": 6987,
+          "Mujeres": 93769
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 119234,
+          "Hombres": 48068,
+          "Mujeres": 39706
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 16232,
+          "Hombres": 120042,
+          "Mujeres": 75758
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 213126,
+          "Hombres": 106254,
+          "Mujeres": 62066
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 114606,
+          "Hombres": 26006,
+          "Mujeres": 44720
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 151487,
+          "Hombres": 57365,
+          "Mujeres": 109040
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 56058,
+          "Hombres": 81297,
+          "Mujeres": 34088
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 154360,
+          "Hombres": 33186,
+          "Mujeres": 69535
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 140160,
+          "Hombres": 89119,
+          "Mujeres": 61494
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 89208,
+          "Hombres": 64389,
+          "Mujeres": 129320
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    },
+    "zona-23": {
+      "population": [
+        {
+          "Grupo de edad": "18 a 22 años",
+          "Total": 18014,
+          "Hombres": 54012,
+          "Mujeres": 18518
+        },
+        {
+          "Grupo de edad": "23 a 27 años",
+          "Total": 40823,
+          "Hombres": 14893,
+          "Mujeres": 99038
+        },
+        {
+          "Grupo de edad": "28 a 32 años",
+          "Total": 26514,
+          "Hombres": 119392,
+          "Mujeres": 22147
+        },
+        {
+          "Grupo de edad": "33 a 37 años",
+          "Total": 249939,
+          "Hombres": 135930,
+          "Mujeres": 89193
+        },
+        {
+          "Grupo de edad": "38 a 42 años",
+          "Total": 140921,
+          "Hombres": 52985,
+          "Mujeres": 6701
+        },
+        {
+          "Grupo de edad": "43 a 47 años",
+          "Total": 203838,
+          "Hombres": 36466,
+          "Mujeres": 12448
+        },
+        {
+          "Grupo de edad": "48 a 52 años",
+          "Total": 153753,
+          "Hombres": 125822,
+          "Mujeres": 72540
+        },
+        {
+          "Grupo de edad": "53 a 57 años",
+          "Total": 68153,
+          "Hombres": 58189,
+          "Mujeres": 14193
+        },
+        {
+          "Grupo de edad": "58 a 62 años",
+          "Total": 102109,
+          "Hombres": 123610,
+          "Mujeres": 91495
+        },
+        {
+          "Grupo de edad": "63 a 67 años",
+          "Total": 191216,
+          "Hombres": 13584,
+          "Mujeres": 123999
+        },
+        {
+          "Grupo de edad": "68 a 72 años",
+          "Total": 105524,
+          "Hombres": 6563,
+          "Mujeres": 42994
+        },
+        {
+          "Grupo de edad": "73 a 77 años",
+          "Total": 87557,
+          "Hombres": 123220,
+          "Mujeres": 65720
+        },
+        {
+          "Grupo de edad": "78 a 82 años",
+          "Total": 152919,
+          "Hombres": 8352,
+          "Mujeres": 45381
+        },
+        {
+          "Grupo de edad": "83 a 87 años",
+          "Total": 69167,
+          "Hombres": 99617,
+          "Mujeres": 100350
+        },
+        {
+          "Grupo de edad": "88 a 92 años",
+          "Total": 87526,
+          "Hombres": 38762,
+          "Mujeres": 130759
+        },
+        {
+          "Grupo de edad": "93 a 98 años",
+          "Total": 178149,
+          "Hombres": 85600,
+          "Mujeres": 104620
+        },
+        {
+          "Grupo de edad": "99 años y más",
+          "Total": 33251,
+          "Hombres": 40034,
+          "Mujeres": 70375
+        },
+        {
+          "Grupo de edad": "No especificado",
+          "Total": 11270,
+          "Hombres": 11144,
+          "Mujeres": 52870
+        }
+      ],
+      "total": {
+        "Grupo de edad": "Total",
+        "Total": 286229,
+        "Hombres": 137396,
+        "Mujeres": 148833
+      }
+    }
+  }
+}

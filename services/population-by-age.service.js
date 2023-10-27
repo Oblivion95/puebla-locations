@@ -1,5 +1,10 @@
+const { faker } = require("@faker-js/faker");
+const db = require("../model/puebla-population.json");
+  const populationZonesDB = require("../model/zones-population.json");
+  const { zones } = require('../constants/zones.json');
+
 const getStatePopulationByAge = async (req, res) => {
-  const result = require("../model/puebla-population.json");
+  const result = db;
 
   const last = result.population[result.population.length - 1];
   const rest = result.population.slice(0, -1);
@@ -14,4 +19,12 @@ const getStatePopulationByAge = async (req, res) => {
   };
 };
 
-module.exports = { getStatePopulationByAge };
+const getZonePopulationByAge = async (req, res) => {
+  const { zone } = req.params;
+
+  const result = populationZonesDB.population[zone];
+
+  return result;
+};
+
+module.exports = { getStatePopulationByAge, getZonePopulationByAge };
