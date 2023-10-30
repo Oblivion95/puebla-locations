@@ -32,7 +32,7 @@ const generateZonesPopulation = () => {
     const data = {
       ...prev,
       [zone]: {
-        population: groupsByAge,
+        population: groupsByAge.sort((a, b) => b.Total - a.Total),
         total: {
           "Grupo de edad": "Total",
           Total: maxTotal,
