@@ -20,8 +20,6 @@ const generateZonesPopulation = () => {
     const maxMen = total.Hombres / totalZones | 0;
     const maxWomen = total.Mujeres / totalZones | 0;
 
-    console.table({ maxTotal, maxMen, maxWomen });
-
     const groupsByAge = ageGroups.map((ageGroup) => ({
       "Grupo de edad": ageGroup,
       Total: faker.number.int({ min: 100, max: maxTotal }),

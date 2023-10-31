@@ -8,22 +8,22 @@ routes
       res
     );
 
-    return res.status(200).json(resp);
+    return res.status(resp.status).json(resp);
   })
   .get("/state/zones/:zone", async (req, res) => {
-    const { resp, status } = await populationByAgeController.getZonePopulationByAge(
+    const resp = await populationByAgeController.getZonePopulationByAge(
       req,
       res
     );
 
-    return res.status(status).json(resp);
-  }).get("/state/zones/:zone/counties/:county/", async (req, res) => {
-    const { resp, status } = await populationByAgeController.getCountyPopulation(
+    return res.status(resp.status).json(resp);
+  }).get("/state/zones/:zone/counties/:county", async (req, res) => {
+    const resp = await populationByAgeController.getCountyPopulation(
       req,
       res
     );
 
-    return res.status(status).json(resp);
+    return res.status(resp.status).json(resp);
   });
 
 module.exports = routes;

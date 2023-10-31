@@ -2,63 +2,54 @@ const getZipCodes = require("../utils/get-zc-by-county");
 const counties = require("../constants/counties-by-zone.json");
 const { MAX_PROMOTIONS } = require("../constants/stats.json");
 const { faker } = require("@faker-js/faker");
+const TableService = require("../services/table.services");
+const zones = require("../constants/zones.json");
+
+const getZones = (req, res) => {
+  const resp = TableService.getZones(req, res);
+
+  return {
+    status: 200,
+    data: resp,
+    message: "Success",
+  };
+};
 
 const getZoneCounties = (req, res) => {
-
   const { zone } = req.params;
-
   if (!zone) {
-    throw { message: "Missing zone", status: 400 };
+    return { message: "Missing zone", status: 400, data: null };
   }
 
-  const zoneCounties = { counties: counties[zone] };
+  const resp = TableService.getZoneCounties(req, res);
 
-  return zoneCounties;
+  return { status: 200, data: resp, message: "Success" };
 };
 
 const getCountyZones = async (req, res) => {
   let { zone, county } = req.params;
 
   if (!zone) {
-    throw { message: "Missing zone", status: 400 };
+    return { message: "Missing zone", status: 400, data: null };
   }
 
   if (!county) {
-    throw { message: "Missing county", status: 400 };
+    return { message: "Missing county", status: 400, data: null };
   }
 
-  county = county.replace(/%20|\+/g, " ");
+  const resp = await TableService.getCountyZones(req, res);
 
-  const [countyStats] = counties[zone].db.filter((c) => c.name === county);
-  const zipCodes = await getZipCodes(county);
+  console.table(resp);
 
-  const sections = {};
-
-  sections.sections = {};
-
-  sections.sections.db = Array.from({ length: zipCodes.length }, (_, index) => {
-    const promoted = faker.number.int({
-      min: 10,
-      max: countyStats.goal * 0.4 | 0,
-    });
-
-    return {
-      name: `sección ${index + 1}`,
-      promoted,
-      progress: +(promoted / countyStats.goal * 100).toFixed(5),
-      contributionToGlobal: +(promoted / MAX_PROMOTIONS * 100).toFixed(5),
-    }
-  });
-
-  sections.sections.meta = {
-    totalPromoted: sections.sections.db.reduce((acc, curr) => acc + curr.promoted, 0),
-    totalContributionToGlobal: sections.sections.db.reduce((acc, curr) => acc + curr.contributionToGlobal, 0),
+  return {
+    status: 200,
+    data: resp,
+    message: "Success",
   }
-
-  return sections;
 };
 
 module.exports = {
   getZoneCounties,
   getCountyZones,
+  getZones,
 };

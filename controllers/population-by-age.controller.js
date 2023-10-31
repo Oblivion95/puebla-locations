@@ -6,7 +6,11 @@ const getStatePopulationByAge = async (req, res) => {
     res
   );
 
-  return result;
+  return {
+    data: result,
+    status: 200,
+    message: "Success",
+  };
 };
 
 const getZonePopulationByAge = async (req, res) => {
@@ -16,21 +20,25 @@ const getZonePopulationByAge = async (req, res) => {
       res
     );
 
+    console.table(result);
+
     if (!result) {
       throw result;
     }
 
     return {
-      resp: {
-        population: result.population,
-        total: result.total,
+      data: {
+        data: result.population,
+        meta: result.total,
       },
       status: 200,
+      message: "Success"
     };
   } catch (error) {
     return {
-      error: error,
+      data: error,
       status: 500,
+      message: "Internal Server Error"
     };
   }
 };

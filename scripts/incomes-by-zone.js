@@ -1,0 +1,16 @@
+const fs = require("fs");
+const path = require("path");
+
+(() => {
+  const { generateIncomesByZone } = require("../utils/generate-incomes-by-zone");
+
+  try {
+    fs.writeFileSync(
+      path.join(__dirname, "../constants/incomes-by-zone.json"),
+      JSON.stringify(generateIncomesByZone(), undefined, 2)
+    );
+  } catch (error) {
+    console.log(error);
+  }
+
+})();

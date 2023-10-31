@@ -1,19 +1,19 @@
 const express = require("express");
 const routes = express.Router();
-const TableController = require("../../controllers/zones.controller");
+const IncomesController = require("../../controllers/income.controller");
 const zones = require("../../constants/zones.json");
 
 routes
   .get("/zones", (req, res) => {
-    const resp = TableController.getZones(req, res);
+    const result = IncomesController.getZonesIncomes(req, res);
 
-    return res.status(resp.status).json(resp);
+    return res.status(result.status).json(result);
   })
   .get("/zones/:zone/counties", (req, res) => {
     try {
-      const result = TableController.getZoneCounties(req, res);
+      const result = IncomesController.getZoneCounties(req, res);
 
-      return res.status(result.status).json(result);
+      return res.status(200).json(result);
 
     } catch ({ status, message }) {
       console.error(message);
@@ -22,9 +22,9 @@ routes
     }
   }).get("/zones/:zone/counties/:county/sections", async (req, res) => {
     try {
-      const result = await TableController.getCountyZones(req, res);
+      const result = await IncomesController.getCountyZones(req, res);
 
-      return res.status(result.status).json(result);
+      return res.status(200).json(result);
 
     } catch ({ status, message }) {
       console.error(message);

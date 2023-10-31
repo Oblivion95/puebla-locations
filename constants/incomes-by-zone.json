@@ -1,0 +1,717 @@
+{
+  "db": [
+    {
+      "id": 1,
+      "name": "zona-1",
+      "goal": 43478,
+      "promoted": 3498,
+      "progress": 8.04545,
+      "contributionToGlobal": 0.3498,
+      "color": "#54478c",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 442,
+          "percentage": 12.64
+        },
+        "tipo-2": {
+          "total": 200,
+          "percentage": 5.72
+        },
+        "tipo-3": {
+          "total": 384,
+          "percentage": 10.98
+        },
+        "tipo-4": {
+          "total": 436,
+          "percentage": 12.46
+        },
+        "tipo-5": {
+          "total": 240,
+          "percentage": 6.86
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "zona-2",
+      "goal": 43478,
+      "promoted": 9700,
+      "progress": 22.31013,
+      "contributionToGlobal": 0.97,
+      "color": "#2c699a",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 279,
+          "percentage": 2.88
+        },
+        "tipo-2": {
+          "total": 361,
+          "percentage": 3.72
+        },
+        "tipo-3": {
+          "total": 968,
+          "percentage": 9.98
+        },
+        "tipo-4": {
+          "total": 555,
+          "percentage": 5.72
+        },
+        "tipo-5": {
+          "total": 1388,
+          "percentage": 14.31
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "zona-3",
+      "goal": 43478,
+      "promoted": 12542,
+      "progress": 28.84677,
+      "contributionToGlobal": 1.2542,
+      "color": "#048ba8",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 747,
+          "percentage": 5.96
+        },
+        "tipo-2": {
+          "total": 902,
+          "percentage": 7.19
+        },
+        "tipo-3": {
+          "total": 1794,
+          "percentage": 14.3
+        },
+        "tipo-4": {
+          "total": 2172,
+          "percentage": 17.32
+        },
+        "tipo-5": {
+          "total": 779,
+          "percentage": 6.21
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "zona-4",
+      "goal": 43478,
+      "promoted": 18115,
+      "progress": 41.66475,
+      "contributionToGlobal": 1.8115,
+      "color": "#07beb8",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 2457,
+          "percentage": 13.56
+        },
+        "tipo-2": {
+          "total": 3517,
+          "percentage": 19.41
+        },
+        "tipo-3": {
+          "total": 2098,
+          "percentage": 11.58
+        },
+        "tipo-4": {
+          "total": 2771,
+          "percentage": 15.3
+        },
+        "tipo-5": {
+          "total": 1596,
+          "percentage": 8.81
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "zona-5",
+      "goal": 43478,
+      "promoted": 28478,
+      "progress": 65.49979,
+      "contributionToGlobal": 2.8478,
+      "color": "#3dccc7",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 2994,
+          "percentage": 10.51
+        },
+        "tipo-2": {
+          "total": 3324,
+          "percentage": 11.67
+        },
+        "tipo-3": {
+          "total": 5606,
+          "percentage": 19.69
+        },
+        "tipo-4": {
+          "total": 152,
+          "percentage": 0.53
+        },
+        "tipo-5": {
+          "total": 1373,
+          "percentage": 4.82
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "zona-6",
+      "goal": 43478,
+      "promoted": 16495,
+      "progress": 37.93873,
+      "contributionToGlobal": 1.6495,
+      "color": "#0db39e",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 937,
+          "percentage": 5.68
+        },
+        "tipo-2": {
+          "total": 370,
+          "percentage": 2.24
+        },
+        "tipo-3": {
+          "total": 153,
+          "percentage": 0.93
+        },
+        "tipo-4": {
+          "total": 2566,
+          "percentage": 15.56
+        },
+        "tipo-5": {
+          "total": 665,
+          "percentage": 4.03
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "zona-7",
+      "goal": 43478,
+      "promoted": 29342,
+      "progress": 67.487,
+      "contributionToGlobal": 2.9342,
+      "color": "#16db93",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 2877,
+          "percentage": 9.81
+        },
+        "tipo-2": {
+          "total": 5326,
+          "percentage": 18.15
+        },
+        "tipo-3": {
+          "total": 1056,
+          "percentage": 3.6
+        },
+        "tipo-4": {
+          "total": 5049,
+          "percentage": 17.21
+        },
+        "tipo-5": {
+          "total": 261,
+          "percentage": 0.89
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "zona-8",
+      "goal": 43478,
+      "promoted": 11712,
+      "progress": 26.93776,
+      "contributionToGlobal": 1.1712,
+      "color": "#83e377",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 1960,
+          "percentage": 16.73
+        },
+        "tipo-2": {
+          "total": 1163,
+          "percentage": 9.93
+        },
+        "tipo-3": {
+          "total": 2098,
+          "percentage": 17.91
+        },
+        "tipo-4": {
+          "total": 1371,
+          "percentage": 11.71
+        },
+        "tipo-5": {
+          "total": 238,
+          "percentage": 2.03
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "zona-9",
+      "goal": 43478,
+      "promoted": 10352,
+      "progress": 23.80974,
+      "contributionToGlobal": 1.0352,
+      "color": "#aaf683",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 113,
+          "percentage": 1.09
+        },
+        "tipo-2": {
+          "total": 1106,
+          "percentage": 10.68
+        },
+        "tipo-3": {
+          "total": 309,
+          "percentage": 2.98
+        },
+        "tipo-4": {
+          "total": 1420,
+          "percentage": 13.72
+        },
+        "tipo-5": {
+          "total": 1382,
+          "percentage": 13.35
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "zona-10",
+      "goal": 43478,
+      "promoted": 16473,
+      "progress": 37.88813,
+      "contributionToGlobal": 1.6473,
+      "color": "#b9e769",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 2258,
+          "percentage": 13.71
+        },
+        "tipo-2": {
+          "total": 519,
+          "percentage": 3.15
+        },
+        "tipo-3": {
+          "total": 706,
+          "percentage": 4.29
+        },
+        "tipo-4": {
+          "total": 1976,
+          "percentage": 12
+        },
+        "tipo-5": {
+          "total": 811,
+          "percentage": 4.92
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "zona-11",
+      "goal": 43478,
+      "promoted": 33208,
+      "progress": 76.37886,
+      "contributionToGlobal": 3.3208,
+      "color": "#efea5a",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 5652,
+          "percentage": 17.02
+        },
+        "tipo-2": {
+          "total": 266,
+          "percentage": 0.8
+        },
+        "tipo-3": {
+          "total": 5544,
+          "percentage": 16.69
+        },
+        "tipo-4": {
+          "total": 2497,
+          "percentage": 7.52
+        },
+        "tipo-5": {
+          "total": 5961,
+          "percentage": 17.95
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "zona-12",
+      "goal": 43478,
+      "promoted": 1321,
+      "progress": 3.03832,
+      "contributionToGlobal": 0.1321,
+      "color": "#f1c453",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 159,
+          "percentage": 12.04
+        },
+        "tipo-2": {
+          "total": 156,
+          "percentage": 11.81
+        },
+        "tipo-3": {
+          "total": 137,
+          "percentage": 10.37
+        },
+        "tipo-4": {
+          "total": 113,
+          "percentage": 8.55
+        },
+        "tipo-5": {
+          "total": 255,
+          "percentage": 19.3
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "zona-13",
+      "goal": 43478,
+      "promoted": 13769,
+      "progress": 31.66889,
+      "contributionToGlobal": 1.3769,
+      "color": "#f9c74f",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 579,
+          "percentage": 4.21
+        },
+        "tipo-2": {
+          "total": 453,
+          "percentage": 3.29
+        },
+        "tipo-3": {
+          "total": 1706,
+          "percentage": 12.39
+        },
+        "tipo-4": {
+          "total": 2698,
+          "percentage": 19.59
+        },
+        "tipo-5": {
+          "total": 1950,
+          "percentage": 14.16
+        }
+      }
+    },
+    {
+      "id": 14,
+      "name": "zona-14",
+      "goal": 43478,
+      "promoted": 4304,
+      "progress": 9.89926,
+      "contributionToGlobal": 0.4304,
+      "color": "#ffd97d",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 222,
+          "percentage": 5.16
+        },
+        "tipo-2": {
+          "total": 677,
+          "percentage": 15.73
+        },
+        "tipo-3": {
+          "total": 402,
+          "percentage": 9.34
+        },
+        "tipo-4": {
+          "total": 825,
+          "percentage": 19.17
+        },
+        "tipo-5": {
+          "total": 400,
+          "percentage": 9.29
+        }
+      }
+    },
+    {
+      "id": 15,
+      "name": "zona-15",
+      "goal": 43478,
+      "promoted": 34384,
+      "progress": 79.08367,
+      "contributionToGlobal": 3.4384,
+      "color": "#e9c46a",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 2769,
+          "percentage": 8.05
+        },
+        "tipo-2": {
+          "total": 4025,
+          "percentage": 11.71
+        },
+        "tipo-3": {
+          "total": 5500,
+          "percentage": 16
+        },
+        "tipo-4": {
+          "total": 1338,
+          "percentage": 3.89
+        },
+        "tipo-5": {
+          "total": 1904,
+          "percentage": 5.54
+        }
+      }
+    },
+    {
+      "id": 16,
+      "name": "zona-16",
+      "goal": 43478,
+      "promoted": 24988,
+      "progress": 57.47274,
+      "contributionToGlobal": 2.4988,
+      "color": "#ff9b85",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 573,
+          "percentage": 2.29
+        },
+        "tipo-2": {
+          "total": 2356,
+          "percentage": 9.43
+        },
+        "tipo-3": {
+          "total": 1469,
+          "percentage": 5.88
+        },
+        "tipo-4": {
+          "total": 968,
+          "percentage": 3.87
+        },
+        "tipo-5": {
+          "total": 3654,
+          "percentage": 14.62
+        }
+      }
+    },
+    {
+      "id": 17,
+      "name": "zona-17",
+      "goal": 43478,
+      "promoted": 16294,
+      "progress": 37.47642,
+      "contributionToGlobal": 1.6294,
+      "color": "#ff6f69",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 766,
+          "percentage": 4.7
+        },
+        "tipo-2": {
+          "total": 302,
+          "percentage": 1.85
+        },
+        "tipo-3": {
+          "total": 422,
+          "percentage": 2.59
+        },
+        "tipo-4": {
+          "total": 1756,
+          "percentage": 10.78
+        },
+        "tipo-5": {
+          "total": 1053,
+          "percentage": 6.46
+        }
+      }
+    },
+    {
+      "id": 18,
+      "name": "zona-18",
+      "goal": 43478,
+      "promoted": 21632,
+      "progress": 49.7539,
+      "contributionToGlobal": 2.1632,
+      "color": "#ee6055",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 1699,
+          "percentage": 7.85
+        },
+        "tipo-2": {
+          "total": 3854,
+          "percentage": 17.82
+        },
+        "tipo-3": {
+          "total": 561,
+          "percentage": 2.59
+        },
+        "tipo-4": {
+          "total": 3353,
+          "percentage": 15.5
+        },
+        "tipo-5": {
+          "total": 1190,
+          "percentage": 5.5
+        }
+      }
+    },
+    {
+      "id": 19,
+      "name": "zona-19",
+      "goal": 43478,
+      "promoted": 20765,
+      "progress": 47.75979,
+      "contributionToGlobal": 2.0765,
+      "color": "#e76f51",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 2265,
+          "percentage": 10.91
+        },
+        "tipo-2": {
+          "total": 3899,
+          "percentage": 18.78
+        },
+        "tipo-3": {
+          "total": 2389,
+          "percentage": 11.5
+        },
+        "tipo-4": {
+          "total": 1392,
+          "percentage": 6.7
+        },
+        "tipo-5": {
+          "total": 293,
+          "percentage": 1.41
+        }
+      }
+    },
+    {
+      "id": 20,
+      "name": "zona-20",
+      "goal": 43478,
+      "promoted": 9023,
+      "progress": 20.75302,
+      "contributionToGlobal": 0.9023,
+      "color": "#f29e4c",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 1047,
+          "percentage": 11.6
+        },
+        "tipo-2": {
+          "total": 910,
+          "percentage": 10.09
+        },
+        "tipo-3": {
+          "total": 1646,
+          "percentage": 18.24
+        },
+        "tipo-4": {
+          "total": 412,
+          "percentage": 4.57
+        },
+        "tipo-5": {
+          "total": 1603,
+          "percentage": 17.77
+        }
+      }
+    },
+    {
+      "id": 21,
+      "name": "zona-21",
+      "goal": 43478,
+      "promoted": 29081,
+      "progress": 66.8867,
+      "contributionToGlobal": 2.9081,
+      "color": "#f3722c",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 4437,
+          "percentage": 15.26
+        },
+        "tipo-2": {
+          "total": 3185,
+          "percentage": 10.95
+        },
+        "tipo-3": {
+          "total": 2194,
+          "percentage": 7.54
+        },
+        "tipo-4": {
+          "total": 3001,
+          "percentage": 10.32
+        },
+        "tipo-5": {
+          "total": 4961,
+          "percentage": 17.06
+        }
+      }
+    },
+    {
+      "id": 22,
+      "name": "zona-22",
+      "goal": 43478,
+      "promoted": 12818,
+      "progress": 29.48158,
+      "contributionToGlobal": 1.2818,
+      "color": "#f9844a",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 322,
+          "percentage": 2.51
+        },
+        "tipo-2": {
+          "total": 497,
+          "percentage": 3.88
+        },
+        "tipo-3": {
+          "total": 2155,
+          "percentage": 16.81
+        },
+        "tipo-4": {
+          "total": 1911,
+          "percentage": 14.91
+        },
+        "tipo-5": {
+          "total": 1938,
+          "percentage": 15.12
+        }
+      }
+    },
+    {
+      "id": 23,
+      "name": "zona-23",
+      "goal": 43478,
+      "promoted": 31851,
+      "progress": 73.25774,
+      "contributionToGlobal": 3.1851,
+      "color": "#f8961e",
+      "incomeTable": {
+        "tipo-1": {
+          "total": 3000,
+          "percentage": 9.42
+        },
+        "tipo-2": {
+          "total": 752,
+          "percentage": 2.36
+        },
+        "tipo-3": {
+          "total": 5756,
+          "percentage": 18.07
+        },
+        "tipo-4": {
+          "total": 5090,
+          "percentage": 15.98
+        },
+        "tipo-5": {
+          "total": 771,
+          "percentage": 2.42
+        }
+      }
+    }
+  ]
+}

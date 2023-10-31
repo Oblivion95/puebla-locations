@@ -14,8 +14,8 @@ const getStatePopulationByAge = async (req, res) => {
     .reduce((acc, [key, value]) => ({ ...acc, [key]: value }), {});
 
   return {
-    population: rest,
-    total,
+    data: rest,
+    meta: total,
   };
 };
 
