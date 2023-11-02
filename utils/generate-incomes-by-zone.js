@@ -4,7 +4,7 @@ const { faker } = require("@faker-js/faker");
 
 module.exports.generateIncomesByZone = () => {
   const {
-    zones: { db: dbZones },
+    zones: { db: dbZones, meta },
   } = zones;
 
   const result = dbZones.map((zone) => {
@@ -32,5 +32,5 @@ module.exports.generateIncomesByZone = () => {
     };
   });
 
-  return { db: result };
+  return { db: result, meta };
 };

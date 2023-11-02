@@ -1,7 +1,6 @@
 const express = require("express");
 const routes = express.Router();
 const IncomesController = require("../../controllers/income.controller");
-const zones = require("../../constants/zones.json");
 
 routes
   .get("/zones", (req, res) => {

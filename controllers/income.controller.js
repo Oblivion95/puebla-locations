@@ -5,7 +5,14 @@ const { faker } = require("@faker-js/faker");
 const incomesByZone = require("../constants/incomes-by-zone.json");
 
 const getZonesIncomes = (req, res) => {
-  return { status: 200, data: incomesByZone.db, message: "Success" };
+  return {
+    status: 200,
+    data: {
+      data: incomesByZone.db,
+      meta: incomesByZone.meta,
+    },
+    message: "Success",
+  };
 };
 
 const getZoneCounties = (req, res) => {

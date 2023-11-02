@@ -3,11 +3,14 @@ const path = require("path");
 
 (() => {
   const { generateIncomesByZone } = require("../utils/generate-incomes-by-zone");
+  const result = generateIncomesByZone();
+
+  console.log(result);
 
   try {
     fs.writeFileSync(
       path.join(__dirname, "../constants/incomes-by-zone.json"),
-      JSON.stringify(generateIncomesByZone(), undefined, 2)
+      JSON.stringify(result, undefined, 2)
     );
   } catch (error) {
     console.log(error);

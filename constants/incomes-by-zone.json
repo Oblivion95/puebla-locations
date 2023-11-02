@@ -10,24 +10,24 @@
       "color": "#54478c",
       "incomeTable": {
         "tipo-1": {
-          "total": 442,
-          "percentage": 12.64
+          "total": 187,
+          "percentage": 5.35
         },
         "tipo-2": {
-          "total": 200,
-          "percentage": 5.72
+          "total": 450,
+          "percentage": 12.86
         },
         "tipo-3": {
-          "total": 384,
-          "percentage": 10.98
+          "total": 235,
+          "percentage": 6.72
         },
         "tipo-4": {
-          "total": 436,
-          "percentage": 12.46
+          "total": 389,
+          "percentage": 11.12
         },
         "tipo-5": {
-          "total": 240,
-          "percentage": 6.86
+          "total": 267,
+          "percentage": 7.63
         }
       }
     },
@@ -41,24 +41,24 @@
       "color": "#2c699a",
       "incomeTable": {
         "tipo-1": {
-          "total": 279,
-          "percentage": 2.88
+          "total": 554,
+          "percentage": 5.71
         },
         "tipo-2": {
-          "total": 361,
-          "percentage": 3.72
+          "total": 286,
+          "percentage": 2.95
         },
         "tipo-3": {
-          "total": 968,
-          "percentage": 9.98
+          "total": 782,
+          "percentage": 8.06
         },
         "tipo-4": {
-          "total": 555,
-          "percentage": 5.72
+          "total": 679,
+          "percentage": 7
         },
         "tipo-5": {
-          "total": 1388,
-          "percentage": 14.31
+          "total": 1573,
+          "percentage": 16.22
         }
       }
     },
@@ -72,24 +72,24 @@
       "color": "#048ba8",
       "incomeTable": {
         "tipo-1": {
-          "total": 747,
-          "percentage": 5.96
+          "total": 431,
+          "percentage": 3.44
         },
         "tipo-2": {
-          "total": 902,
-          "percentage": 7.19
+          "total": 1887,
+          "percentage": 15.05
         },
         "tipo-3": {
-          "total": 1794,
-          "percentage": 14.3
+          "total": 845,
+          "percentage": 6.74
         },
         "tipo-4": {
-          "total": 2172,
-          "percentage": 17.32
+          "total": 1644,
+          "percentage": 13.11
         },
         "tipo-5": {
-          "total": 779,
-          "percentage": 6.21
+          "total": 459,
+          "percentage": 3.66
         }
       }
     },
@@ -103,24 +103,24 @@
       "color": "#07beb8",
       "incomeTable": {
         "tipo-1": {
-          "total": 2457,
-          "percentage": 13.56
+          "total": 1652,
+          "percentage": 9.12
         },
         "tipo-2": {
-          "total": 3517,
-          "percentage": 19.41
+          "total": 867,
+          "percentage": 4.79
         },
         "tipo-3": {
-          "total": 2098,
-          "percentage": 11.58
+          "total": 2970,
+          "percentage": 16.4
         },
         "tipo-4": {
-          "total": 2771,
-          "percentage": 15.3
+          "total": 2416,
+          "percentage": 13.34
         },
         "tipo-5": {
-          "total": 1596,
-          "percentage": 8.81
+          "total": 1829,
+          "percentage": 10.1
         }
       }
     },
@@ -134,24 +134,24 @@
       "color": "#3dccc7",
       "incomeTable": {
         "tipo-1": {
-          "total": 2994,
-          "percentage": 10.51
+          "total": 5338,
+          "percentage": 18.74
         },
         "tipo-2": {
-          "total": 3324,
-          "percentage": 11.67
+          "total": 2717,
+          "percentage": 9.54
         },
         "tipo-3": {
-          "total": 5606,
-          "percentage": 19.69
+          "total": 2198,
+          "percentage": 7.72
         },
         "tipo-4": {
-          "total": 152,
-          "percentage": 0.53
+          "total": 250,
+          "percentage": 0.88
         },
         "tipo-5": {
-          "total": 1373,
-          "percentage": 4.82
+          "total": 1098,
+          "percentage": 3.86
         }
       }
     },
@@ -165,24 +165,24 @@
       "color": "#0db39e",
       "incomeTable": {
         "tipo-1": {
-          "total": 937,
-          "percentage": 5.68
+          "total": 2681,
+          "percentage": 16.25
         },
         "tipo-2": {
-          "total": 370,
-          "percentage": 2.24
+          "total": 1194,
+          "percentage": 7.24
         },
         "tipo-3": {
-          "total": 153,
-          "percentage": 0.93
+          "total": 3141,
+          "percentage": 19.04
         },
         "tipo-4": {
-          "total": 2566,
-          "percentage": 15.56
+          "total": 3215,
+          "percentage": 19.49
         },
         "tipo-5": {
-          "total": 665,
-          "percentage": 4.03
+          "total": 2812,
+          "percentage": 17.05
         }
       }
     },
@@ -196,24 +196,24 @@
       "color": "#16db93",
       "incomeTable": {
         "tipo-1": {
-          "total": 2877,
-          "percentage": 9.81
+          "total": 5596,
+          "percentage": 19.07
         },
         "tipo-2": {
-          "total": 5326,
-          "percentage": 18.15
+          "total": 1978,
+          "percentage": 6.74
         },
         "tipo-3": {
-          "total": 1056,
-          "percentage": 3.6
+          "total": 1402,
+          "percentage": 4.78
         },
         "tipo-4": {
-          "total": 5049,
-          "percentage": 17.21
+          "total": 5373,
+          "percentage": 18.31
         },
         "tipo-5": {
-          "total": 261,
-          "percentage": 0.89
+          "total": 5056,
+          "percentage": 17.23
         }
       }
     },
@@ -227,24 +227,24 @@
       "color": "#83e377",
       "incomeTable": {
         "tipo-1": {
-          "total": 1960,
-          "percentage": 16.73
+          "total": 2018,
+          "percentage": 17.23
         },
         "tipo-2": {
-          "total": 1163,
-          "percentage": 9.93
+          "total": 1608,
+          "percentage": 13.73
         },
         "tipo-3": {
-          "total": 2098,
-          "percentage": 17.91
+          "total": 1567,
+          "percentage": 13.38
         },
         "tipo-4": {
-          "total": 1371,
-          "percentage": 11.71
+          "total": 1276,
+          "percentage": 10.89
         },
         "tipo-5": {
-          "total": 238,
-          "percentage": 2.03
+          "total": 702,
+          "percentage": 5.99
         }
       }
     },
@@ -258,24 +258,24 @@
       "color": "#aaf683",
       "incomeTable": {
         "tipo-1": {
-          "total": 113,
-          "percentage": 1.09
+          "total": 274,
+          "percentage": 2.65
         },
         "tipo-2": {
-          "total": 1106,
-          "percentage": 10.68
+          "total": 1823,
+          "percentage": 17.61
         },
         "tipo-3": {
-          "total": 309,
-          "percentage": 2.98
+          "total": 585,
+          "percentage": 5.65
         },
         "tipo-4": {
-          "total": 1420,
-          "percentage": 13.72
+          "total": 570,
+          "percentage": 5.51
         },
         "tipo-5": {
-          "total": 1382,
-          "percentage": 13.35
+          "total": 1444,
+          "percentage": 13.95
         }
       }
     },
@@ -289,24 +289,24 @@
       "color": "#b9e769",
       "incomeTable": {
         "tipo-1": {
-          "total": 2258,
-          "percentage": 13.71
+          "total": 2708,
+          "percentage": 16.44
         },
         "tipo-2": {
-          "total": 519,
-          "percentage": 3.15
+          "total": 1066,
+          "percentage": 6.47
         },
         "tipo-3": {
-          "total": 706,
-          "percentage": 4.29
+          "total": 627,
+          "percentage": 3.81
         },
         "tipo-4": {
-          "total": 1976,
-          "percentage": 12
+          "total": 1376,
+          "percentage": 8.35
         },
         "tipo-5": {
-          "total": 811,
-          "percentage": 4.92
+          "total": 2745,
+          "percentage": 16.66
         }
       }
     },
@@ -320,24 +320,24 @@
       "color": "#efea5a",
       "incomeTable": {
         "tipo-1": {
-          "total": 5652,
-          "percentage": 17.02
+          "total": 1662,
+          "percentage": 5
         },
         "tipo-2": {
-          "total": 266,
-          "percentage": 0.8
+          "total": 6422,
+          "percentage": 19.34
         },
         "tipo-3": {
-          "total": 5544,
-          "percentage": 16.69
+          "total": 1267,
+          "percentage": 3.82
         },
         "tipo-4": {
-          "total": 2497,
-          "percentage": 7.52
+          "total": 1561,
+          "percentage": 4.7
         },
         "tipo-5": {
-          "total": 5961,
-          "percentage": 17.95
+          "total": 6100,
+          "percentage": 18.37
         }
       }
     },
@@ -351,24 +351,24 @@
       "color": "#f1c453",
       "incomeTable": {
         "tipo-1": {
-          "total": 159,
-          "percentage": 12.04
+          "total": 229,
+          "percentage": 17.34
         },
         "tipo-2": {
-          "total": 156,
-          "percentage": 11.81
-        },
-        "tipo-3": {
           "total": 137,
           "percentage": 10.37
         },
+        "tipo-3": {
+          "total": 138,
+          "percentage": 10.45
+        },
         "tipo-4": {
-          "total": 113,
-          "percentage": 8.55
+          "total": 246,
+          "percentage": 18.62
         },
         "tipo-5": {
-          "total": 255,
-          "percentage": 19.3
+          "total": 130,
+          "percentage": 9.84
         }
       }
     },
@@ -382,24 +382,24 @@
       "color": "#f9c74f",
       "incomeTable": {
         "tipo-1": {
-          "total": 579,
-          "percentage": 4.21
+          "total": 2561,
+          "percentage": 18.6
         },
         "tipo-2": {
-          "total": 453,
-          "percentage": 3.29
+          "total": 2669,
+          "percentage": 19.38
         },
         "tipo-3": {
-          "total": 1706,
-          "percentage": 12.39
+          "total": 2133,
+          "percentage": 15.49
         },
         "tipo-4": {
-          "total": 2698,
-          "percentage": 19.59
+          "total": 415,
+          "percentage": 3.01
         },
         "tipo-5": {
-          "total": 1950,
-          "percentage": 14.16
+          "total": 2250,
+          "percentage": 16.34
         }
       }
     },
@@ -413,24 +413,24 @@
       "color": "#ffd97d",
       "incomeTable": {
         "tipo-1": {
-          "total": 222,
-          "percentage": 5.16
+          "total": 658,
+          "percentage": 15.29
         },
         "tipo-2": {
-          "total": 677,
-          "percentage": 15.73
+          "total": 790,
+          "percentage": 18.36
         },
         "tipo-3": {
-          "total": 402,
-          "percentage": 9.34
+          "total": 661,
+          "percentage": 15.36
         },
         "tipo-4": {
-          "total": 825,
-          "percentage": 19.17
+          "total": 233,
+          "percentage": 5.41
         },
         "tipo-5": {
-          "total": 400,
-          "percentage": 9.29
+          "total": 472,
+          "percentage": 10.97
         }
       }
     },
@@ -444,24 +444,24 @@
       "color": "#e9c46a",
       "incomeTable": {
         "tipo-1": {
-          "total": 2769,
-          "percentage": 8.05
+          "total": 1805,
+          "percentage": 5.25
         },
         "tipo-2": {
-          "total": 4025,
-          "percentage": 11.71
+          "total": 1948,
+          "percentage": 5.67
         },
         "tipo-3": {
-          "total": 5500,
-          "percentage": 16
+          "total": 590,
+          "percentage": 1.72
         },
         "tipo-4": {
-          "total": 1338,
-          "percentage": 3.89
+          "total": 5271,
+          "percentage": 15.33
         },
         "tipo-5": {
-          "total": 1904,
-          "percentage": 5.54
+          "total": 6310,
+          "percentage": 18.35
         }
       }
     },
@@ -475,24 +475,24 @@
       "color": "#ff9b85",
       "incomeTable": {
         "tipo-1": {
-          "total": 573,
-          "percentage": 2.29
+          "total": 2782,
+          "percentage": 11.13
         },
         "tipo-2": {
-          "total": 2356,
-          "percentage": 9.43
+          "total": 620,
+          "percentage": 2.48
         },
         "tipo-3": {
-          "total": 1469,
-          "percentage": 5.88
+          "total": 1225,
+          "percentage": 4.9
         },
         "tipo-4": {
-          "total": 968,
-          "percentage": 3.87
+          "total": 2953,
+          "percentage": 11.82
         },
         "tipo-5": {
-          "total": 3654,
-          "percentage": 14.62
+          "total": 2848,
+          "percentage": 11.4
         }
       }
     },
@@ -506,24 +506,24 @@
       "color": "#ff6f69",
       "incomeTable": {
         "tipo-1": {
-          "total": 766,
-          "percentage": 4.7
+          "total": 780,
+          "percentage": 4.79
         },
         "tipo-2": {
-          "total": 302,
-          "percentage": 1.85
+          "total": 199,
+          "percentage": 1.22
         },
         "tipo-3": {
-          "total": 422,
-          "percentage": 2.59
+          "total": 1431,
+          "percentage": 8.78
         },
         "tipo-4": {
-          "total": 1756,
-          "percentage": 10.78
+          "total": 653,
+          "percentage": 4.01
         },
         "tipo-5": {
-          "total": 1053,
-          "percentage": 6.46
+          "total": 1286,
+          "percentage": 7.89
         }
       }
     },
@@ -537,24 +537,24 @@
       "color": "#ee6055",
       "incomeTable": {
         "tipo-1": {
-          "total": 1699,
-          "percentage": 7.85
+          "total": 160,
+          "percentage": 0.74
         },
         "tipo-2": {
-          "total": 3854,
-          "percentage": 17.82
+          "total": 2151,
+          "percentage": 9.94
         },
         "tipo-3": {
-          "total": 561,
-          "percentage": 2.59
+          "total": 898,
+          "percentage": 4.15
         },
         "tipo-4": {
-          "total": 3353,
-          "percentage": 15.5
+          "total": 1319,
+          "percentage": 6.1
         },
         "tipo-5": {
-          "total": 1190,
-          "percentage": 5.5
+          "total": 2813,
+          "percentage": 13
         }
       }
     },
@@ -568,24 +568,24 @@
       "color": "#e76f51",
       "incomeTable": {
         "tipo-1": {
-          "total": 2265,
-          "percentage": 10.91
+          "total": 2194,
+          "percentage": 10.57
         },
         "tipo-2": {
-          "total": 3899,
-          "percentage": 18.78
+          "total": 3042,
+          "percentage": 14.65
         },
         "tipo-3": {
-          "total": 2389,
-          "percentage": 11.5
+          "total": 3125,
+          "percentage": 15.05
         },
         "tipo-4": {
-          "total": 1392,
-          "percentage": 6.7
+          "total": 827,
+          "percentage": 3.98
         },
         "tipo-5": {
-          "total": 293,
-          "percentage": 1.41
+          "total": 2954,
+          "percentage": 14.23
         }
       }
     },
@@ -599,24 +599,24 @@
       "color": "#f29e4c",
       "incomeTable": {
         "tipo-1": {
-          "total": 1047,
-          "percentage": 11.6
+          "total": 1717,
+          "percentage": 19.03
         },
         "tipo-2": {
-          "total": 910,
-          "percentage": 10.09
+          "total": 1222,
+          "percentage": 13.54
         },
         "tipo-3": {
-          "total": 1646,
-          "percentage": 18.24
+          "total": 123,
+          "percentage": 1.36
         },
         "tipo-4": {
-          "total": 412,
-          "percentage": 4.57
+          "total": 1787,
+          "percentage": 19.8
         },
         "tipo-5": {
-          "total": 1603,
-          "percentage": 17.77
+          "total": 285,
+          "percentage": 3.16
         }
       }
     },
@@ -630,24 +630,24 @@
       "color": "#f3722c",
       "incomeTable": {
         "tipo-1": {
-          "total": 4437,
-          "percentage": 15.26
+          "total": 5323,
+          "percentage": 18.3
         },
         "tipo-2": {
-          "total": 3185,
-          "percentage": 10.95
+          "total": 2054,
+          "percentage": 7.06
         },
         "tipo-3": {
-          "total": 2194,
-          "percentage": 7.54
+          "total": 5816,
+          "percentage": 20
         },
         "tipo-4": {
-          "total": 3001,
-          "percentage": 10.32
+          "total": 1652,
+          "percentage": 5.68
         },
         "tipo-5": {
-          "total": 4961,
-          "percentage": 17.06
+          "total": 1871,
+          "percentage": 6.43
         }
       }
     },
@@ -661,24 +661,24 @@
       "color": "#f9844a",
       "incomeTable": {
         "tipo-1": {
-          "total": 322,
-          "percentage": 2.51
+          "total": 597,
+          "percentage": 4.66
         },
         "tipo-2": {
-          "total": 497,
-          "percentage": 3.88
+          "total": 968,
+          "percentage": 7.55
         },
         "tipo-3": {
-          "total": 2155,
-          "percentage": 16.81
+          "total": 669,
+          "percentage": 5.22
         },
         "tipo-4": {
-          "total": 1911,
-          "percentage": 14.91
+          "total": 2335,
+          "percentage": 18.22
         },
         "tipo-5": {
-          "total": 1938,
-          "percentage": 15.12
+          "total": 1711,
+          "percentage": 13.35
         }
       }
     },
@@ -692,26 +692,30 @@
       "color": "#f8961e",
       "incomeTable": {
         "tipo-1": {
-          "total": 3000,
-          "percentage": 9.42
+          "total": 5269,
+          "percentage": 16.54
         },
         "tipo-2": {
-          "total": 752,
-          "percentage": 2.36
+          "total": 1008,
+          "percentage": 3.16
         },
         "tipo-3": {
-          "total": 5756,
-          "percentage": 18.07
+          "total": 5030,
+          "percentage": 15.79
         },
         "tipo-4": {
-          "total": 5090,
-          "percentage": 15.98
+          "total": 6246,
+          "percentage": 19.61
         },
         "tipo-5": {
-          "total": 771,
-          "percentage": 2.42
+          "total": 5502,
+          "percentage": 17.27
         }
       }
     }
-  ]
+  ],
+  "meta": {
+    "totalPromoted": 410145,
+    "totalcontributionToGlobal": 41.01449999999999
+  }
 }
