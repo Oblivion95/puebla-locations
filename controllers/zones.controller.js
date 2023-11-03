@@ -1,9 +1,5 @@
-const getZipCodes = require("../utils/get-zc-by-county");
-const counties = require("../constants/counties-by-zone.json");
-const { MAX_PROMOTIONS } = require("../constants/stats.json");
-const { faker } = require("@faker-js/faker");
+
 const TableService = require("../services/table.services");
-const zones = require("../constants/zones.json");
 
 const getZones = (req, res) => {
   const resp = TableService.getZones(req, res);

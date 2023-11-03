@@ -4,6 +4,8 @@ const { MAX_PROMOTIONS } = require("../constants/stats.json");
 const { faker } = require("@faker-js/faker");
 const incomesByZone = require("../constants/incomes-by-zone.json");
 
+const IncomeController = require("../services/income.service");
+
 const getZonesIncomes = (req, res) => {
   return {
     status: 200,
@@ -19,12 +21,12 @@ const getZoneCounties = (req, res) => {
   const { zone } = req.params;
 
   if (!zone) {
-    throw { message: "Missing zone", status: 400 };
+    return { message: "Missing zone", status: 400, data: null };
   }
 
-  const zoneCounties = { counties: counties[zone] };
+  const zoneCounties = IncomeController.getZoneCounties(req, res);
 
-  return zoneCounties;
+  return { data: zoneCounties, status: 200, message: "Success" };
 };
 
 const getCountyZones = async (req, res) => {
@@ -38,41 +40,9 @@ const getCountyZones = async (req, res) => {
     throw { message: "Missing county", status: 400 };
   }
 
-  county = county.replace(/%20|\+/g, " ");
+  const countyZones = await IncomeController.getCountyZones(req, res);
 
-  const [countyStats] = counties[zone].db.filter((c) => c.name === county);
-  const zipCodes = await getZipCodes(county);
-
-  const sections = {};
-
-  sections.sections = {};
-
-  sections.sections.db = Array.from({ length: zipCodes.length }, (_, index) => {
-    const promoted = faker.number.int({
-      min: 10,
-      max: (countyStats.goal * 0.4) | 0,
-    });
-
-    return {
-      name: `sección ${index + 1}`,
-      promoted,
-      progress: +((promoted / countyStats.goal) * 100).toFixed(5),
-      contributionToGlobal: +((promoted / MAX_PROMOTIONS) * 100).toFixed(5),
-    };
-  });
-
-  sections.sections.meta = {
-    totalPromoted: sections.sections.db.reduce(
-      (acc, curr) => acc + curr.promoted,
-      0
-    ),
-    totalContributionToGlobal: sections.sections.db.reduce(
-      (acc, curr) => acc + curr.contributionToGlobal,
-      0
-    ),
-  };
-
-  return sections;
+  return { data: countyZones, status: 200, message: "Success" };
 };
 
 module.exports = {

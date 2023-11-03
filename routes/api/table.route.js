@@ -1,7 +1,6 @@
 const express = require("express");
 const routes = express.Router();
 const TableController = require("../../controllers/zones.controller");
-const zones = require("../../constants/zones.json");
 
 routes
   .get("/zones", (req, res) => {

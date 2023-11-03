@@ -12,23 +12,23 @@ routes
     try {
       const result = IncomesController.getZoneCounties(req, res);
 
-      return res.status(200).json(result);
+      return res.status(result.status).json(result);
 
     } catch ({ status, message }) {
       console.error(message);
 
-      return res.status(status).json({ message: message });
+      return res.status(status).json({ message: message, status, data: null });
     }
   }).get("/zones/:zone/counties/:county/sections", async (req, res) => {
     try {
       const result = await IncomesController.getCountyZones(req, res);
 
-      return res.status(200).json(result);
+      return res.status(result.status).json(result);
 
     } catch ({ status, message }) {
       console.error(message);
 
-      return res.status(status).json({ message: message });
+      return res.status(status).json({ message: message, status, data: null });
     }
   })
 
