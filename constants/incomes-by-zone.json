@@ -1,721 +1,625 @@
 {
-  "db": [
-    {
-      "id": 1,
-      "name": "zona-1",
-      "goal": 43478,
-      "promoted": 3498,
-      "progress": 8.04545,
-      "contributionToGlobal": 0.3498,
-      "color": "#54478c",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 416,
-          "percentage": 11.89
-        },
-        "fuente-2": {
-          "total": 634,
-          "percentage": 18.12
-        },
-        "fuente-3": {
-          "total": 261,
-          "percentage": 7.46
-        },
-        "fuente-4": {
-          "total": 623,
-          "percentage": 17.81
-        },
-        "fuente-5": {
-          "total": 674,
-          "percentage": 19.27
-        }
+  "db": {
+    "zona-1": {
+      "fuente-1": {
+        "total": 296,
+        "percentage": 8.46,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 599,
+        "percentage": 17.12,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 109,
+        "percentage": 3.12,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 562,
+        "percentage": 16.07,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 381,
+        "percentage": 10.89,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 2,
-      "name": "zona-2",
-      "goal": 43478,
-      "promoted": 9700,
-      "progress": 22.31013,
-      "contributionToGlobal": 0.97,
-      "color": "#2c699a",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 1210,
-          "percentage": 12.47
-        },
-        "fuente-2": {
-          "total": 994,
-          "percentage": 10.25
-        },
-        "fuente-3": {
-          "total": 879,
-          "percentage": 9.06
-        },
-        "fuente-4": {
-          "total": 886,
-          "percentage": 9.13
-        },
-        "fuente-5": {
-          "total": 128,
-          "percentage": 1.32
-        }
+    "zona-2": {
+      "fuente-1": {
+        "total": 754,
+        "percentage": 7.77,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 1006,
+        "percentage": 10.37,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 1267,
+        "percentage": 13.06,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 1483,
+        "percentage": 15.29,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 132,
+        "percentage": 1.36,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 3,
-      "name": "zona-3",
-      "goal": 43478,
-      "promoted": 12542,
-      "progress": 28.84677,
-      "contributionToGlobal": 1.2542,
-      "color": "#048ba8",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 1309,
-          "percentage": 10.44
-        },
-        "fuente-2": {
-          "total": 1723,
-          "percentage": 13.74
-        },
-        "fuente-3": {
-          "total": 1153,
-          "percentage": 9.19
-        },
-        "fuente-4": {
-          "total": 1046,
-          "percentage": 8.34
-        },
-        "fuente-5": {
-          "total": 1893,
-          "percentage": 15.09
-        }
+    "zona-3": {
+      "fuente-1": {
+        "total": 2332,
+        "percentage": 18.59,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 1973,
+        "percentage": 15.73,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 487,
+        "percentage": 3.88,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 1026,
+        "percentage": 8.18,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 1434,
+        "percentage": 11.43,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 4,
-      "name": "zona-4",
-      "goal": 43478,
-      "promoted": 18115,
-      "progress": 41.66475,
-      "contributionToGlobal": 1.8115,
-      "color": "#07beb8",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 2220,
-          "percentage": 12.26
-        },
-        "fuente-2": {
-          "total": 1728,
-          "percentage": 9.54
-        },
-        "fuente-3": {
-          "total": 1167,
-          "percentage": 6.44
-        },
-        "fuente-4": {
-          "total": 662,
-          "percentage": 3.65
-        },
-        "fuente-5": {
-          "total": 1400,
-          "percentage": 7.73
-        }
+    "zona-4": {
+      "fuente-1": {
+        "total": 127,
+        "percentage": 0.7,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 3029,
+        "percentage": 16.72,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 1838,
+        "percentage": 10.15,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 109,
+        "percentage": 0.6,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 2655,
+        "percentage": 14.66,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 5,
-      "name": "zona-5",
-      "goal": 43478,
-      "promoted": 28478,
-      "progress": 65.49979,
-      "contributionToGlobal": 2.8478,
-      "color": "#3dccc7",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 4197,
-          "percentage": 14.74
-        },
-        "fuente-2": {
-          "total": 4360,
-          "percentage": 15.31
-        },
-        "fuente-3": {
-          "total": 1463,
-          "percentage": 5.14
-        },
-        "fuente-4": {
-          "total": 5611,
-          "percentage": 19.7
-        },
-        "fuente-5": {
-          "total": 1722,
-          "percentage": 6.05
-        }
+    "zona-5": {
+      "fuente-1": {
+        "total": 2655,
+        "percentage": 9.32,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 1009,
+        "percentage": 3.54,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 2811,
+        "percentage": 9.87,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 5384,
+        "percentage": 18.91,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 2671,
+        "percentage": 9.38,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 6,
-      "name": "zona-6",
-      "goal": 43478,
-      "promoted": 16495,
-      "progress": 37.93873,
-      "contributionToGlobal": 1.6495,
-      "color": "#0db39e",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 1438,
-          "percentage": 8.72
-        },
-        "fuente-2": {
-          "total": 1564,
-          "percentage": 9.48
-        },
-        "fuente-3": {
-          "total": 1254,
-          "percentage": 7.6
-        },
-        "fuente-4": {
-          "total": 1871,
-          "percentage": 11.34
-        },
-        "fuente-5": {
-          "total": 1925,
-          "percentage": 11.67
-        }
+    "zona-6": {
+      "fuente-1": {
+        "total": 2084,
+        "percentage": 12.63,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 983,
+        "percentage": 5.96,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 1878,
+        "percentage": 11.39,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 2908,
+        "percentage": 17.63,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 1823,
+        "percentage": 11.05,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 7,
-      "name": "zona-7",
-      "goal": 43478,
-      "promoted": 29342,
-      "progress": 67.487,
-      "contributionToGlobal": 2.9342,
-      "color": "#16db93",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 3987,
-          "percentage": 13.59
-        },
-        "fuente-2": {
-          "total": 2346,
-          "percentage": 8
-        },
-        "fuente-3": {
-          "total": 4681,
-          "percentage": 15.95
-        },
-        "fuente-4": {
-          "total": 5727,
-          "percentage": 19.52
-        },
-        "fuente-5": {
-          "total": 2988,
-          "percentage": 10.18
-        }
+    "zona-7": {
+      "fuente-1": {
+        "total": 875,
+        "percentage": 2.98,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 1103,
+        "percentage": 3.76,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 256,
+        "percentage": 0.87,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 1615,
+        "percentage": 5.5,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 4583,
+        "percentage": 15.62,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 8,
-      "name": "zona-8",
-      "goal": 43478,
-      "promoted": 11712,
-      "progress": 26.93776,
-      "contributionToGlobal": 1.1712,
-      "color": "#83e377",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 2078,
-          "percentage": 17.74
-        },
-        "fuente-2": {
-          "total": 2109,
-          "percentage": 18.01
-        },
-        "fuente-3": {
-          "total": 1333,
-          "percentage": 11.38
-        },
-        "fuente-4": {
-          "total": 1623,
-          "percentage": 13.86
-        },
-        "fuente-5": {
-          "total": 545,
-          "percentage": 4.65
-        }
+    "zona-8": {
+      "fuente-1": {
+        "total": 1424,
+        "percentage": 12.16,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 1545,
+        "percentage": 13.19,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 1072,
+        "percentage": 9.15,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 366,
+        "percentage": 3.13,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 2101,
+        "percentage": 17.94,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 9,
-      "name": "zona-9",
-      "goal": 43478,
-      "promoted": 10352,
-      "progress": 23.80974,
-      "contributionToGlobal": 1.0352,
-      "color": "#aaf683",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 775,
-          "percentage": 7.49
-        },
-        "fuente-2": {
-          "total": 1679,
-          "percentage": 16.22
-        },
-        "fuente-3": {
-          "total": 273,
-          "percentage": 2.64
-        },
-        "fuente-4": {
-          "total": 1779,
-          "percentage": 17.19
-        },
-        "fuente-5": {
-          "total": 1602,
-          "percentage": 15.48
-        }
+    "zona-9": {
+      "fuente-1": {
+        "total": 1580,
+        "percentage": 15.26,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 1892,
+        "percentage": 18.28,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 694,
+        "percentage": 6.7,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 1922,
+        "percentage": 18.57,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 2070,
+        "percentage": 20,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 10,
-      "name": "zona-10",
-      "goal": 43478,
-      "promoted": 16473,
-      "progress": 37.88813,
-      "contributionToGlobal": 1.6473,
-      "color": "#b9e769",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 2902,
-          "percentage": 17.62
-        },
-        "fuente-2": {
-          "total": 1725,
-          "percentage": 10.47
-        },
-        "fuente-3": {
-          "total": 888,
-          "percentage": 5.39
-        },
-        "fuente-4": {
-          "total": 521,
-          "percentage": 3.16
-        },
-        "fuente-5": {
-          "total": 2195,
-          "percentage": 13.32
-        }
+    "zona-10": {
+      "fuente-1": {
+        "total": 2621,
+        "percentage": 15.91,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 3210,
+        "percentage": 19.49,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 2055,
+        "percentage": 12.47,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 1779,
+        "percentage": 10.8,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 2564,
+        "percentage": 15.56,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 11,
-      "name": "zona-11",
-      "goal": 43478,
-      "promoted": 33208,
-      "progress": 76.37886,
-      "contributionToGlobal": 3.3208,
-      "color": "#efea5a",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 1883,
-          "percentage": 5.67
-        },
-        "fuente-2": {
-          "total": 686,
-          "percentage": 2.07
-        },
-        "fuente-3": {
-          "total": 4276,
-          "percentage": 12.88
-        },
-        "fuente-4": {
-          "total": 4064,
-          "percentage": 12.24
-        },
-        "fuente-5": {
-          "total": 2840,
-          "percentage": 8.55
-        }
+    "zona-11": {
+      "fuente-1": {
+        "total": 4409,
+        "percentage": 13.28,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 4945,
+        "percentage": 14.89,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 5219,
+        "percentage": 15.72,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 914,
+        "percentage": 2.75,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 4948,
+        "percentage": 14.9,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 12,
-      "name": "zona-12",
-      "goal": 43478,
-      "promoted": 1321,
-      "progress": 3.03832,
-      "contributionToGlobal": 0.1321,
-      "color": "#f1c453",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 240,
-          "percentage": 18.17
-        },
-        "fuente-2": {
-          "total": 255,
-          "percentage": 19.3
-        },
-        "fuente-3": {
-          "total": 191,
-          "percentage": 14.46
-        },
-        "fuente-4": {
-          "total": 109,
-          "percentage": 8.25
-        },
-        "fuente-5": {
-          "total": 180,
-          "percentage": 13.63
-        }
+    "zona-12": {
+      "fuente-1": {
+        "total": 105,
+        "percentage": 7.95,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 196,
+        "percentage": 14.84,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 186,
+        "percentage": 14.08,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 230,
+        "percentage": 17.41,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 118,
+        "percentage": 8.93,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 13,
-      "name": "zona-13",
-      "goal": 43478,
-      "promoted": 13769,
-      "progress": 31.66889,
-      "contributionToGlobal": 1.3769,
-      "color": "#f9c74f",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 1903,
-          "percentage": 13.82
-        },
-        "fuente-2": {
-          "total": 2211,
-          "percentage": 16.06
-        },
-        "fuente-3": {
-          "total": 2435,
-          "percentage": 17.68
-        },
-        "fuente-4": {
-          "total": 1563,
-          "percentage": 11.35
-        },
-        "fuente-5": {
-          "total": 549,
-          "percentage": 3.99
-        }
+    "zona-13": {
+      "fuente-1": {
+        "total": 404,
+        "percentage": 2.93,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 2254,
+        "percentage": 16.37,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 989,
+        "percentage": 7.18,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 1671,
+        "percentage": 12.14,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 200,
+        "percentage": 1.45,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 14,
-      "name": "zona-14",
-      "goal": 43478,
-      "promoted": 4304,
-      "progress": 9.89926,
-      "contributionToGlobal": 0.4304,
-      "color": "#ffd97d",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 318,
-          "percentage": 7.39
-        },
-        "fuente-2": {
-          "total": 364,
-          "percentage": 8.46
-        },
-        "fuente-3": {
-          "total": 590,
-          "percentage": 13.71
-        },
-        "fuente-4": {
-          "total": 208,
-          "percentage": 4.83
-        },
-        "fuente-5": {
-          "total": 369,
-          "percentage": 8.57
-        }
+    "zona-14": {
+      "fuente-1": {
+        "total": 395,
+        "percentage": 9.18,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 304,
+        "percentage": 7.06,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 806,
+        "percentage": 18.73,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 186,
+        "percentage": 4.32,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 773,
+        "percentage": 17.96,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 15,
-      "name": "zona-15",
-      "goal": 43478,
-      "promoted": 34384,
-      "progress": 79.08367,
-      "contributionToGlobal": 3.4384,
-      "color": "#e9c46a",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 2794,
-          "percentage": 8.13
-        },
-        "fuente-2": {
-          "total": 4449,
-          "percentage": 12.94
-        },
-        "fuente-3": {
-          "total": 1498,
-          "percentage": 4.36
-        },
-        "fuente-4": {
-          "total": 450,
-          "percentage": 1.31
-        },
-        "fuente-5": {
-          "total": 6136,
-          "percentage": 17.85
-        }
+    "zona-15": {
+      "fuente-1": {
+        "total": 6184,
+        "percentage": 17.99,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 6692,
+        "percentage": 19.46,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 4991,
+        "percentage": 14.52,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 6044,
+        "percentage": 17.58,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 469,
+        "percentage": 1.36,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 16,
-      "name": "zona-16",
-      "goal": 43478,
-      "promoted": 24988,
-      "progress": 57.47274,
-      "contributionToGlobal": 2.4988,
-      "color": "#ff9b85",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 1569,
-          "percentage": 6.28
-        },
-        "fuente-2": {
-          "total": 1904,
-          "percentage": 7.62
-        },
-        "fuente-3": {
-          "total": 264,
-          "percentage": 1.06
-        },
-        "fuente-4": {
-          "total": 1743,
-          "percentage": 6.98
-        },
-        "fuente-5": {
-          "total": 1174,
-          "percentage": 4.7
-        }
+    "zona-16": {
+      "fuente-1": {
+        "total": 2776,
+        "percentage": 11.11,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 4777,
+        "percentage": 19.12,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 3846,
+        "percentage": 15.39,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 4862,
+        "percentage": 19.46,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 1480,
+        "percentage": 5.92,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 17,
-      "name": "zona-17",
-      "goal": 43478,
-      "promoted": 16294,
-      "progress": 37.47642,
-      "contributionToGlobal": 1.6294,
-      "color": "#ff6f69",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 3251,
-          "percentage": 19.95
-        },
-        "fuente-2": {
-          "total": 1458,
-          "percentage": 8.95
-        },
-        "fuente-3": {
-          "total": 2792,
-          "percentage": 17.14
-        },
-        "fuente-4": {
-          "total": 568,
-          "percentage": 3.49
-        },
-        "fuente-5": {
-          "total": 2687,
-          "percentage": 16.49
-        }
+    "zona-17": {
+      "fuente-1": {
+        "total": 1204,
+        "percentage": 7.39,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 2940,
+        "percentage": 18.04,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 416,
+        "percentage": 2.55,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 2289,
+        "percentage": 14.05,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 1154,
+        "percentage": 7.08,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 18,
-      "name": "zona-18",
-      "goal": 43478,
-      "promoted": 21632,
-      "progress": 49.7539,
-      "contributionToGlobal": 2.1632,
-      "color": "#ee6055",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 2241,
-          "percentage": 10.36
-        },
-        "fuente-2": {
-          "total": 4079,
-          "percentage": 18.86
-        },
-        "fuente-3": {
-          "total": 2412,
-          "percentage": 11.15
-        },
-        "fuente-4": {
-          "total": 1931,
-          "percentage": 8.93
-        },
-        "fuente-5": {
-          "total": 3122,
-          "percentage": 14.43
-        }
+    "zona-18": {
+      "fuente-1": {
+        "total": 4231,
+        "percentage": 19.56,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 1510,
+        "percentage": 6.98,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 1569,
+        "percentage": 7.25,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 1910,
+        "percentage": 8.83,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 488,
+        "percentage": 2.26,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 19,
-      "name": "zona-19",
-      "goal": 43478,
-      "promoted": 20765,
-      "progress": 47.75979,
-      "contributionToGlobal": 2.0765,
-      "color": "#e76f51",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 420,
-          "percentage": 2.02
-        },
-        "fuente-2": {
-          "total": 4121,
-          "percentage": 19.85
-        },
-        "fuente-3": {
-          "total": 4032,
-          "percentage": 19.42
-        },
-        "fuente-4": {
-          "total": 1668,
-          "percentage": 8.03
-        },
-        "fuente-5": {
-          "total": 3076,
-          "percentage": 14.81
-        }
+    "zona-19": {
+      "fuente-1": {
+        "total": 4125,
+        "percentage": 19.87,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 3714,
+        "percentage": 17.89,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 1345,
+        "percentage": 6.48,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 2864,
+        "percentage": 13.79,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 3437,
+        "percentage": 16.55,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 20,
-      "name": "zona-20",
-      "goal": 43478,
-      "promoted": 9023,
-      "progress": 20.75302,
-      "contributionToGlobal": 0.9023,
-      "color": "#f29e4c",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 844,
-          "percentage": 9.35
-        },
-        "fuente-2": {
-          "total": 1632,
-          "percentage": 18.09
-        },
-        "fuente-3": {
-          "total": 802,
-          "percentage": 8.89
-        },
-        "fuente-4": {
-          "total": 974,
-          "percentage": 10.79
-        },
-        "fuente-5": {
-          "total": 190,
-          "percentage": 2.11
-        }
+    "zona-20": {
+      "fuente-1": {
+        "total": 214,
+        "percentage": 2.37,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 1383,
+        "percentage": 15.33,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 1369,
+        "percentage": 15.17,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 778,
+        "percentage": 8.62,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 267,
+        "percentage": 2.96,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 21,
-      "name": "zona-21",
-      "goal": 43478,
-      "promoted": 29081,
-      "progress": 66.8867,
-      "contributionToGlobal": 2.9081,
-      "color": "#f3722c",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 5511,
-          "percentage": 18.95
-        },
-        "fuente-2": {
-          "total": 2118,
-          "percentage": 7.28
-        },
-        "fuente-3": {
-          "total": 286,
-          "percentage": 0.98
-        },
-        "fuente-4": {
-          "total": 5615,
-          "percentage": 19.31
-        },
-        "fuente-5": {
-          "total": 1170,
-          "percentage": 4.02
-        }
+    "zona-21": {
+      "fuente-1": {
+        "total": 2695,
+        "percentage": 9.27,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 5420,
+        "percentage": 18.64,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 4330,
+        "percentage": 14.89,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 4636,
+        "percentage": 15.94,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 2860,
+        "percentage": 9.83,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 22,
-      "name": "zona-22",
-      "goal": 43478,
-      "promoted": 12818,
-      "progress": 29.48158,
-      "contributionToGlobal": 1.2818,
-      "color": "#f9844a",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 2317,
-          "percentage": 18.08
-        },
-        "fuente-2": {
-          "total": 506,
-          "percentage": 3.95
-        },
-        "fuente-3": {
-          "total": 2319,
-          "percentage": 18.09
-        },
-        "fuente-4": {
-          "total": 2053,
-          "percentage": 16.02
-        },
-        "fuente-5": {
-          "total": 2315,
-          "percentage": 18.06
-        }
+    "zona-22": {
+      "fuente-1": {
+        "total": 2325,
+        "percentage": 18.14,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 2271,
+        "percentage": 17.72,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 541,
+        "percentage": 4.22,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 1411,
+        "percentage": 11.01,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 504,
+        "percentage": 3.93,
+        "source": "fuente-5"
       }
     },
-    {
-      "id": 23,
-      "name": "zona-23",
-      "goal": 43478,
-      "promoted": 31851,
-      "progress": 73.25774,
-      "contributionToGlobal": 3.1851,
-      "color": "#f8961e",
-      "incomeTable": {
-        "fuente-1": {
-          "total": 1772,
-          "percentage": 5.56
-        },
-        "fuente-2": {
-          "total": 969,
-          "percentage": 3.04
-        },
-        "fuente-3": {
-          "total": 4020,
-          "percentage": 12.62
-        },
-        "fuente-4": {
-          "total": 1583,
-          "percentage": 4.97
-        },
-        "fuente-5": {
-          "total": 4426,
-          "percentage": 13.9
-        }
+    "zona-23": {
+      "fuente-1": {
+        "total": 2942,
+        "percentage": 9.24,
+        "source": "fuente-1"
+      },
+      "fuente-2": {
+        "total": 5798,
+        "percentage": 18.2,
+        "source": "fuente-2"
+      },
+      "fuente-3": {
+        "total": 1850,
+        "percentage": 5.81,
+        "source": "fuente-3"
+      },
+      "fuente-4": {
+        "total": 6261,
+        "percentage": 19.66,
+        "source": "fuente-4"
+      },
+      "fuente-5": {
+        "total": 281,
+        "percentage": 0.88,
+        "source": "fuente-5"
       }
     }
-  ],
-  "meta": {
-    "totalPromoted": 410145,
-    "totalcontributionToGlobal": 41.01449999999999
   }
 }

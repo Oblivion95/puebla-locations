@@ -9,10 +9,7 @@ const IncomeController = require("../services/income.service");
 const getZonesIncomes = (req, res) => {
   return {
     status: 200,
-    data: {
-      data: incomesByZone.db,
-      meta: incomesByZone.meta,
-    },
+    data: incomesByZone.db,
     message: "Success",
   };
 };

@@ -22,6 +22,7 @@ module.exports.generateIncomesByZone = () => {
         [curr]: {
           total: incomeSourceTotal,
           percentage: +((incomeSourceTotal / total) * 100).toFixed(2),
+          source: curr
         },
       };
     }, {});
@@ -32,5 +33,12 @@ module.exports.generateIncomesByZone = () => {
     };
   });
 
-  return { db: result, meta };
+  const _result = result.reduce((acc, curr) => {
+    return {
+      ...acc,
+      [curr.name]: curr.incomeTable,
+    }
+  }, {});
+
+  return { db: _result };
 };

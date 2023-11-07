@@ -33,9 +33,7 @@ const getCountyZones = async (req, res) => {
   const [countyStats] = counties[zone].db.filter((c) => c.name === county);
   const zipCodes = await getZipCodes(county);
 
-  const sections = {};
-
-  sections.data = Array.from({ length: zipCodes.length }, (_, index) => {
+  const sections = Array.from({ length: zipCodes.length }, (_, index) => {
     const promoted = faker.number.int({
       min: 10,
       max: countyStats.goal * 0.4 | 0,
@@ -65,12 +63,12 @@ const getCountyZones = async (req, res) => {
         };
       }, {}),
     }
-  });
-
-  sections.meta = {
-    totalPromoted: sections.data.reduce((acc, curr) => acc + curr.promoted, 0),
-    totalContributionToGlobal: sections.data.reduce((acc, curr) => acc + curr.contributionToGlobal, 0),
-  }
+  }).reduce((acc, curr) => {
+    return {
+      ...acc,
+      [curr.name]: curr.incomeTable,
+    }
+  }, {});
 
   return sections;
 };
