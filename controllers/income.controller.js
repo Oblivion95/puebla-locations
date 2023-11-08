@@ -45,8 +45,15 @@ const getCountyZones = async (req, res) => {
   return { data: countyZones, status: 200, message: "Success" };
 };
 
+const getSources = () => {
+  const resp = IncomeController.getSources();
+
+  return { data: resp, status: 200, message: "Success" };
+}
+
 module.exports = {
   getZoneCounties,
   getCountyZones,
   getZonesIncomes,
+  getSources,
 };

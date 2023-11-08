@@ -75,8 +75,15 @@ const getCountyZones = async (req, res) => {
   return sections;
 };
 
+const getSources = () => {
+  const data = require("../constants/income-data.json");
+
+  return data;
+}
+
 module.exports = {
   getZoneCounties,
   getCountyZones,
   getZonesIncomes,
+  getSources,
 };

@@ -1,0 +1,76 @@
+{
+  "incomeSources": [
+    {
+      "source": "fuente-1"
+    },
+    {
+      "source": "fuente-2"
+    },
+    {
+      "source": "fuente-3"
+    },
+    {
+      "source": "fuente-4"
+    },
+    {
+      "source": "fuente-5"
+    }
+  ],
+  "incomes": {
+    "fuente-1": {
+      "source": "fuente-1",
+      "total": 325857,
+      "sources": {
+        "fuente-1": 11057,
+        "fuente-2": 30169,
+        "fuente-3": 7780,
+        "fuente-4": 32112,
+        "fuente-5": 9545
+      }
+    },
+    "fuente-2": {
+      "source": "fuente-2",
+      "total": 318514,
+      "sources": {
+        "fuente-1": 13735,
+        "fuente-2": 30170,
+        "fuente-3": 16604,
+        "fuente-4": 656,
+        "fuente-5": 33487
+      }
+    },
+    "fuente-3": {
+      "source": "fuente-3",
+      "total": 396340,
+      "sources": {
+        "fuente-1": 6075,
+        "fuente-2": 6764,
+        "fuente-3": 13422,
+        "fuente-4": 16557,
+        "fuente-5": 24568
+      }
+    },
+    "fuente-4": {
+      "source": "fuente-4",
+      "total": 140952,
+      "sources": {
+        "fuente-1": 28549,
+        "fuente-2": 7438,
+        "fuente-3": 29024,
+        "fuente-4": 33289,
+        "fuente-5": 24637
+      }
+    },
+    "fuente-5": {
+      "source": "fuente-5",
+      "total": 121930,
+      "sources": {
+        "fuente-1": 26017,
+        "fuente-2": 31740,
+        "fuente-3": 15718,
+        "fuente-4": 24804,
+        "fuente-5": 9775
+      }
+    }
+  }
+}
