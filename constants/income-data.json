@@ -16,61 +16,241 @@
       "source": "fuente-5"
     }
   ],
-  "incomes": {
-    "fuente-1": {
-      "source": "fuente-1",
-      "total": 325857,
-      "sources": {
-        "fuente-1": 11057,
-        "fuente-2": 30169,
-        "fuente-3": 7780,
-        "fuente-4": 32112,
-        "fuente-5": 9545
-      }
+  "incomes": [
+    {
+      "sets": [
+        "fuente-1"
+      ],
+      "total": 6977
     },
-    "fuente-2": {
-      "source": "fuente-2",
-      "total": 318514,
-      "sources": {
-        "fuente-1": 13735,
-        "fuente-2": 30170,
-        "fuente-3": 16604,
-        "fuente-4": 656,
-        "fuente-5": 33487
-      }
+    {
+      "sets": [
+        "fuente-1",
+        "fuente-2"
+      ],
+      "total": 13469
     },
-    "fuente-3": {
-      "source": "fuente-3",
-      "total": 396340,
-      "sources": {
-        "fuente-1": 6075,
-        "fuente-2": 6764,
-        "fuente-3": 13422,
-        "fuente-4": 16557,
-        "fuente-5": 24568
-      }
+    {
+      "sets": [
+        "fuente-1",
+        "fuente-2",
+        "fuente-3"
+      ],
+      "total": 39387
     },
-    "fuente-4": {
-      "source": "fuente-4",
-      "total": 140952,
-      "sources": {
-        "fuente-1": 28549,
-        "fuente-2": 7438,
-        "fuente-3": 29024,
-        "fuente-4": 33289,
-        "fuente-5": 24637
-      }
+    {
+      "sets": [
+        "fuente-1",
+        "fuente-2",
+        "fuente-3",
+        "fuente-4"
+      ],
+      "total": 22115
     },
-    "fuente-5": {
-      "source": "fuente-5",
-      "total": 121930,
-      "sources": {
-        "fuente-1": 26017,
-        "fuente-2": 31740,
-        "fuente-3": 15718,
-        "fuente-4": 24804,
-        "fuente-5": 9775
-      }
+    {
+      "sets": [
+        "fuente-1",
+        "fuente-2",
+        "fuente-3",
+        "fuente-4",
+        "fuente-5"
+      ],
+      "total": 5049
+    },
+    {
+      "sets": [
+        "fuente-1",
+        "fuente-2",
+        "fuente-3",
+        "fuente-5"
+      ],
+      "total": 30621
+    },
+    {
+      "sets": [
+        "fuente-1",
+        "fuente-2",
+        "fuente-4"
+      ],
+      "total": 6261
+    },
+    {
+      "sets": [
+        "fuente-1",
+        "fuente-2",
+        "fuente-4",
+        "fuente-5"
+      ],
+      "total": 39555
+    },
+    {
+      "sets": [
+        "fuente-1",
+        "fuente-2",
+        "fuente-5"
+      ],
+      "total": 20808
+    },
+    {
+      "sets": [
+        "fuente-1",
+        "fuente-3"
+      ],
+      "total": 16573
+    },
+    {
+      "sets": [
+        "fuente-1",
+        "fuente-3",
+        "fuente-4"
+      ],
+      "total": 2688
+    },
+    {
+      "sets": [
+        "fuente-1",
+        "fuente-3",
+        "fuente-4",
+        "fuente-5"
+      ],
+      "total": 17156
+    },
+    {
+      "sets": [
+        "fuente-1",
+        "fuente-3",
+        "fuente-5"
+      ],
+      "total": 4938
+    },
+    {
+      "sets": [
+        "fuente-1",
+        "fuente-4"
+      ],
+      "total": 6895
+    },
+    {
+      "sets": [
+        "fuente-1",
+        "fuente-4",
+        "fuente-5"
+      ],
+      "total": 51638
+    },
+    {
+      "sets": [
+        "fuente-1",
+        "fuente-5"
+      ],
+      "total": 42916
+    },
+    {
+      "sets": [
+        "fuente-2"
+      ],
+      "total": 42233
+    },
+    {
+      "sets": [
+        "fuente-2",
+        "fuente-3"
+      ],
+      "total": 37239
+    },
+    {
+      "sets": [
+        "fuente-2",
+        "fuente-3",
+        "fuente-4"
+      ],
+      "total": 1511
+    },
+    {
+      "sets": [
+        "fuente-2",
+        "fuente-3",
+        "fuente-4",
+        "fuente-5"
+      ],
+      "total": 35940
+    },
+    {
+      "sets": [
+        "fuente-2",
+        "fuente-3",
+        "fuente-5"
+      ],
+      "total": 27097
+    },
+    {
+      "sets": [
+        "fuente-2",
+        "fuente-4"
+      ],
+      "total": 41422
+    },
+    {
+      "sets": [
+        "fuente-2",
+        "fuente-4",
+        "fuente-5"
+      ],
+      "total": 25618
+    },
+    {
+      "sets": [
+        "fuente-2",
+        "fuente-5"
+      ],
+      "total": 20474
+    },
+    {
+      "sets": [
+        "fuente-3"
+      ],
+      "total": 43195
+    },
+    {
+      "sets": [
+        "fuente-3",
+        "fuente-4"
+      ],
+      "total": 35341
+    },
+    {
+      "sets": [
+        "fuente-3",
+        "fuente-4",
+        "fuente-5"
+      ],
+      "total": 14657
+    },
+    {
+      "sets": [
+        "fuente-3",
+        "fuente-5"
+      ],
+      "total": 28926
+    },
+    {
+      "sets": [
+        "fuente-4"
+      ],
+      "total": 52673
+    },
+    {
+      "sets": [
+        "fuente-4",
+        "fuente-5"
+      ],
+      "total": 2320
+    },
+    {
+      "sets": [
+        "fuente-5"
+      ],
+      "total": 15368
     }
-  }
+  ]
 }
