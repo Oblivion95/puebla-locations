@@ -2,24 +2,20 @@ const getZipCodes = require("../utils/get-zc-by-county");
 const { extractJSONByZipCode } = require("../utils/extract-zip-code");
 const colors = require("../constants/colors.json");
 
-const zones = require('../constants/puebla-counties-by-zone.json')
-
 const getStateZones = async (req, res) => {
   const fetch = (await import("node-fetch")).default;
 
-  // const zones = await fetch(
-  //   "https://firebasestorage.googleapis.com/v0/b/puebla-locations.appspot.com/o/puebla-counties-by-zone.json?alt=media&token=a0f859b6-afd7-4baf-a5be-9141d7e9eb0f&_gl=1*1ifcmk7*_ga*NTc0NDA4OTI5LjE2OTE4ODIwNzc.*_ga_CW55HF8NVT*MTY5NzU4NzI5Mi4zMC4xLjE2OTc1ODc2NTcuNDIuMC4w"
-  // );
+  const zones = await fetch(
+    "https://demo.votos.online/puebla-counties-by-zone.json"
+  );
 
-  // return zones.json();
-
-  return zones;
+  return zones.json();
 };
 
 const getZoneCounties = async (req) => {
   let { zone } = req.params;
 
-  // const zones = await getStateZones();
+  const zones = await getStateZones();
 
   const result = zones.filter((z) => z.zone === zone);
   const { length: colorsLength } = colors;
