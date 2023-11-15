@@ -46,7 +46,16 @@ const getZonePopulationByAge = async (req, res) => {
 const getCountyPopulation = async (req, res) => {
   const { county } = req.params;
 
+  const resp = await populationByAgeController.getCountyPopulation(req, res);
 
+  return {
+    status: 200,
+    message: "Success",
+    data: {
+      data: resp.population,
+      meta: resp.total,
+    },
+  };
 };
 
 module.exports = {

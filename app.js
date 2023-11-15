@@ -42,7 +42,7 @@ const apiRoutes = require("./routes/api");
 const port = 3001;
 
 app.use(express.json());
-app.use(cors());
+app.use(cors({ origin: true }));
 
 app.use("/api", apiRoutes);
 app.use("/maps", mapRoutes);
